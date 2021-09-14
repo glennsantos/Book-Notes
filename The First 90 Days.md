@@ -1029,3 +1029,96 @@ Adjust for Virtual Teams
 
 the break-even point—when the energy the team creates is greater than the energy you need to put into it
 
+----
+
+Start early. 
+Discipline yourself to invest in building up “relationship bank accounts” with people you anticipate needing to work with later
+> including peers, and those in other departments
+
+**Defining Your Influence Objectives**
+1. Think about the alliances you need to build
+2. drill down and figure out whose support is essential
+3. how you will secure it
+
+Alliance-building plan
+
+1. Identifying influential players
+
+2. Win and Block Alliances
++ winning alliances—the set of people who collectively have the power to support your agenda
++ blocking alliances—those who collectively have the power to say no
+
+3. Map Influence Networks - who influences whom on the issues of concern
+   + Influence networks are channels for communication and persuasion that operate in parallel with the formal structure
+   + identifying the key points of contact between your organization and others
+   + Customers and suppliers, within the business and outside, are natural focal points for alliance building
+   + get your boss to connect you to key stakeholders
+   + observe carefully in meetings and other interactions to see who defers to whom on crucial issues
+
+sources of power
+   * Expertise
+   * Control of information
+   * Connections to others
+   * Access to resources, such as budgets and rewards
+   * Personal loyalty
+
+power coalitions: groups of people who explicitly or implicitly cooperate over the long term to pursue certain goals or protect certain privileges
+
+4. Draw Influence Diagrams
+   + encircle winning  alliances
+   + box blocking alliances
+   + draw arrows to show who influences who and how much
+   + label status wrt your issue
+
+5. Identify Supporters, Opponents, and Persuadables
+   * supporters: build alliances of convenience
+        + pushed for similar changes
+        + doing small changes on their own
+        + new personnel
+
+   * opposition
+        + position may be undermined
+        + threaten to change established relationships
+        + lose face if they cannot adapt to your change
+        + change will go against their perceived company values
+        + will reward inappropriate behavior (ex consensus seeking vs patronage)
+        + threat to power
+        + affect allies negatively
+    When you meet resistance, probe for the reasons behind it before labeling people as implacably opposed
+
+    * persuadables
+        + indifferent - convinced via quid pro quo
+        + undecided - convinced via education, persuation
+        + uncommitted - convinced via best interests
+
+6. Understanding Pivotal People
++ assess their intrinsic motivators
++ engage them directly in dialogue, ask questions and engage in active listening
++ assess situational pressures: the driving and restraining forces acting on them
++ think about how key people perceive their alternatives or choices
++ convince them that the status quo is no longer a viable option
+
+7. Crafting Influence Strategies
+   + **Consultation** promotes buy-in, engaging in active listening
+   + **Framing** means carefully crafting your persuasive arguments on a person-by-person basis
+        * Logos - persuade via data
+        * Ethos - persuade via values, rules
+        * Pathos - persuade via emotional appeals
+        * Focus and repetition are effective because we learn through repetition
+        * inoculate people against counterarguments
+  + **Choice-shaping** is about influencing how people perceive their alternatives
+  + **Social influence** is the impact of the opinions of others and the rules of the societies in which they live
+        * convincing opinion leaders to commit can have a powerful leveraging effect
+        * help them remain consistent with: 
+            > strongly held internal beliefs
+            > prior commitments
+            > reputation
+        * support their efforts to trigger reciprocity
+        * use Incrementalism
+            > Getting people involved in shared diagnosis of organizational problems is a form of incrementalism:
+            > Once there is agreement on the problem, you can shift to defining the options and then the criteria that will be used to evaluate them
+
+early success in shaping the process can have a big impact on the eventual outcome
+   + **Sequencing means** being strategic about the order in which you seek to influence people to build momentum in desired directions
+   + **Action-forcing** events get people to stop deferring decisions, delaying, and avoiding commitment of scarce resources >> eliminate inaction as an option
+   + 

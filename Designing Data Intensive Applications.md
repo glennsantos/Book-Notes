@@ -685,18 +685,3 @@ two operations are concurrent if neither happens before the other (i.e., neither
 Version vectors: collection of version numbers
 > use a version number per replica as well as per key
 
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-

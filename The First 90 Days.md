@@ -1029,9 +1029,3 @@ Adjust for Virtual Teams
 
 the break-even point—when the energy the team creates is greater than the energy you need to put into it
 
-
-
-
-.
-
-

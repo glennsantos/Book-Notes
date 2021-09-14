@@ -618,6 +618,7 @@ star topology / tree
 • To prevent infinite replication loops, each node is given a unique identifier. if change = own id, ignored
 - one node failure = write failure
 
+
 𝗟𝗲𝗮𝗱𝗲𝗿𝗹𝗲𝘀𝘀 𝗥𝗲𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
 > allowing any replica to directly accept writes from clients
 • used for Dynamo-style dbs

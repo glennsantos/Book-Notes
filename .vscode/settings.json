@@ -15,5 +15,7 @@
     "titleBar.inactiveBackground": "#340a0a99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#340a0a"
+  "peacock.color": "#340a0a",
+  "editor.fontSize": 26,
+  "editor.fontFamily": "'Roboto',  'Roboto Regular', 'Helvetica Neue', 'Helvetica', 'Arial','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
 }

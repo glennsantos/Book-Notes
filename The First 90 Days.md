@@ -1121,4 +1121,76 @@ power coalitions: groups of people who explicitly or implicitly cooperate over t
 early success in shaping the process can have a big impact on the eventual outcome
    + **Sequencing means** being strategic about the order in which you seek to influence people to build momentum in desired directions
    + **Action-forcing** events get people to stop deferring decisions, delaying, and avoiding commitment of scarce resources >> eliminate inaction as an option
-   + 
+
+----
+
+managing yourself is a key transition challenge
+
+1. take stock of how you’re feeling about how things are going in your transition right now
+* how do you feel about the move
+* what's bothering you about the change
+* what do you think you'd do differently
+
+It’s common for leaders to go into a valley three to six months after taking a new role
+
+transitions tend to amplify your weaknesses
+
+potentially dysfunctional behaviors
+- pushover: not defining what you are willing and not willing to do
+- brittleness: overcommitment to failing courses of action
+- isolation: don’t take time to make the right connections, unintentionally discourage people from sharing critical information
+- work avoidance: choose to delay by burying yourself in other work. results in tough problems becoming even tougher.
+
+Yerkes-Dodson human performance curve
+/home/aryeh/Documents/Books/Book Notes/Yerkes-Dodson human performance curve.png
+> Pressure is directly correlated to performance, up to a point.
+
+**Pillar 1: Adopt 90-Day Strategies**
+
++ Prepare yourself. Adopt right mindset
++ Accelerate your learning.
++ Match your strategy to the situation i.e. STARS
++ Negotiate success. Build relationship with boss, build resources
++ Secure early wins. Those that advance long term goals and build momentum
++ Achieve alignment. Fix misalignments of strategy, structure, systems, and skills
++ Build your team. Align team with goals
++ Create alliances. Build support for goals
+
+**Pillar 2: Develop Personal Disciplines**
+
++ Plan to Plan. devote time daily and weekly to a plan-work-evaluate cycle
++ Focus on the Important. 
++ Judiciously Defer Commitment "Let me think about it and get back to you." Begin with no; it’s easy to say yes later.
++ Go to the Balcony. stand back, take stock from fifty thousand feet, and then make productive interventions
++ Check In with Yourself. engage in structured reflection about your situation. setting aside time each week to assess how things are going.
++ Recognize When to Quit. Work hard at recognizing when you’re at the point of diminishing returns,
+
+**Pillar 3: Build Your Support Systems**
+
++ Assert Control Locally. set up the office, develop work routines, setup temporary systems
++ Stabilize the Home Front. focus on accelerating the family transition. work through the sense of loss together.
+     * Do a support-system inventory, identify priorities, and invest in finding replacements quickly.
+     * negotiate up front with your company for job-search support
+     * or find such support shortly after moving.
+     * Consider waiting until the end of the school year to move your family.
+     * be sure that your spouse has extra support to help ease the burden
+     * Reestablish familiar family rituals as quickly as possible
+     * get professional advice about the cross-cultural transition.
+     * Tap into your company’s relocation service, if it has one, as soon as possible. 
++ Build Your Advice-and-Counsel Network. Seek out people who are well connected and whom you can trust to help you grasp what is really going on.
+    * get technical advisers: expert analysis on technology, markets
+    * get cultural interpreters: understands the cultural norms, mental models, assumptions
+    * get political counselors: implement technical advise, deal with political relationships, sounding board
+    * get both internal and external advisors.
+    * should be skilled at listening and asking questions, have good insight into the way organizations work, and have your best interests at heart.
+
+As you attain higher levels of responsibility, for example, the need for good political counsel typically increases dramatically.
+
++ Staying on Track
+
+
+----
+
+
+
+

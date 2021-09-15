@@ -1186,11 +1186,80 @@ Yerkes-Dodson human performance curve
 
 As you attain higher levels of responsibility, for example, the need for good political counsel typically increases dramatically.
 
-+ Staying on Track
-
 
 ----
 
+if you can help everyone get up to speed faster, the business will be more nimble and responsive
 
+1. Identify the Critical Transitions
+> understand how many transitions are occurring in your organization
+> focus first on accelerating the most important
++ leaders at this level should participate in transition workshops within their first 60 days
++ know what the mix is
++ tailor the support you’re providing
++ focus on critical transitions
++ may need to address culture change
 
+2. Diagnose Existing Transition Support
 
+**designing a companywide acceleration system**
+    1. assess the status of your company’s existing acceleration support frameworks and tools.
+    2. Examine the approaches your organization currently uses to deliver transition support 
+    3. Evaluate the associated costs and benefits
+    4. Assess the overall coherence of your organization’s approach
+    5. Identify the key stakeholders
+    6. Assess the adequacy of your company’s HR information systems
+
+3. Adopt a Common Core Model
+
+Can freely discuss
+> STARS portfolio of challenges
+> technical, cultural, and political learnings
+> key elements of their learning plan
+> progress in the five conversations
+> agreed-upon priorities and plans to secure early wins
+> alliances they need to build
+
++ conversations will happen that wouldn’t have happened otherwise. 
++ more likely to share confidences and information
++ more tolerant of others’ transition struggles
+
+4. Deliver Support Just in Time
++ Early on, support for accelerating learning—technical, cultural, and political—is key
++ As the leader’s understanding grows, the focus of support should shift to helping him define strategic direction
++ leaders need to be offered transition support in digestible blocks
++ providing them with key documents and tools that help them plan their early diagnostic activities
++ helping them connect with key stakeholders as early as possible.
++ have transition coaches engage in preentry diagnosis
+
+Acceleration systems should therefore be designed to help new leaders get the maximum possible benefit from whatever preentry time is available to them.
+
+5. Use Structured Processes
+> transition processes also need to have action-forcing events
++ create a series of focused events
+
+6. Match Support to Transition Type
+> Promotion
++ understand what success looks like at the new level, 
++ assess themselves, and 
++ create a personal development plan.
+> Onboarding
++ helping them understand what it takes to get things done
++ assistance in identifying and connecting with key stakeholders 
+
+7. Match Transition Support to Leader Level
+> makes sense to provide them with transition coaching
+> a thorough knowledge of the organization and its culture is a prerequisite for effectiveness
++ identify alternative modes for delivering transition support
++ assess the relative costs and benefits of the support
++ match its delivery mode and extent to key levels in the company’s leadership pipeline
+
+8. Clarify Roles and Align Incentives
+> Transition support is a team sport.
++ allow bosses and other key players to be highly focused and efficient in supporting their new direct reports
++ HR generalists helping them navigate the new culture.
+
+9. Integrate with Other Talent Management Systems
+> integrate recruiting and onboarding
+- hiring people because they have a needed set of capabilities and not paying enough attention to fit
+- be thoughtful about the trade-offs between individual capabilities and cultural fit

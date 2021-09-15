@@ -685,3 +685,88 @@ two operations are concurrent if neither happens before the other (i.e., neither
 Version vectors: collection of version numbers
 > use a version number per replica as well as per key
 
+----
+
+partitions are defined in such a way that each piece of data (each record, row, or document) belongs to exactly one partition
+> each partition is a small database of its own
+> A node may store more than one partition.
+> Each node may be the leader for some partitions and a follower for other partitions.
++ a large dataset can be distributed across many disks
++ query load can be distributed across many processors.
+
+skewed: unfair distribution of work across partitions
+hot spot: a partition with extremely high load
+
+**Partitioning by Key Range**
+> like the volumes of a paper encyclopedia
++ Within each partition, we can keep keys in sorted order >> range scans are easy
+- certain access patterns can lead to hot spots
++ balance by using keys for each input device (by user, by device, etc) instead of by timestamp
+
+**Partitioning by Hash of Key**
+> use a hash function to determine the partition for a given key.
++ the hash function need not be cryptographically strong
++ consistent hashing / hash partitioning: chosen pseudorandomly, uses randomly chosen partition boundaries to avoid the need for central control or distributed consensus
+  - range scans are harder
+  + concatenated index: columns are used as a concatenated index for sorting the data
+
+secondary indexes don’t map neatly to partitions
+*document-based partitioning / local index*
+> each partition maintains its own secondary indexes, covering only the documents in that partition
++ CRUD only in partition with secondary index
+- you need to send the query to all partitions (scatter/gather)
++ Most database vendors recommend that you structure your partitioning scheme so that secondary index queries can be served from a single partition
+
+*term-based partitioning / global index*
+> term we’re looking for determines the partition of the index
+> partition the index by the term itself, or using a hash of the term
++ can make reads more efficient
+- writes are slower and more complicated
+
+rebalancing: moving load from one node in the cluster to another
+> when adding more CPUs for better load handling
+> when adding more disks for increased data
+> when machines need to be replaced.
+
+after rebalancing:
++ load should be distributed fairly
++ database should not lock during rebalancing
++ only minimal data is moved via rebalancing
+
+strategies
+1. fixed number of partitions
+> create many more partitions than there are nodes, and assign several partitions to each node.
++ if a node is added to the cluster, the new node can steal a few partitions from every existing node
++ Only entire partitions are moved between nodes.
+- the number of partitions is usually fixed when the database is first set up and not changed afterward
+- each partition also has management overhead (minimize number of partitions to mitigate)
+
+2. Dynamic partitioning
+> split into two partitions so that approximately half of the data ends up on each side of the split
+> partition shrinks below some threshold, it can be merged with an adjacent partition
+> Each partition is assigned to one node, and each node can handle multiple partitions
+- an empty database starts off with a single partition
+
+3. Partitioning proportionally to nodes
+> make the number of partitions proportional to the number of nodes
+> fixed number of partitions per node
++ keeps the size of each partition fairly stable
+
+**Fully automated rebalancing**
++ convenient
+- unpredictable
+- can overload the network or the nodes
+- harm the performance of other requests while in progress
+- potentially causing a cascading failure if in combination with automatic failure detection
+solution: have manual approvals
+
+service discovery solutions (finding the right  node to connect to)
+1. Allow clients to contact any node.
+2. route first to a routing tier /partition-aware load balancer to determine the node
+3. Require that clients be aware of the partitioning and the assignment of partitions to nodes.
++ Many distributed data systems rely on a separate coordination service (ex Zookeeper) to keep the client / balancer aware of node changes
+
+gossip protocol: nodes to disseminate any changes in cluster state
+> node forwards them to the appropriate node for the requested partition
+- more complexity
++ avoids the dependency on an external coordination service

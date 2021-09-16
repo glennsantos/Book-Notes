@@ -1,12 +1,95 @@
 TODOS
+[✅] Summarize the notes
 [ ] Fill out Transition Risk Assessment
 [ ] Create rough 90 day plan
 [ ] Create plans for boss convos
+[ ] Review EM Event loop and add to calendar (/home/aryeh/Documents/Books/Book Notes/emloop.jpeg)
 
-GOALS
-1. Learn how org works
-2. Secure early wins
-3. Create coalitions
+
+MAIN TAKEAWAYS
+
+𝟵𝟬-𝗗𝗮𝘆 𝗚𝗼𝗮𝗹𝘀
+Get as rapidly as possible to the break-even point by:
+🔍 Learning how the org works.
+🎖️ Securing early wins.
+🛡️ Build alliances.
+
+𝘓𝘦𝘢𝘥𝘦𝘳𝘴𝘩𝘪𝘱 𝘶𝘭𝘵𝘪𝘮𝘢𝘵𝘦𝘭𝘺 𝘪𝘴 𝘢𝘣𝘰𝘶𝘵 𝘪𝘯𝘧𝘭𝘶𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘦.
+
+𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗹𝗮𝗻
+1. Learn The Business. How the strategy, products and processes work together.
+2. Learn The Stakeholders. Who are the key people in the company?
+3. Learn The Expectations. Not just formal goals, but also what other expect from you.
+4. Learn The Culture. How relationships in the company flow.
+5. Learn The People. Your boss, peers and direct reports.
+
+𝗦𝗧𝗔𝗥𝗦: the current business phase of your org / business unit
+Startup 🌱
+Turnaround 🍂
+Accelerated Growth 🌿
+Realignment 🍃
+Sustaining Success 🌳
+> Keep this in mind when solving strategy, structure, systems and skills issues
+
+Leader-types:
+🥋 𝗛𝗲𝗿𝗼𝗲𝘀
+- Leads decisively with boldness
+👘 𝗦𝗲𝗿𝘃𝗮𝗻𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀
+- Leads diplomatically with cooperation
+> You need a mix of both types of leaders in your team.
+
+𝗧𝗵𝗲 𝗙𝗶𝘃𝗲 𝗖𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻𝘀
+1. STARS Diagnosis Conversation
+2. Expectations Conversation
+3. Working Style Conversation
+4. Resource Gathering Conversation
+5. Personal Development Conversation
+> Plan to initiate each of these conversations during your first 90-days.
+
+🌟 𝗘𝗮𝗿𝗹𝘆 𝗪𝗶𝗻 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀...
++ Build towards long-term business goals.
++ Aligns with your boss' goals
++ Are consistent with company ethics and culture.
++ Take into account the STARS phase
++ Are quick and not costly to implement
++ Are visible to stakeholders
++ Provide substantial gains
+
+𝗛𝗼𝘄 𝘁𝗼 𝗠𝗮𝗸𝗲 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀
+𝘊𝘰𝘯𝘴𝘶𝘭𝘵-𝘢𝘯𝘥-𝘋𝘦𝘤𝘪𝘥𝘦
+* Solicit information and advice from direct reports and reserve the right to make the final call.
+Use when...
++ The outcome will be highly divisive so leader takes flak if needed.
++ Team is inexperienced and/or needs strong leaders
+
+𝘉𝘶𝘪𝘭𝘥 𝘊𝘰𝘯𝘴𝘦𝘯𝘴𝘶𝘴
+* Seek information, analysis and strong buy-in from the group for any decision.
+Use when...
++ Solution needs energetic implementation from remote staff ex. onsite sales team
++ Team has smart and responsible team members.
+
+🏰 𝗔𝗹𝗹𝗶𝗮𝗻𝗰𝗲-𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝗻
+1. Identify influential players.
+2. Identify winning and blocking alliances among the players.
+3. Map influence networks and power coalitions.
+4. Draw influence diagrams of these relationships.
+5. Identify supporters, opponents, persuadables.
+6. Understand pivotal people.
+7. Craft influence strategies.
+
+𝗕𝘂𝗶𝗹𝗱 𝗬𝗼𝘂𝗿 𝗔𝗱𝘃𝗶𝗰𝗲-𝗮𝗻𝗱-𝗖𝗼𝘂𝗻𝘀𝗲𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸. 
+> Seek out people who are well connected and whom you can trust to help you grasp what is really going on.
+🧑‍🔬 Technical Advisers, like marketing managers, tech leads
+🧑‍🎨 Cultural Interpreters, like HR managers, admin staff
+🧑‍⚖️ Political counselors, like directors, your boss.
+
+𝗘𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵 𝘆𝗼𝘂𝗿 𝗽𝗶𝗹𝗹𝗮𝗿𝘀
+Pillar 1: Adopt 90-Day Strategies
+Pillar 2: Develop Personal Disciplines
+Pillar 3: Build Your Support Systems
+
+
+---
 
 major transitions per leader:one every 1.3 years.
 
@@ -424,7 +507,7 @@ goal: share performance so far
 
 For multiple bosses:
 1. Bias to the one with most power
-2. Get consensus with them both.
+2. Get consensus with them all.
 
 Remote boss
 + schedule calls and meetings
@@ -592,7 +675,7 @@ Plan-then-implement when there is:
 + ability to plan it properly
 + have support from above
 
-If conditions are not met, first create the ideal condition by collectove learning
+If conditions are not met, first create the ideal condition by collective learning
 + share ideas
 + share research
 + benchmark processes
@@ -625,8 +708,7 @@ Common pitfalls:
 - Making changes for change’s sake.
 - Not adjusting for the STARS situation. 
 - Trying to restructure your way out of deeper problems
-- Creating structures that are too complex.
-> Strive, where possible, for clear lines of accountability.
+- Creating structures that are too complex. Strive, where possible, for clear lines of accountability.
 - Overestimating your organization’s capacity to absorb change
 
 To design (or redesign) your organization, start by thinking of it as an open system.
@@ -658,17 +740,21 @@ Misalignments between structure and skills
 1. Begin with strategic direction.
 + are we clear on the direction?
 + how does the unit fit into this direction?
+
 2. Look at supporting structure, processes, and skills.
-+ do these thing support the direction?
++ do these things support the direction?
 + how do we align them if not?
+
 3. Decide how and when you will introduce the new strategic direction
 + do we shift direction?
 + what do we change?
 + what timeframe?
+
 4. Think through the correct sequencing. 
 + what actions fit the STARS of the company?
 > turnarounds: fix strategy > align structure > fix processes and skills
 > realignment: fix processes and skills
+
 5. Close the loop.
 + what is the org's capacity for change
 + what changes are needed still?
@@ -697,6 +783,7 @@ Commitments
 + what resource commitments do we have?
 + which ones can we wind down?
 
+----
 
 𝗖𝗼𝗵𝗲𝗿𝗲𝗻𝗰𝗲
 + Use second order thinking to discover potential pitfalls
@@ -746,7 +833,7 @@ Are the pieces out of tune or in harmony?
 - Does the grouping assist the mission?
 - Are the reporting relationships aligning effort and accountability?
 - Are the decisions made the right way?
-- Are we rewarding those who work towaards the goals?
+- Are we rewarding those who work towards the goals?
 
 Trade offs
 

@@ -873,8 +873,6 @@ Rules:
 
 > Seeing the database in a partially updated state is confusing to users and may cause other transactions to take incorrect decisions.
 
-
-
 𝘂𝘀𝗶𝗻𝗴 𝗿𝗼𝘄-𝗹𝗲𝘃𝗲𝗹 𝗹𝗼𝗰𝗸𝘀
 > hold that lock until the transaction is committed or aborted.
 > Only one transaction can hold the lock for any given object
@@ -892,6 +890,9 @@ solution: 𝗦𝗻𝗮𝗽𝘀𝗵𝗼𝘁 𝗜𝘀𝗼𝗹𝗮𝘁𝗶𝗼𝗻 
 > each transaction reads from a consistent snapshot of the database [all the data that was committed in the database at the start of the transaction]
 > typically use write locks
 > readers never block writers, and writers never block readers
++ fixes read skew
++ fixes most lost updates
++ fixes phantom reads
 
 **multi-version concurrency control**
 > maintains several versions of an object side by side
@@ -912,7 +913,7 @@ solution: 𝗦𝗻𝗮𝗽𝘀𝗵𝗼𝘁 𝗜𝘀𝗼𝗹𝗮𝘁𝗶𝗼𝗻 
 6. Transations marked for deletion but not yet committed are visible
 7. Transactions not marked for deletion are visible.
 
-**Preventing Lost Updates**
+**Lost Updates**
 read-modify-write cycle: reads some value from the database, modifies it, and writes back the modified value
 > if two transactions do read-modify-write concurrently, one of the modifications can be lost, because the second write does not include the first modification
 
@@ -922,6 +923,7 @@ solution: **Atomic write operations**
 
 solution: **Explicit locking**
 > explicitly lock objects that are going to be updated
++ fixes lost updates
 
 solution: **Automatically detecting lost updates**
 > if the transaction manager detects a lost update, abort the transaction and force it to retry its read-modify-write cycle.
@@ -939,7 +941,7 @@ multi-leader or leaderless replication usually allow several writes to happen co
 solution: allow concurrent writes to create several conflicting versions of a value, then use application code or special data structures to resolve and merge these versions after the fact.
 
 **Write Skew**
->  if two transactions read the same objects, and then update some of those objects (different transactions may update different objects)
+>  A transaction reads something, makes a decision based on the value it saw, and writes the decision to the database. However, by the time the write is made, the premise of the decision is no longer true.
 > a generalization of the lost update problem
 - Atomic single-object operations don’t help
 - not automatically detected in repeatable read
@@ -955,7 +957,7 @@ How it happens
 3. write skew occurs since both happen at the same time
 
 **Phantoms**
-> one transaction changes the result of a search query in another transaction
+> A transaction reads objects that match some search condition. Another client makes a write that affects the results of that search. 
 > Snapshot isolation avoids phantoms in read-only queries
 
 solution: **materializing conflicts**,
@@ -971,6 +973,7 @@ implementation
 1. Actual Serial Execution: executing transactions in a serial order 
 2. Two-phase locking
 3. Optimistic concurrency control
++ fixes write skew
 
 **Actual Serial Execution**
 > a single-threaded loop for executing transactions was feasible
@@ -980,6 +983,7 @@ implementation
 + Every transaction must be small and fast
 + limited to use cases where the active dataset can fit in memory.
 + throughput must be low enough to be handled on a single CPU core
++ fixes write skew
 
 solution: **Encapsulating transactions in stored procedures**
 > the application must submit the entire transaction code to the database ahead of time
@@ -1003,6 +1007,7 @@ solution: **Encapsulating transactions in stored procedures**
 - transaction throughput and response times of queries are significantly worse
 - unstable latencies
 - deadlocks can freeze system due to retries
++ fixes write skew
 
 implementation
 1. to read an object, it must first acquire the lock in shared mode (other transactions proceed if no exclusive lock)
@@ -1025,10 +1030,12 @@ solution: **index-range locking** / next-key locking
 > simply attach a shared lock to this index entry
 > if another transaction wants to insert, update, or delete, it will have to update the same part of the index, encounter the shared lock, and it will be forced to wait until the lock is released.
 + much lower overheads
++ fixes phantom writes
 
  Are serializable isolation and good performance fundamentally at odds with each other?
 
 **Serializable Snapshot Isolation**
+> When a transaction wants to commit, it is checked, and it is aborted if the execution was not serializable.
 > Only transactions that executed serializably are allowed to commit.
 - performs badly if there is high contention
 + Contention can be reduced with commutative atomic operations
@@ -1038,6 +1045,7 @@ solution: **index-range locking** / next-key locking
 +  very appealing for read-heavy workloads.
 +   query latency much more predictable and less variable
 - requires that read-write transactions be fairly short 
++ fixes write skew
 
 the database must detect situations in which a transaction may have acted on an outdated premise and abort the transaction in that case.
 

@@ -1054,3 +1054,68 @@ Prevention
 1. track when a transaction ignores another transaction’s writes due to MVCC visibility rules.
 2.  When the transaction wants to commit, database checks whether any of the ignored writes have now been committed.
 3. If so, the transaction must be aborted.
+
+----
+
+ An individual computer with good software is usually either fully functional or entirely broken, but not something in between.
+ > we prefer a computer to crash completely rather than returning a wrong result, because wrong results are difficult and confusing to deal with.
+
+ Partial Failure
+ > Some parts working, others are not
+ > nondeterministic performance
+ > nondeterministic responses
+
+ in a system with thousands of nodes, it is reasonable to assume that something is always broken
+
+ to make distributed systems work, we must:
+ + accept the possibility of partial failure and 
+ + build fault-tolerance mechanisms
+
+In distributed systems, suspicion, pessimism, and paranoia pay off.
+
+**Unreliable Networks**
+
+asynchronous packet networks
+> one node can send a message (a packet) to another node, but the network gives no guarantees as to when it will arrive, or whether it will arrive at all.
+
+**timeout**: after some time you give up waiting and assume that the response is not going to arrive
+- long timeout means a long wait until a node is declared dead
+- short timeout detects faults faster, but carries a higher risk of incorrectly declaring a node dead
+
+**network fault** / Network partitions / netsplit
+> When one part of the network is cut off from the rest due to a network fault
+
+ Whenever any communication happens over a network, it may fail—there is no way around it.
+ > If software is put in an unanticipated situation, it may do arbitrary unexpected things.
+ > If you want to be sure that a request was successful, you need a positive response from the application itself 
+
+**network congestion**
+> On a busy network link, a packet may have to wait a while until it can get a slot
+
+noisy neighbor: another user adjacent is using a lot of resources
+
+datacenter networks and the internet are optimized for bursty traffic since the traffic doesn't have a fixed size; the network just want to finish the delivery as soon as possible.
+> telephone lines are always on, hence always reliable but send a fixed amount of data per second
+
+ if you use software that requires synchronized clocks, it is essential that you also carefully monitor the clock offsets between all the machines.
+
+ Thus, it doesn’t make sense to think of a clock reading as a point in time—it is more like a range of times, within a confidence interval
+
+** Process Pauses**
+
+Only one node can hold the lease at any one time—thus, when a node obtains a lease, it knows that it is the leader for some amount of time, until the lease expires.
+>  If the node fails, it stops renewing the lease, so another node can take over when it expires.
+
+paging is often disabled on server machines (if you would rather kill a process to free up memory than risk thrashing).
+
+In embedded systems, real-time means that a system is carefully designed and tested to meet specified timing guarantees in all circumstances.
+
+“real-time” is not the same as “high-performance”
+>  since they have to prioritize timely responses above all else
+
+**Limiting the impact of garbage collection**
+
+treat GC pauses like brief planned outages of a node, and to let other nodes handle requests from clients
+
+
+

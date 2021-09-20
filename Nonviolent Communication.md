@@ -25,3 +25,5 @@ Two parts of NVC:
 1. Expressing honestly through the four components
 2. Receiving empathically through the four components
 
+----
+

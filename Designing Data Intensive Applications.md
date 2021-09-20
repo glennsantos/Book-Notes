@@ -1117,5 +1117,63 @@ In embedded systems, real-time means that a system is carefully designed and tes
 
 treat GC pauses like brief planned outages of a node, and to let other nodes handle requests from clients
 
+----
+
+A node in the network cannot know anything for sure—it can only make guesses based on the messages it receives
+> In a distributed system, we can state the assumptions we are making about the behavior
+
+a node cannot necessarily trust its own judgment of a situation. 
+> decisions require some minimum number of votes from several nodes in order to reduce the dependence on any one particular node.
+
+majority quorum allows the system to continue working if individual nodes have failed
+
+**Fencing tokens**
+> some kind of check is necessary to avoid processing requests outside of the lock’s protection.
+
+**Byzantine Faults**
+> a node may claim to have received a particular message when in fact it didn’t
+
+Byzantine Generals Problem
+> problem of reaching consensus in this untrusting environment
+
+ Byzantine fault-tolerant
+ > continues to operate correctly even if some of the nodes are malfunctioning and not obeying the protocol, 
+ > or if malicious attackers are interfering with the network
+
+  simply make the server the authority on deciding what client behavior is and isn’t allowed.
+
+**Synchronous model**
+> assumes bounded network delay, bounded process pauses, and bounded clock error
+
+**Partially synchronous model**
+> behaves like a synchronous system most of the time, but it sometimes exceeds the bounds for network delay, process pauses, and clock drift
+
+**Asynchronous model**
+> not allowed to make any timing assumptions
+
+**Crash-stop faults**
+> assume that a node can fail in only one way, namely by crashing
+
+**Crash-recovery faults**
+> nodes may crash at any moment, and perhaps start responding again after some unknown time
+> nodes are assumed to have stable storage
+
+**Byzantine (arbitrary) faults**
+> Nodes may do absolutely anything, including trying to trick and deceive other nodes
+
+the **partially synchronous model** with **crash-recovery faults** is generally the most useful model
+
+**liveness**: something good eventually happens; properties often include the word “eventually” in their definition
+**Safety**: nothing bad happens
+
+distributed algorithms
+> require that safety properties always hold
+
+----
+
+To tolerate faults, 
+1. the first step is to detect them,
+2. make a system tolerate it 
 
 
+Most non-safety-critical systems choose cheap and unreliable over expensive and reliable.

@@ -1177,3 +1177,232 @@ To tolerate faults,
 
 
 Most non-safety-critical systems choose cheap and unreliable over expensive and reliable.
+
+
+----
+
+**Consistency Guarantees**
+
+A better name for eventual consistency may be convergence
+- doesn’t say anything about when the replicas will converge
+
+When working with a database that provides only weak guarantees, you need to be constantly aware of its limitations and not accidentally assume too much.
+
+The edge cases of eventual consistency only become apparent when:
+- there is a fault in the system (e.g., a network interruption) or 
+- at high concurrency.
+
+systems with stronger guarantees may have *worse performance* or be *less fault-tolerant* than systems with weaker guarantees. 
+
+**Linearizability**
+ aka atomic consistency, strong consistency, immediate consistency, or external consistency
+> make a system appear as if there were only one copy of the data, 
+> and all operations on it are atomic.
+> is a recency guarantee
+- even RAM on a modern multi-core CPU is not linearizable
+
+strict serializability or strong one-copy serializability 
+> provide both serializability and linearizability
+
+ a hard uniqueness constraint requires linearizability
+
+ If it is not linearizable, there is the risk of a race condition
+ > Without the recency guarantee of linearizability, race conditions between these two channels are possible
+
+*Single-leader replication*
++ If you make reads from the leader, or from synchronously updated followers, they have the potential to be linearizable.
+
+*Consensus algorithms*
++ contain measures to prevent split brain and stale replicas.
++ are linearizable
+
+*Multi-leader replication*
++ not linearizable because they concurrently process writes on multiple nodes and asynchronously replicate them to other nodes
+
+*Leaderless replication*
++ Last write wins are almost certainly nonlinearizable because clock timestamps cannot be guaranteed to be consistent
+- a leaderless system with Dynamo-style replication does not provide linearizability. 
+
+
+If your application requires linearizability, and some replicas are disconnected from the other replicas
+- some replicas cannot process requests while they are disconnected
+
+**CAP theorem**
+> applications that don’t require linearizability can be more tolerant of network problems
+
+The reason for dropping linearizability is **performance**, not fault tolerance.
+
+**Causality** imposes an ordering on events: cause comes before effect;
+
+If a system obeys the ordering imposed by causality, we say that it is **causally consistent**.
+
+A **total order** allows any two elements to be compared
+
+In a linearizable system, we have a total order of operations
+> any two operations we can always say which one happened first
+
+two operations are concurrent if neither happened before the other
+> causality defines a partial order, not a total order
+> Concurrency would mean that the timeline branches and merges again
+> operations on different branches are incomparable
+
+**linearizability** implies *causality*
+
+to maintain causality, you need to know which operation happened before which other operation.
+> ensure that all causally preceding operations have already been processed;
+> database needs to know which version of the data was read by the application
+> can use sequence numbers or timestamps from logical clocks to order events.
+> Concurrent operations may be ordered arbitrarily
+
+**Lamport timestamps**
+> simply a pair of (counter, node ID)
+> if the counter values are the same, the one with the greater node ID is the greater timestamp.
+> When a node receives a request or response with a maximum counter value greater than its own counter value, it immediately increases its own counter to that maximum.
+> always enforce a total ordering (unlike version vectors, which are only for partial order)
+
+in order to implement something like a uniqueness constraint
+- it’s not sufficient to have a total ordering of operations
++ you also need to know when that order is finalized aka **total order broadcast**
+
+**Total order broadcast**
+> The messaging system must decide on the order in which to deliver messages.
+> protocol for exchanging messages between nodes
+> two safety properties 
+1. *Reliable delivery*: No messages are lost: if a message is delivered to one node, it is delivered to all nodes.
+2.*Totally ordered delivery*: Messages are delivered to every node in the same order.
+
+total order broadcast can be used to implement serializable transactions
+- a node is not allowed to retroactively insert a message into an earlier position in the order 
++ also useful for implementing a lock service that provides fencing tokens
+
+**Linearizable compare-and-set registers**
+> The register needs to atomically decide whether to set its value, based on whether its current value equals the parameter given in the operation.
++ has an atomic increment-and-get operation
+an atomic compare-and-set operation would also do the job
+
+1. increment-and-get the linearizable integer
+2. sequence number = register value 
+3. attach sequence number to message
+4. send the message to all nodes
+5. recipients will deliver the messages consecutively by sequence number.
+
+linearizable register form a sequence with no gaps
+> waits for missing messages
+
+linearizable compare-and-set (or increment-and-get) register and total order broadcast are both equivalent to consensus
+
+**Locks and leases**
+> When several clients are racing to grab a lock or lease, the lock decides which one successfully acquired it.
+
+**Consensus**
+> get several nodes to agree on something
+
+**Leader election**
+> all nodes need to agree on which node is the leader.
+> needed to avoid bad failover, split brain, inconsistency, data loss
+
+**Membership/coordination service**
+> Given a failure detector (e.g., timeouts), the system must decide which nodes are alive, and which should be considered dead because their sessions timed out.
+
+**Uniqueness constraint**
+> When several transactions concurrently try to create conflicting records with the same key, the constraint must decide which one to allow and which should fail with a constraint violation.
+
+**Atomic commit**
+> A database must decide whether to commit or abort a distributed transaction.
+> all nodes to agree on the outcome of the transaction
+> Atomicity prevents failed transactions from littering the database with half-finished results and half-updated state.
+> transaction commitment crucially depends on the order in which data is durably written to disk
+> once a transaction has been committed on one node, it cannot be retracted 
+> a node must only commit once it is certain that all other nodes in the transaction are also going to commit.
+- this principle forms the basis of *read committed isolation*
+
+**2PC** provides atomic commit in a distributed database
+**2PL** provides serializable isolation
+
+ 2PC uses a coordinator / transaction manager
+
+1. the participant surrenders the right to abort the transaction, but without actually committing it
+2. requests a transaction ID from the coordinator
+3. application begins a single-node transaction on each of the participants
+4. attaches the globally unique transaction ID to the single-node transaction
+   1. the coordinator or any of the participants can abort if anything goes wrong at this stage
+5. application is ready to commit
+6. coordinator sends a prepare request to all participants tagged with the global transaction ID
+   1. coordinator sends an abort request to all participants if any of these requests fails or times out
+7. participant receives the prepare request
+8. makes sure that it can definitely commit the transaction under all circumstances
+   1. replying “yes” to the coordinator, the node promises to commit the transaction without error if requested
+   2. participant surrenders the right to abort the transaction, but without actually committing it.
+9. coordinator has received responses to all prepare requests
+10. makes a definitive decision on whether to commit or abort the transaction (committing only if all participants voted “yes”)
+11. coordinator must write that decision to its transaction log >> commit point.
+12. commit or abort request is sent to all participants
+    1.  If this request fails or times out, coordinator must retry forever until it succeeds. 
+    2.  If a participant has crashed in the meantime, the transaction will be committed when it recovers
+
+what happens if the coordinator crashes.
+
+coordinator fails before sending the prepare requests
+> a participant can safely abort the transaction
+
+the commit point of 2PC comes down to a regular single-node atomic commit on the coordinator. 
+
+**Three-phase commit**
+
+nonblocking atomic commit requires a perfect failure detector 
+
+distributed transactions in MySQL are reported to be *over 10 times slower* than single-node transactions 
+
+a message from a message queue can be acknowledged as processed if and only if the database transaction for processing the message was successfully committed.
+> But if all side effects of processing a message are rolled back on transaction abort, then the processing step can safely be retried as if nothing had happened.
+
+The database cannot release those locks until the transaction commits or aborts
+> a transaction must hold onto the locks throughout the time it is in doubt
+
+orphaned in-doubt transactions do occur 
+> way out is for an administrator to manually decide whether to commit or roll back the transactions
+> requires a lot of manual effort
+> most likely needs to be done under high stress and time pressure 
+> during a serious production outage
+> most likely needs to be done under high stress and time pressure during a serious production outage
++ allowing a participant to unilaterally decide to abort or commit an in-doubt transaction without a definitive decision from the coordinator 
+
+Distributed transactions thus have a tendency of amplifying failures, which runs counter to our goal of building fault-tolerant systems.
+
+**Fault-Tolerant Consensus**
+> one or more nodes may propose values, and the consensus algorithm decides on one of those values.
+
+Rules:
+**Uniform agreement**
+> No two nodes decide differently.
+**Integrity**
+> No node decides twice.
+**Validity**
+> If a node decides value v, then v was proposed by some node.
+**Termination**
+> Every node that does not crash eventually decides some value.
+> a consensus algorithm cannot simply sit around and do nothing forever
+> any consensus algorithm requires at least a majority of nodes to be functioning correctly in order to assure termination 
+> the termination property is subject to the assumption that fewer than half of the nodes are crashed or unreachable
+
+Most of these algorithms actually decide on a sequence of values, which makes them total order broadcast algorithms
+> total order broadcast is equivalent to repeated rounds of consensus
+
+guarantee that within each epoch, the leader is unique
+
+Every time the current leader is thought to be dead, 
+> a vote is started among the nodes to elect a new leader
+> This election is given an incremented epoch number
+> the leader with the higher epoch number prevails.
+> must first check that there isn’t some other leader with a higher epoch number 
++ must collect votes from a quorum of nodes
++ A node votes in favor of a proposal only if it is not aware of any other leader with a higher epoch.
++ if a vote on a proposal succeeds, at least one of the nodes that voted for it must have also participated in the most recent leader election
+- The process by which nodes vote on proposals before they are decided is a kind of synchronous replication  some committed data can potentially be lost on failover
+- you need a minimum of three nodes in order to tolerate one failure
+- frequent leader elections result in terrible performance because the system can end up spending more time choosing a leader than doing any useful work.
+
+some consensus systems support read-only caching replicas
+> asynchronously receive the log of all decisions
+> do not actively participate in votin
+

@@ -88,3 +88,11 @@ When we are in contact with our feelings and needs, we humans no longer make goo
 
 ----
 
+**separation of observation from evaluation.**
+> evaluations are to be based on observations specific to time and context.
+> observing without evaluating is the highest form of human intelligence.
+> separate specific observed behavior from personal opinion about those behaviors.
+
+When we combine observation with evaluation, people are apt to hear criticism.
+
+----

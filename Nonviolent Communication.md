@@ -96,3 +96,19 @@ When we are in contact with our feelings and needs, we humans no longer make goo
 When we combine observation with evaluation, people are apt to hear criticism.
 
 ----
+
+the mature person becomes able to differentiate feelings into as many nuances
+
+Expressing our vulnerability can help resolve conflicts.
+
+Distinguish feelings from thoughts.
+> feelings are not being clearly expressed when the word **feel** is followed by:
+- that, like, as if > I feel as if I'm not important
+- I, you, he, she, they, it. > I feel she doesn't understand me
+- names or nouns referring to people > I feel Amy isn't up to the task
+> Just express the feeling directly. I'm tired and bored.
+
+Distinguish between what we feel and how we think others react or behave toward us.
+> they reveal more how we think others are behaving than what we are actually feeling ourselves.
+
+By developing a vocabulary of feelings that allows us to clearly and specifically name or identify our emotions, we can connect more easily with one another.

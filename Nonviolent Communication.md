@@ -112,3 +112,64 @@ Distinguish between what we feel and how we think others react or behave toward 
 > they reveal more how we think others are behaving than what we are actually feeling ourselves.
 
 By developing a vocabulary of feelings that allows us to clearly and specifically name or identify our emotions, we can connect more easily with one another.
+
+----
+
+The third component of NVC entails the acknowledgment of the root of our feelings.
+
+What others do may be the stimulus of our feelings, but not the cause.
+
+four options
+1. blame ourselves
+   - accept the other person’s judgment and blame ourselves.
+   - We choose this option at great cost to our self-esteem, for it inclines us toward feelings of guilt, shame, and depression.
+2. blame others.
+   -  When we receive messages this way, and blame the speaker, we are likely to feel anger.
+3. sense our own feelings and needs.
+   - By focusing attention on our own feelings and needs, we become conscious that our current feeling of hurt derives from a need for our efforts to be recognized.
+4. sense others’ feelings and needs.
+   - shine the light of consciousness on the other person’s feelings and needs as they are currently expressed. 
+   - We accept responsibility for our feelings, rather than blame other people, by acknowledging our own needs, desires, expectations, values, or thoughts. 
+
+In NVC, however, we would urge this speaker to go a step further by identifying what she is wanting:
+> what need, desire, expectation, hope, or value of hers has not been fulfilled?
+
+ common speech patterns that tend to mask accountability for our own feelings:
+ - Use of impersonal pronouns such as it and that
+ - use of the expression “I feel (an emotion) because … “ followed by a person or personal pronoun other than I
+ - Statements that mention only the actions of others
+
+Distinguish between giving from the heart and being motivated by guilt.
+
+Judgments of others are alienated expressions of our own unmet needs.
+> If we wish for a compassionate response from others, it is self-defeating to express our needs by interpreting or diagnosing their behavior.
+
+If we express our needs, we have a better chance of getting them met.
+> the more directly we can connect our feelings to our own needs, the easier it is for others to respond to us compassionately.
+
+from the moment people begin talking about what they need rather than what’s wrong with one another, the possibility of finding ways to meet everybody’s needs is greatly increased.
+
+some of the basic human needs
+- **Autonomy**
+- **Celebration**: either achievements or even an end of a life
+- **Integrity**: authenticity, creativity, meaning
+- **Interdependence**: acceptance, appreciation, empathy
+- **Play**
+- **Spiritual Communion**: peace, order, harmony
+- **Physical Nurturance**: physical needs, safety, health
+
+If we don’t value our needs, others may not either.
+
+## Emotional Slavery to Emotional Liberation
+**First stage: Emotional slavery. **We see ourselves responsible for others’ feelings. Drives **guilt**
+> This can easily lead us to see the very people who are closest to us as burdens.
+**Second stage: The obnoxious stage. **We feel **angry**; we no longer want to be responsible for others’ feelings.
+> We are clear what we are not responsible for, but have yet to learn how to be responsible to others in a way that is not emotionally enslaving.
+> in the obnoxious stage, we have yet to grasp that emotional liberation entails more than simply asserting our own needs.
+> learning to express her needs and risk dealing with the displeasure of others.
+**Third stage: Emotional liberation.** We take responsibility for our intentions and actions.
+> we respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.
+> we are aware that we can never meet our own needs at the expense of others.
+
+The more directly we can connect our feelings to our needs, the easier it is for others to respond compassionately.
+

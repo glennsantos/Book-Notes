@@ -1422,3 +1422,152 @@ Part 3 intro
 By being clear about which data is derived from which other data, you can bring clarity to an otherwise confusing system architecture.
 
 ----
+
+**Services** (online systems)
+> tries to handle requests as quickly as possible and sends a response back
+> *Response time* is usually the primary measure of performance
+> APIs, websites, etc
+
+**Batch processing systems** (offline systems)
+> takes a large amount of input data, runs a job to process it, and produces some output data
+> often scheduled to run periodically
+> primary *performance* measure of a batch job is usually throughput
+> ETL, migrations, big data, etc
+
+**Stream processing systems** (near-real-time systems)
+> consumes inputs and produces outputs 
+> operates on events shortly after they happen
+
+**Unix philosophy**
+1. Make each program do one thing well
+2. Expect the output of every program to become the input to another, as yet unknown, program.
+3. Design and build software, even operating systems, to be tried early
+4. Use tools in preference to unskilled help (aka people) to lighten a programming task
+
+If you want to be able to connect any program’s output to any program’s input, that means that all programs must use the same input/output interface.
+> that interface is a file
+
+all these programs have standardized on using the same record separator allows them to interoperate.
+
+* **stdin** comes from the keyboard
+* **stdout** goes to the screen
+
+1. The input files to Unix commands are normally treated as immutable
+2. You can end the pipeline at any point, pipe the output into less, and look at it to see if it has the expected form.
+3. You can write the output of one pipeline stage to a file and use that file as input to the next stage. 
+
+**HDFS (Hadoop Distributed File System)**
+> based on the shared-nothing principle (requires no special hardware)
+> HDFS consists of a daemon process running on each machine, exposing a network service that allows other nodes to access files stored on that machine
+> file blocks are replicated on multiple machines. 
+> cost of data storage and access on HDFS, using commodity hardware and open source software, is much lower 
+
+
+ **MapReduce**
+> MapReduce is a programming framework with which you can write code to process large datasets in a distributed filesystem like HDFS.
+> can parallelize a computation across many machines, without you having to write code to explicitly handle the parallelism
+> MapReduce has no concept of indexes
+> separates the physical network communication aspects of the computation (getting the data to the right machine) from the application logic (processing the data once you have it)
++ easy to retry due to immutability of input
++ mistakes are reversible
++ retries are possible since input isn't affected
++ separate logic from wiring (configuring the input and output directories), which provides a separation of concerns and enables potential reuse of code
++ very robust: you can use it to process almost arbitrarily large quantities of data on an unreliable multi-tenant system with frequent task terminations, and it will still get the job done
+- implementing a complex processing job using the raw MapReduce APIs is actually quite hard and laborious
+ A single MapReduce job is comparable to a single Unix process.
+ -  other tools are sometimes orders of magnitude faster for some kinds of processing
+
+1. Read a set of input files, and break it up into records.
+2. The **mapper** is called once for every input record, and its job is to extract the key and value from the input record.
+3. Sort all of the key-value pairs by key. (sort)
+4. Call the **reducer** function to iterate over the sorted key-value pairs. (reducer)
+  + reduce task takes the files from the mappers and merges them together, preserving the sort order
+
+ putting the computation near the data
+ > saves copying the input file over the network, reducing network load and increasing locality.
+
+In order to achieve good throughput in a batch process, the computation must be (as much as possible) local to one machine.
+1. take a copy of the user database
+2. put it in the same distributed filesystem as the log of user activity events
+3. use MapReduce to bring together all of the relevant records in the same place
+
+Reduces does the joins.
+
+**sort-merge join**
+> mapper output is sorted by key
+> reducers merge together the sorted lists of records from both sides of the join.
+> mappers and the sorting process make sure that all the necessary data to perform the join operation for a particular user ID is brought together in the same place
+
+**sessionization**
+> collating all the activity events for a particular user session, in order to find out the sequence of actions that the user took
+
+**linchpin objects** or hot keys.
+if there is a very large amount of data related to a single key
+
+**skew** (also known as hot spots)
+> one reducer that must process significantly more records than the others
+solution: spread the work of handling the hot key over several reducers
+
+**reduce-side joins**
+> actual join logic in the reducers
+
+**map-side join**
+> mapper simply reads one input file block from the distributed filesystem and writes one output file to the filesystem
+
+simplest way of performing a map-side join applies in the case where a large dataset is joined with a small dataset
+
+**broadcast hash join**
+> each mapper for a partition of the large input reads the entirety of the small input (so the small input is effectively “broadcast” to all partitions of the large input)
+> hash reflects its use of a hash table
+> an alternative is to store the small join input in a read-only index on the local disk 
+
+**Partitioned hash joins**
+> If the two join inputs are partitioned in the same way (using the same key, same hash function, and same number of partitions), then the hash table approach can be used independently for each partition.
+
+
+**Map-side merge joins**
+>  applies if the input datasets are not only partitioned in the same way, but also sorted based on the same key
+>  a mapper can perform the same merging operation that would normally be done by a reducer
+
+**batch processing output**
+> Search indexes
+> machine learning systems: classifiers, recommendation systems
+
+By treating inputs as immutable and avoiding side effects (such as writing to external databases), batch jobs not only achieve good performance but also become much easier to maintain
+> Databases with read-write transactions do not have this property
+
+ Hadoop opened up the possibility of indiscriminately dumping data into HDFS, and only later figuring out how to process it further
+> The idea is similar to a data warehouse: simply bringing data from various parts of a large organization together in one place is valuable, because it enables joins across datasets that were previously disparate.
+> Indiscriminate data dumping shifts the burden of interpreting the data: instead of forcing the producer of a dataset to bring it into a standardized format, the interpretation of the data becomes the consumer’s problem
+ > sushi principle: “raw data is better”
+ > distributed filesystem supports data encoded in any format.
+
+Batch processes are less sensitive to faults than online systems, because they do not immediately affect users if they fail and they can always be run again.
+ 
+ MapReduce approach is more appropriate for larger jobs: jobs that process so much data and run for such a long time that they are likely to experience at least one task failure along the way.
+
+**materialization**
+> writing out intermediate state to files
+- can only start when all tasks in the preceding jobs (that generate its inputs) have completed
+- Having to wait until all of the preceding job’s tasks have completed slows down the execution
+- Mappers are often redundant
+- Storing intermediate state in a distributed filesystem means those files are replicated across several nodes, which is often overkill for such temporary data.
+
+Pipes do not fully materialize the intermediate state, but instead stream the output to the input incrementally, using only a small in-memory buffer.
+
+**dataflow engines**
+> explicitly model the flow of data through several processing stages
+> repeatedly calling a user-defined function to process one record at a time on a single thread
+> parallelize work by partitioning inputs
+> copy the output of one function over the network to become the input to another function
+> need not take the strict roles of alternating map and reduce
+> uses "operators"
++ Expensive work such as sorting need only be performed in places where it is actually required
++ no unnecessary map tasks
++ the scheduler has an overview of what data is required where, so it can make locality optimizations
++  requires less I/O than writing it to HDFS
++  start executing as soon as their input is ready
++  execute significantly faster
+
+if your graph can fit in memory on a single computer, it’s quite likely that a single-machine (maybe even single-threaded) algorithm will outperform a distributed batch process
+

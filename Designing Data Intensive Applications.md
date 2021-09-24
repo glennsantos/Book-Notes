@@ -1406,3 +1406,19 @@ some consensus systems support read-only caching replicas
 > asynchronously receive the log of all decisions
 > do not actively participate in votin
 
+----
+Part 3 intro 
+
+**Systems of record** / source of truth
+>  the authoritative version of your data
+> Each fact is represented exactly once 
+  + the representation is typically normalized
+
+**Derived data systems**
+> the result of taking some existing data from another system and transforming or processing it in some way.
+> Denormalized values, indexes, and materialized views also fall into this category
+> is redundant
+
+By being clear about which data is derived from which other data, you can bring clarity to an otherwise confusing system architecture.
+
+----

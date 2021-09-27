@@ -173,3 +173,82 @@ If we don’t value our needs, others may not either.
 
 The more directly we can connect our feelings to our needs, the easier it is for others to respond compassionately.
 
+----
+
+The objective of NVC is *NOT to change people and their behavior* in order to get our way; 
+> it is to **establish relationships based on honesty and empathy** that will eventually fulfill everyone’s needs.
+what we would like to request of each other to enrich each of our lives.
+
+*Use **positive language** when making requests.*
+> word it in terms of wants, not do not wants
+> they might have received a more cooperative response if they had expressed what they did, rather than what they did not, want.
+
+we also want to word our requests in the form of **concrete actions** that others can undertake and to avoid vague, abstract, or ambiguous phrasing. 
+> Making requests in clear, positive, concrete action language reveals what we really want.
+> people hate thinking. cause sometimes they second guess themselves, leading to inaction.
+> Often, the use of vague and abstract language can mask oppressive interpersonal games.
+> Vague language contributes to internal confusion.
+
+When we simply express our feelings, it may not be clear to the listener what we want them to do.
+> We talk to others or at them without knowing how to engage in a dialogue with them.
+
+We are often not conscious of what we are requesting.
+
+Requests are received as demands when listeners believe that they will be **blamed** or **punished** if they do not comply.
+Requests may sound like **demands** when unaccompanied by the **speaker’s feelings and needs**.
+
+*The clearer we are about what we want, the more likely it is that we’ll get it.*
+> whenever we say something to another person, we are requesting something in return.
+
+To make sure the message we sent is the message that’s received, **ask the listener to reflect it back**.
+> Express appreciation when your listener tries to meet your request for a reflection.
+> Empathize with the listener who doesn’t want to reflect back.
+> To prevent negative responses, we can explain to people ahead of time why we may sometimes ask them to reflect back our words.
+> We make clear that we’re not testing their listening skills, but checking out whether we’ve expressed ourselves clearly.
+
+**Requesting Honesty**
+
+After we express ourselves vulnerably, we often want to know:
+1. what the listener is feeling;
+2. what the listener is thinking; or
+3. whether the listener would be willing to take a particular action
+
+**Making Requests of a Group**
+> When we are not clear about the response we’d like, we may initiate unproductive conversations that end up satisfying no one’s needs.
+> In a group, much time is wasted when speakers aren’t certain what response they’re wanting.
+> we can benefit from developing and promoting “bas-consciousness” in all our interactions.
++ In India, when people have received the response they want in conversations they have initiated, they say “bas“
+
+When the other person hears a demand from us, they see two options: to *submit* or to *rebel*.
+> Our requests are received as demands when others believe they will be blamed or punished if they do not comply.
+> Either way, the person requesting is perceived as coercive, and the listener’s capacity to respond compassionately to the request is diminished.
+
+To tell if it’s a demand or a request, *observe what the speaker does* if the request is not complied with.
+> It’s a demand if the speaker then **criticizes** or **judges**.
+> It’s a demand if the speaker then lays a **guilt trip**.
+
+The more we interpret *noncompliance as rejection*, the more likely our requests will be heard as demands.
+
+the more people hear demands, the less they enjoy being around us.
+
+It’s a request if the speaker then **shows empathy** toward the other person’s needs.
+
+We can help others trust that we are requesting, not demanding, by indicating that we would only want them to comply if they can do so willingly.
+> the most powerful way to communicate that we are making a genuine request is to empathize with people when they don’t agree to the request.
+
+ Choosing to request rather than demand *does not mean we give up* when someone says no to our request.
+ > It does mean that *we don’t engage in persuasion until we have empathized* with what’s preventing the other person from saying yes.
+
+ **Defining Our Objective When Making Requests**
+
+ If our objective is only to change people and their behavior or to get our way, then NVC is NOT an appropriate tool.
+
+*Our objective is a relationship based on honesty and empathy.*
+
+people may still hear a demand
+> particularly true when we occupy positions of authority
+> OR speaking with those who have had past experiences with coercive authority figures.
+
+When we give people labels, we tend to act in a way that contributes to the very behavior that concerns us, which we then view as further confirmation of our diagnosis.
+
+*When I tell you what I’d like, I’m not saying that you have to do it or I’ll try to make your life miserable.*

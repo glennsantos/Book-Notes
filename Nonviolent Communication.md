@@ -252,3 +252,83 @@ people may still hear a demand
 When we give people labels, we tend to act in a way that contributes to the very behavior that concerns us, which we then view as further confirmation of our diagnosis.
 
 *When I tell you what I’d like, I’m not saying that you have to do it or I’ll try to make your life miserable.*
+
+----
+
+**Receiving Empathically**
+
+**Empathy**: emptying our mind and listening with our whole being
+> a respectful understanding of what others are experiencing
+> occurs only when we have successfully shed all preconceived ideas and judgments about them.
+> requires us to focus full attention on the other person’s message. 
+> give to others the time and space they need to express themselves fully and to feel understood.
+
+Empathy is NOT
+- advising
+- educating
+- consoling
+- sympathizing (feeling their feelings)
+- interrogating
+- explaining
+- correcting
+
+Instead of offering empathy, we tend instead to give advice or reassurance and to explain our own position or feeling.
+
+Ask before offering advice or reassurance.
+
+Intellectual understanding blocks empathy.
+
+The key ingredient of empathy is **presence**
+
+No matter what others say, we only hear what they are:
+1. observing
+2. feeling
+3. needing
+4. requesting.
+
+Listen to what people are needing rather than what they are thinking.
+
+we may wish to reflect back by paraphrasing what we have understood.
+>  choosing to reflect a message back to the other party is that it offers them time to reflect on what they’ve said and an opportunity to delve deeper into themselves.
+
+questions for paraphrasing
+* what others are observing
+* how others are feeling and the needs generating their feelings
+* what others are requesting
+
+When asking for information, first express our own feelings and needs.
+ 
+ *Of direct questions*
+ Though they may appear to be the most direct way to connect with what’s going on within the other person, I’ve found that questions like these are not the safest route to obtain the information we seek. 
+ > give speakers the impression that we’re a schoolteacher examining them or a psychotherapist working on a case
+
+Reflect back messages that are emotionally charged.
+
+Paraphrase only when it contributes to greater compassion and understanding.
+
+When we paraphrase, the tone of voice we use is highly important.
+> our tone communicates that we’re asking whether we have understood—not claiming that we have understood.
+> be prepared for the possibility that the intention behind our paraphrasing will be misinterpreted.
+
+behind all those messages we’ve allowed ourselves to be intimidated by are just individuals with unmet needs appealing to us to contribute to their well-being.
+
+Paraphrasing tends to save, rather than waste, time.
+
+ It is a poignant experience to receive concrete evidence that someone is empathically connected to us.
+
+**Sustaining Empathy**
+
+allow others the opportunity to **fully express themselves** before turning our attention to solutions or requests for relief.
+> If we are uncertain as to whether we have stayed long enough in the process, we can always ask, “Is there more that you wanted to say?”
+
+We know a speaker has received adequate empathy when 
+1. we sense a release of tension, or 
+2. the flow of words comes to a halt.
+
+We need empathy to give empathy.
+> listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others.
+> stop, breathe, give ourselves empathy
+> We can scream—nonviolently.
+> third recourse is to physically remove ourselves from the situation
+
+If we are able to speak our pain nakedly without blame, I find that even people in distress are sometimes able to hear our need.

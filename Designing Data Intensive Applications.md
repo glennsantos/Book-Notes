@@ -1571,3 +1571,250 @@ Pipes do not fully materialize the intermediate state, but instead stream the ou
 
 if your graph can fit in memory on a single computer, it’s quite likely that a single-machine (maybe even single-threaded) algorithm will outperform a distributed batch process
 
+----
+
+a **“stream”** refers to data that is incrementally made available over time.
+
+In a stream processing context, a record is more commonly known as an **event**
+> a small, self-contained, immutable object containing the details of something that happened at some point in time.
+
+an event is generated once by a *producer* (also known as a publisher or sender), and then potentially processed by multiple *consumers* (subscribers or recipients)
+
+in a streaming system, related events are usually grouped together into a **topic** or **stream**.
+
+The more often you poll, 
+- the lower the percentage of requests that return new events, 
+- and thus the higher the overheads become.
+
+**messaging system**: 
+> a producer sends a message containing the event, which is then pushed to consumers.
+> allows multiple producer nodes to send messages to the same topic >> **publish/subscribe** model
+> allows multiple consumer nodes to receive messages in a topic.
+
+*What happens if the producers send messages faster than the consumers can process them?*
+1. the system can drop messages
+2. buffer messages in a queue
+3. apply backpressure (also known as flow control; i.e., blocking the producer from sending more messages)
+
+*What happens if nodes crash or temporarily go offline—are any messages lost?*
+1. writing to disk 
+2. replication 
+3. may miss messages that were sent while it is unreachable.
+
+if a large number of messages are dropped, it may not be immediately apparent that the metrics are incorrect
+> every lost message means incorrect counters.
+> generally require the application code to be aware of the possibility of message loss.
+
+**message broker** (also known as a message queue), 
+> a kind of database that is optimized for handling message streams
+> can more easily tolerate clients that come and go 
+
+consumers are generally asynchronous
+1. producer sends a message
+2. waits for the broker to confirm
+3. does not wait for the message to be processed by consumers
+4. delivery to consumers will happen at some undetermined future point in time
+
+differences between message brokers and databases
+1. automatically delete a message when it has been successfully delivered to its consumers (vs persistence in databases)
+2. working set is fairly small. 
+3. often support some way of subscribing to a subset of topics matching some pattern
+4. do not support arbitrary queries, but they do notify clients when data changes
+
+main patterns of messaging
+**Load balancing**
+> Each message is delivered to one of the consumers
+> consumers can share the work of processing the messages in the topic. add consumers to parallelize the processing
+> may assign messages to consumers arbitrarily
+
+**Fan-out**
+> Each message is delivered to all of the consumers
+> allows several independent consumers to each “tune in” to the same broadcast of messages, without affecting each other
+
+**Combined**
+> separate groups of consumers may each subscribe to a topic
+> each group collectively receives all messages
+> within each group only one of the nodes receives each message
+
+**acknowledgments**
+> a client must explicitly tell the broker when it has finished processing a message so that the broker can remove it from the queue
+> without the broker receiving an acknowledgment, it assumes that the message was not processed >> delivers the message again to another consumer
+
+**message order**
+> To avoid this issue, you can use a separate queue per consumer
+> is not a problem if messages are completely independent of each other
+> can be important if there are causal dependencies between messages
+
+**AMQP/JMS-style**
+> assigns individual messages to consumers, and consumers acknowledge individual messages when they have been successfully processed, then deleted
+> exact order of message processing is not important
+> OK if no need to go back and read old messages again after they have been processed.
+
+**log-based message brokers**
+log is simply an append-only sequence of records on disk
+> a producer sends a message by appending it to the end of the log
+> a consumer receives messages by reading the log sequentially
+> If a consumer reaches the end of the log, it waits for a notification that a new message has been appended
+> only needs to periodically record the consumer offsets
+> a form of buffering with a large but fixed-size buffer
+> more like the batch processes
++ reduced bookkeeping overhead 
++ increase the throughput of log-based systems.
+use when:
++ where each message is fast to process
++ where message ordering is important
+
+log can be partitioned
+> Different partitions can then be hosted on different machines
+> A topic can then be defined as a group of partitions that all carry messages of the same type
+> the broker assigns a monotonically increasing sequence number, or offset, to every message
+> no ordering guarantee across different partitions
+
+*coarse-grained load balancing*
+> number of nodes sharing the work of consuming a topic can be at most the number of log partitions in that topic
+> If a single message is slow to process, it holds up the processing of subsequent messages in that partition
+
+*Disk space usage*
+> To reclaim disk space, the log is actually divided into segments
+> time to time old segments are deleted or moved to archive storage
+
+
+With data warehouses this synchronization is usually performed by ETL processes: a batch process
+
+**dual writes**
+> application code explicitly writes to each of the systems when data changes
+> one of the writes may fail while the other succeeds
+
+**change data capture**
+> process of observing all data changes written to a database and extracting them in a form in which they can be replicated to other systems
+> change data capture makes one database the leader (the one from which the changes are captured), and turns the others into followers.
+> is usually asynchronous: the system of record database does not wait for the change to be applied to consumers before committing it
+
+**log compaction**
+> the storage engine periodically looks for log records with the same key, throws away any duplicates, and keeps only the most recent update for each key
+> an update with a special null value (a tombstone) indicates that a key was deleted >> removed
+
+**event sourcing**
+> storing all changes to the application state as a log of change events
+> it is more meaningful to record the user’s actions as immutable events, rather than recording the effect of those actions on a mutable database.
+
+*Deriving current state from the event log*
+> replaying the event log allows you to reconstruct the current state of the system
+
+a request from a user first arrives, it is initially a *command*
+> it may still fail
+If the validation is successful and the command is accepted, it becomes an *event*
+> durable and immutable
+fact
+> point when the event is generated
+
+consumer of the event stream is not allowed to reject an event
+
+mutable state and an append-only log of immutable events do not contradict each other
+
+changelog
+> represents the evolution of state over time
+
+The truth is the log. The database is a cache of a subset of the log
+
+ **command query responsibility segregation**
+> you gain a lot of flexibility by separating the form in which data is written from the form it is read
+
+**Concurrency control**
+> One solution would be to perform the updates of the read view synchronously with appending the event to the log.
+
+----
+
+**Processing Streams**
+1. take the data in the events and write it to storage
+2. push the events to users. a human is the ultimate consumer of the stream
+3. process one or more input streams to produce one or more output streams.
+
+**operator** or a **job**
+> piece of code that processes streams to produce other, derived streams
+
+**Uses of Stream Processing**
++ Fraud detection systems
++ Trading systems
++ Manufacturing systems
++ Military and intelligence systems
+
+**Complex event processing**
+> analyzing event streams, especially geared toward the kind of application that requires searching for certain event patterns
+> allows you to specify rules to search for certain patterns of events in a stream.
+
+complex event 
+> the details of the event pattern
+> When a match is found, the engine emits this.
+
+ a database stores data persistently and treats queries as transient
+ vs. 
+ CEP engines reverse these roles: queries are stored long-term, and events from the input streams continuously flow past them in search of a query that matches an event pattern
+
+**Stream analytics**
+> less interested in finding specific event sequences and is more oriented toward aggregations and statistical metrics over a large number of events
+* Measuring the rate of some type of event
+* Calculating the rolling average of a value
+* Comparing current statistics to previous time intervals
+
+*Search on streams*
+> This is done by formulating a search query in advance, and then continually matching the stream of news items against this query
+> the queries are stored, and the documents run past the queries
+
+need to be able to handle such straggler events 
+1. Ignore the straggler events
+2. Publish a correction, an updated value for the window with stragglers included
+
+To adjust for incorrect device clocks, one approach is to log three timestamps
+1. The time at which the event occurred, according to the device clock
+2. The time at which the event was sent to the server, according to the device clock
+3. The time at which the event was received by the server, according to the server clock
+
+A **tumbling window** has a fixed length, and every event belongs to exactly one window.
+> 10:03:00 and 10:03:59 are grouped into one window, events between 10:04:00 and 10:04:59 into the next window
+
+A **hopping window** also has a fixed length, but allows windows to overlap in order to provide some smoothing.
+> a 5-minute window with a hop size of 1 minute would contain the events between 10:03:00 and 10:07:59, then the next window would cover events between 10:04:00 and 10:08:59
+
+A **sliding window** contains all the events that occur within some interval of each other. 
+> a 5-minute sliding window would cover events at 10:03:39 and 10:08:12
+
+a **session window** has no fixed duration
+> grouping together all events for the same user that occur closely together in time
+> window ends when the user has been inactive for some time
+
+**Stream-stream join (window join)**
+> Both input streams consist of activity events, and the join operator searches for related events that occur within some window of time.
+
+**Stream-table join (stream enrichment)**
+> One input stream consists of activity events, while the other is a database changelog.
+
+**Table-table join (materialized view maintenance)**
+> Both input streams are database changelogs.
+
+**slowly changing dimension (SCD)**
+> If the ordering of events across streams is undetermined, the join becomes nondeterministic 
+> addressed by using a unique identifier for a particular version of the joined record
+
+**Fault Tolerance**
+
+**exactly-once semantics**
+> Although restarting tasks means that records may in fact be processed multiple times, the visible effect in the output is as if they had only been processed once. 
+
+**microbatching**
+> break the stream into small blocks, and treat each block like a miniature batch process.
+> batch size is typically around one second
+> implicitly provides a tumbling window equal to the batch size
+
+**rolling checkpoints**
+> If a stream operator crashes, it can restart from its most recent checkpoint and discard any output generated between the last checkpoint and the crash.
+> checkpoints are triggered by barriers in the message stream
+
+ensure that all outputs and side effects of processing an event take effect if and only if the processing is successful
+
+**Idempotence**
+> one that you can perform multiple times, and it has the same effect as if you performed it only once
+
+*Rebuilding state after a failure*
+> keep state local to the stream processor, and replicate it periodically
+> rebuilt from the input streams.

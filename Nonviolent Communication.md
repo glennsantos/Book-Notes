@@ -332,3 +332,43 @@ We need empathy to give empathy.
 > third recourse is to physically remove ourselves from the situation
 
 If we are able to speak our pain nakedly without blame, I find that even people in distress are sometimes able to hear our need.
+
+----
+
+It’s harder to empathize with those who appear to possess more power, status, or resources.
+
+*The more we empathize with the other party, the safer we feel.*
+
+In situations of pain, I recommend first getting the empathy necessary to go beyond the thoughts occupying our heads and recognize our deeper needs.
+
+*We “say a lot” by listening for other people’s feelings and needs.*
+
+The ability to offer empathy to people in stressful situations can defuse potential violence.
+> After several minutes of my continuing to reflect their feelings, the group became less hostile.
+
+The more I was able to focus my attention on his feelings and needs, the more I saw him as a person full of despair whose needs weren’t being met.
+
+*When we listen for feelings and needs, we no longer see people as monsters.*
+
+It may be difficult to empathize with those who are closest to us.
+
+*Empathizing with someone’s “no” protects us from taking it personally.*
+
+To bring a conversation back to life: interrupt with empathy.
+> best time to interrupt is when we’ve heard one word more than we want to hear.
+> People are not aware that empathy is often what they are needing.
+> What bores the listener bores the speaker too.
+> Speakers prefer that listeners interrupt rather than pretend to listen.
+> All of us want our words to enrich others, not to burden them.
+
+*Empathize with silence by listening for the feelings and needs behind it.*
+
+Empathy lies in our ability to be present.
+> I have witnessed people transcend the paralyzing effects of psychological pain when they have sufficient contact with someone who can hear them empathically.
+
+Our ability to offer empathy can 
++ allow us to stay vulnerable, 
++ defuse potential violence, 
++ hear the word no without taking it as a rejection, 
++ revive a lifeless conversation, and even 
++ hear the feelings and needs expressed through silence. 

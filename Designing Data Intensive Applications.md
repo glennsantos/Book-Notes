@@ -1818,3 +1818,160 @@ ensure that all outputs and side effects of processing an event take effect if a
 *Rebuilding state after a failure*
 > keep state local to the stream processor, and replicate it periodically
 > rebuilt from the input streams.
+
+----
+
+Our goal is to discover how to design applications that are better than the ones of today:
+> robust, 
+> correct, 
+> evolvable, and 
+> ultimately beneficial to humanity.
+
+**Data Integration**
+
+The need for data integration often only becomes apparent if you zoom out and consider the dataflows across an entire organization.
+
+> where is data written first?
+> which representations are derived from which sources?
+> How do you get data into all the right places, in the right formats?
+
+transaction systems
+> usually provide linearizability
+> implies useful guarantees such as reading your own writes
+
+derived data systems
+> updated asynchronously
+> most promising approach for integrating different data systems
+
+**limits of total ordering**
+> If the throughput of events is greater than a single machine can handle, you need to partition it across multiple machines. The order of events in two different partitions is then ambiguous.
+> typically have a separate leader in each datacenter, because network delays make synchronous cross-datacenter coordination inefficient. implies an undefined ordering of events that originate in two different datacenters.
+> When applications are deployed as microservices, no durable state shared between services. >> no defined order for those events.
+> applications maintain client-side state >> clients and servers are very likely to see events in different orders.
+
+Ordering for causality
+> Logical timestamps can provide total ordering without coordination. require additional metadata to be passed around
+> log an event to record the state of the system that the user saw before making a decision >> reference that event identifier in order to record the causal dependency
+> Conflict resolution algorithms
+
+**Batch and Stream Processing**
+
+Batch processing has a quite strong functional flavor 
+>  inputs as immutable
+> outputs as append-only
+
+distributed transactions abort if any one participant fails, 
+> tend to amplify failures by spreading them to the rest of the system
+
+Stream processing allows changes in the input to be reflected in derived views with low delay
+vs
+batch processing allows large amounts of accumulated historical data to be reprocessed in order to derive new views onto an existing dataset
+
+with reprocessing it is possible to restructure a dataset into a completely different model in order to better serve new requirements.
+
+Derived views allow gradual evolution
+> do not need to perform the migration as a sudden switch.
+> maintain the old schema and the new schema side by side as two independently derived views
+
+**lambda architecture**
+> incoming data should be recorded by appending immutable events to an always-growing dataset
+> proposes running two different systems in parallel
++ batch processing system >> simpler and thus less prone to bug
++ stream-processing system >>  fast approximate algorithms
+
+Unifying batch and stream processing in one system requires the following features
+> ability to replay historical events through the same processing engine that handles the stream of recent events
+> Exactly-once semantics for stream processors
+> windowing by event time, not by processing time
+
+information management philosophies
+> **Unix**:  a logical but fairly low-level hardware abstraction >> simpler in complexity
+> **Relational DB**:  high-level abstraction that would hide the complexities of data structures on disk, concurrency, crash recovery, and so on >> simpler in commands
+
+**Federated databases / polystore: unifying reads**
+>  unified query interface
+
+**Unbundled databases: unifying writes**
+> unbundling a database’s index-maintenance features in a way that can synchronize writes across disparate technologies 
+
+The big advantage of log-based integration is **loose coupling** between the various components
+> asynchronous event streams make the system as a whole more robust to outages
+> faulty consumer can catch up when it is fixed, so it doesn’t miss any data
+> unbundling data systems allows different software components and services to be developed, improved, and maintained independently 
+
+A single integrated software product may also be able to achieve better and more predictable performance on the kinds of workloads for which it is designed
+
+The advantages of unbundling and composition only come into the picture when there is no single piece of software that satisfies all your requirements.
+
+*Separation of application code and state*
+> it makes sense to have some parts of a system that specialize in durable data storage, and other parts that specialize in running application code
+> keep stateless application logic separate from state management (databases)
+
+Instead of treating a database as a passive variable that is manipulated by the application, we think much more about the interplay and collaboration between state, state changes, and code that processes them.
+
+**microservices approach**
+> query an service or database in order to obtain the current value
+
+**dataflow approach**
+> subscribe to a stream of updates ahead of time and record the current rate in a local database whenever it changes.
+> only needs to query the local database.
+> faster and more robust
+
+**Observing Derived State**
+
+**write path**
+> process for creating derived datasets (such as search indexes, materialized views, and predictive models) and keeping them up to date.
+> may go through multiple stages of batch and stream processing, and eventually every derived dataset is updated to incorporate the data that was written.
+> eager evaluation
+
+**read path**
+> read from the derived dataset, perhaps perform some more processing on the results, and construct the response to the user.
+> lazy evaluation
+
+*derived dataset is the place where the write path and the read path meet*
+
+**cache of common queries**
+> precompute the results for only a fixed set of the most common queries
+
+**Stateful, offline-capable clients**
+
+**offline-first applications**
+> do as much as possible using a local database on the same device
+
+cache of state on the server
+> on-device state
+
+If you are designing data systems, I hope that you will keep in mind the option of subscribing to changes, not just querying the current state.
+
+store acts as the boundary between the write path and the read path
+
+Writing read events to durable storage thus enables better tracking of causal dependencies
+
+you could generate a unique identifier for an operation (such as a UUID) and include it as a hidden form field in the client application
+> If the web browser submits the POST request twice, the two requests will have the same operation ID.
+> You can then pass that operation ID all the way through to the database and check that you only ever execute one operation with a given ID
+
+reasoning about concurrency and partial failure is difficult and counterintuitive
+> The consequence is lost or corrupted data.
+
+* violations of timeliness are “eventual consistency,” 
+* violations of integrity are “perpetual inconsistency.”
+>  integrity is much more important than timeliness.
+
+In many business contexts, it is actually acceptable to temporarily violate a constraint and fix it up later by apologizing.
+> Whether the cost of the apology is acceptable is a business decision. 
+
+**Coordination-avoiding data systems**
+> Synchronous coordination can still be introduced in places where it is needed 
+> the sweet spot where there are neither too many inconsistencies nor too many availability problems. 
+
+**Designing for auditability**
+
+Checking the integrity of data is known as auditing.
+> try restoring from your backups from time to time
+
+*self-validating or self-auditing systems that continually check their own integrity, rather than relying on blind trust*
+
+event-based systems can provide better auditability
+
+*Having continuous end-to-end integrity checks gives you increased confidence about the correctness of your systems*

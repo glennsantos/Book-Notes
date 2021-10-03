@@ -445,8 +445,6 @@ The more people hear blame and judgment,
 + if we want them to hear us we would need first to empathize with them.
 4. Express our feelings and unmet needs. (Yield)
 
-
-
 *The more we hear them, the more they’ll hear us.*
 
 Stay conscious of the violent thoughts that arise in our minds, without judging them.
@@ -455,5 +453,23 @@ Stay conscious of the violent thoughts that arise in our minds, without judging 
 When my consciousness is focused on another human being’s feelings and needs, I see the universality of our experience.
 
 **Practice translating each judgment into an unmet need.**
+
+---
+
+**protective use of force**
+> prevent injury or injustice
+> The intention behind the protective use of force is only to protect, not to punish, blame, or condemn. 
+
+**punitive use of force**
+> cause individuals to suffer for their perceived misdeeds
+> the withdrawal of caring or respect is one of the most powerful threats of all.
+> The punitive use of force tends to generate hostility and to reinforce resistance to the very behavior we are seeking.
+
+When we fear punishment, we focus on consequences, not on our own values.
+Fear of punishment diminishes self-esteem and goodwill.
+> The more we are seen as agents of punishment, the harder it is for others to respond compassionately to our needs.
+
+Question 1: What do I want this person to do?
+Question 2: What do I want to be this **person’s reasons** for doing it?
 
 

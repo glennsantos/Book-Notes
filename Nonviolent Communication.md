@@ -490,7 +490,24 @@ Buber posits that human growth occurs through a meeting between two individuals 
 
 ----
 
+Compliments are often judgments—however positive—of others.
 
+**Express appreciation to celebrate, not to manipulate.**
 
+Three Components of Appreciation
+1. the actions that have contributed to our well-being
+2. the particular needs of ours that have been fulfilled
+3. the pleasureful feelings engendered by the fulfillment of those needs
+
+Saying “thank you” in NVC: 
+“This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
+
+Receive appreciation without feelings of superiority or false humility.
+
+If I am aware that it is this power of God working through me that gives me the power to enrich life for others, then I may avoid both the ego trap and the false humility.
+
+*What appreciation might someone give you that would leave you jumping for joy?*
+
+even when people were embarrassed, they still wanted to hear appreciation verbalized.
 
 

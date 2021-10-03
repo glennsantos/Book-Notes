@@ -372,3 +372,47 @@ Our ability to offer empathy can
 + hear the word no without taking it as a rejection, 
 + revive a lifeless conversation, and even 
 + hear the feelings and needs expressed through silence. 
+
+----
+
+*NVC’s most important use may be in developing self-compassion.*
+
+We use NVC to evaluate ourselves in ways that engender growth rather than self-hatred.
+
+Even if our intention is to behave with more kindness and sensitivity, if people sense shame or guilt behind our actions, they are less likely to appreciate what we do
+
+Human beings, when hearing any kind of demand, tend to resist because it threatens our autonomy
+
+A basic premise of NVC is that whenever we imply that someone is wrong or bad, what we are really saying is that he or she is not acting in harmony with our needs.
+
+*Self-judgments, like all judgments, are tragic expressions of unmet needs.*
+
+**NVC mourning**: 
+> connecting with the feelings and unmet needs stimulated by past actions we now regret.
+
+**NVC self-forgiveness**: 
+connecting with the need we were trying to meet when we took the action that we now regret.
+
+*We are compassionate with ourselves when we are able to embrace all parts of ourselves and recognize the needs and values expressed by each part.*
+
+an important form of self-compassion is to make choices motivated purely by our desire to contribute to life rather than out of fear, guilt, shame, duty, or obligation.
+> when the sole energy that motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.
+> We want to take action out of the desire to contribute to life rather than out of fear, guilt, shame, or obligation.
+
+1. List any activity you dread but do anyway because you perceive yourself to have no choice.
+2. Insert the words “I choose to. .. “ in front of each item you listed.
+3. get in touch with the intention behind your choice by completing the statement, I choose to … because I want ….
+
+**With every choice you make, be conscious of what need it serves.**
+
+PS: need to pattern match action motivations with personal values, and drop if they don't match.
+
+*when we do things solely in the spirit of enhancing life, we will find others appreciating us.*
+
+Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them.
+
+The most dangerous of all behaviors may consist of doing things “because we’re supposed to.”
+
+*instead of getting caught up in moralistic self-judgments, we can use the process of NVC mourning and self-forgiveness to show us where we can grow.*
+
+----

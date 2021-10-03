@@ -472,4 +472,25 @@ Fear of punishment diminishes self-esteem and goodwill.
 Question 1: What do I want this person to do?
 Question 2: What do I want to be this **person’s reasons** for doing it?
 
+---
+
+ NVC heightens our awareness of the cultural conditioning influencing us at any given moment.
+
+ The ability to hear our own feelings and needs and empathize with them can free us from depression.
+
+ NVC helps us create a more peaceful state of mind by encouraging us to focus on what we are truly wanting rather than on what is wrong with others or ourselves.
+
+**Focus on what we want to do rather than what went wrong.**
+
+*Defuse stress by hearing our own feelings and needs.*
+
+*Defuse stress by empathizing with others.*
+
+Buber posits that human growth occurs through a meeting between two individuals who express themselves vulnerably and authentically in what he termed an “I-Thou” relationship.
+
+----
+
+
+
+
 

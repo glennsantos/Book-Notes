@@ -416,3 +416,44 @@ The most dangerous of all behaviors may consist of doing things “because we’
 *instead of getting caught up in moralistic self-judgments, we can use the process of NVC mourning and self-forgiveness to show us where we can grow.*
 
 ----
+
+Killing people is too superficial.
+
+*If we are truly angry, we would want a much more powerful way to fully express ourselves.*
+
+*Divorce the other person from any responsibility for our anger*
+> Such thinking leads us to express our anger superficially by blaming or punishing the other person.
+> We are never angry because of what others say or do.
+> To motivate by guilt, mix up stimulus and cause.
+> The cause of anger lies in our thinking—in thoughts of *blame* and *judgment*.
+
+When we judge others, we contribute to violence.
+> Anger co-opts our energy by diverting it toward punitive actions.
+> Use anger as a wake-up call.
+> Violence comes from the belief that other people cause our pain and therefore deserve punishment.
+
+**Judgments of others contribute to self-fulfilling prophecies.**
+
+The more people hear blame and judgment, 
+- the more defensive and aggressive they become and 
+- the less they will care about our needs in the future.
+
+**Four Steps to Expressing Anger**
+1. stop and do nothing except to breathe. (Pause)
+2. Identify our judgmental thoughts. (Reflect)
+3. Connect with our needs. (Ask)
++ if we want them to hear us we would need first to empathize with them.
+4. Express our feelings and unmet needs. (Yield)
+
+
+
+*The more we hear them, the more they’ll hear us.*
+
+Stay conscious of the violent thoughts that arise in our minds, without judging them.
+> When we hear another person’s feelings and needs, we recognize our common humanity.
+
+When my consciousness is focused on another human being’s feelings and needs, I see the universality of our experience.
+
+**Practice translating each judgment into an unmet need.**
+
+

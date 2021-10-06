@@ -2,18 +2,18 @@
 
 NonViolent Communication (NVC) is a way of communicating that leads us to give from the heart through listening, empathy and respect.
 
-### Goal:
+## Goal:
 Establish relationships based on honesty and empathy that will eventually fulfill everyone’s needs.
 
-### Benefits:
+## Benefits:
 1. NVC heightens our awareness of the cultural conditioning influencing us at any given moment.
 2. NVC give us the ability to hear our own feelings and needs and empathize with them to free us from depression.
 3. NVC helps us create a more peaceful state of mind by encouraging us to focus on what we are truly wanting rather than on what is wrong with others or ourselves.
 
-### NVC Steps:
+## NVC Steps:
 1. **Observe** the situation without evaluating and judgment.
-    + Set aside judgments and labels since that contributes to violence. 
-     + > Violence comes from the belief that other people cause our pain and therefore deserve punishment.
+    + Set aside judgments and labels since that contributes to violence.  
+    > Violence comes from the belief that other people cause our pain and therefore deserve punishment.
     + Practice translating each judgment into an unmet need.
     + Replace language that implies lack of choice with language that acknowledges choice.
 2. Define your **feelings** about the situation.
@@ -27,7 +27,7 @@ Establish relationships based on honesty and empathy that will eventually fulfil
     + Use positive language in the form of concrete actions when making requests, accompanied by your feelings and needs
     + To make sure the message we sent is the message that’s received, ask the listener to reflect it back.
 
-### Requests vs Demands
+## Requests vs Demands
 Human beings, when hearing any kind of demand, tend to resist because it threatens our autonomy.
 > The more people hear demands, the less they enjoy being around us.
 
@@ -48,7 +48,7 @@ After we express ourselves vulnerably, we often want to know:
 2. What the listener is thinking; or
 3. Whether the listener would be willing to take a particular action
 
-### Basic Human Needs
+## Basic Human Needs
 1. Autonomy
 2. Celebration
 3. Integrity
@@ -57,12 +57,12 @@ After we express ourselves vulnerably, we often want to know:
 6. Spiritual Communion
 7. Physical Nurturance.
 
-### Emotional Slavery to Emotional Liberation
-Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings. Drives **guilt**
-Stage 2: **The Obnoxious stage.** We feel **angry**; we no longer want to be responsible for others’ feelings.
-Stage 3: **Emotional liberation**. We take **responsibility** for our intentions and actions. We respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.
+## Emotional Slavery to Emotional Liberation
+Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings, which drives **guilt**.  
+Stage 2: **The Obnoxious stage.** We feel **angry**; we no longer want to be responsible for others’ feelings.  
+Stage 3: **Emotional liberation**. We take **responsibility** for our intentions and actions. We respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.  
 
-### Receiving Empathically
+## Receiving Empathically
 
 **Empathy**: emptying our mind and listening with our whole being. It occurs only when we have successfully shed all preconceived ideas and judgments about them.
 > Instead of offering empathy, we tend instead to give advice or reassurance and to explain our own position or feeling.
@@ -72,7 +72,7 @@ The key ingredient of empathy is **presence**
 We may wish to reflect back by paraphrasing what we have understood.
 > Paraphrasing tends to save, rather than waste, time.
 
-### Sustaining Empathy
+## Sustaining Empathy
 
 Our ability to offer empathy can:
 + allow us to stay vulnerable, 
@@ -81,26 +81,26 @@ Our ability to offer empathy can:
 + revive a lifeless conversation, and even 
 + hear the feelings and needs expressed through silence. 
 
-We need empathy to give empathy. To receive empathy:
-> Listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others.
-> Stop, breathe, give ourselves empathy.
-> Scream nonviolently.
-> Physically remove ourselves from the situation.
+We need empathy to give empathy. To receive empathy:  
+* Listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others
+* Stop, breathe, give ourselves empathy.
+* Scream nonviolently.
+* Physically remove ourselves from the situation.
 
 We know a speaker has received adequate empathy when:
 1. We sense a release of tension, or 
 2. The flow of words comes to a halt.
 
-### Self-Compassion
+## Self-Compassion
 
 We want to act out of the desire to contribute to life, rather than out of fear, guilt, shame, or obligation.
-+ When what motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.
++ When what motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.  
 
 1. List any activity you dread but do anyway because you perceive yourself to have no choice.
 2. Insert the words “I choose to... “ in front of each item you listed.
 3. Get in touch with the intention behind your choice by completing the statement, "I choose to… because I want…"
 
-### Four Steps to Expressing Anger
+## Four Steps to Expressing Anger
 1. Stop and do nothing except to breathe.
 2. Identify our judgmental thoughts. 
 3. Connect with our needs.
@@ -108,13 +108,13 @@ We want to act out of the desire to contribute to life, rather than out of fear,
 
 If we want them to hear us, we would need first to empathize with them.
 + The more we hear them, the more they’ll hear us.
-+ 
-**Focus on what we want to do rather than what went wrong.**
+  
+*Focus on what we want to do rather than what went wrong.*
 
-### Three Components of Appreciation
-1. the actions that have contributed to our well-being
-2. the particular needs of ours that have been fulfilled
-3. the pleasureful feelings engendered by the fulfillment of those needs
+## Three Components of Appreciation
+1. The actions that have contributed to our well-being
+2. The particular needs of ours that have been fulfilled
+3. The pleasureful feelings engendered by the fulfillment of those needs
 
 ## Saying “Thank You” in NVC: 
 “This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”

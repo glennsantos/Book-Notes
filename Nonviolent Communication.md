@@ -1,3 +1,126 @@
+## Summary Notes
+
+NonViolent Communication (NVC) is a way of communicating that leads us to give from the heart through listening, empathy and respect.
+
+### Goal:
+Establish relationships based on honesty and empathy that will eventually fulfill everyone’s needs.
+
+### Benefits:
+1. NVC heightens our awareness of the cultural conditioning influencing us at any given moment.
+2. NVC give us the ability to hear our own feelings and needs and empathize with them to free us from depression.
+3. NVC helps us create a more peaceful state of mind by encouraging us to focus on what we are truly wanting rather than on what is wrong with others or ourselves.
+
+### NVC Steps:
+1. **Observe** the situation without evaluating and judgment.
+    + Set aside judgments and labels since that contributes to violence. 
+     + > Violence comes from the belief that other people cause our pain and therefore deserve punishment.
+    + Practice translating each judgment into an unmet need.
+    + Replace language that implies lack of choice with language that acknowledges choice.
+2. Define your **feelings** about the situation.
+   + Develop a vocabulary of feelings that allows you to clearly and specifically name or identify your emotions.
+3. Check which of your **unmet needs** are causing you to feel this way.
+   + Accept responsibility for your feelings, rather than blame other people, by acknowledging your own needs, desires, expectations, values, or thoughts. 
+   + The more directly we can connect our feelings to our own needs, the easier it is for others to respond to us compassionately.
+   + The more directly we can connect our feelings to our needs, the easier it is for others to respond compassionately.
+4. Voice your **request** about those unmet needs.
+    + If we don’t value our needs, others may not either.
+    + Use positive language in the form of concrete actions when making requests, accompanied by your feelings and needs
+    + To make sure the message we sent is the message that’s received, ask the listener to reflect it back.
+
+### Requests vs Demands
+Human beings, when hearing any kind of demand, tend to resist because it threatens our autonomy.
+> The more people hear demands, the less they enjoy being around us.
+
+Something is heard as a **Demand** if:
+1. Speaker responds with a criticism or judgment.
+2. Speaker lays a guilt trip.
+3. Speaker uses persuasion without showing empathy.
+4. Speaker is in a position of authority over the listener.
+5. Listener believes they will be blamed or punished if they do not comply.
+6. Listener has past experiences with coercive authority figures.
+
+Something is heard as a **Request** if: 
+1. Speaker shows empathy.
+2. Speaker emphasizes that we would only want them to comply if they can do so willingly. 
+
+After we express ourselves vulnerably, we often want to know:
+1. What the listener is feeling;
+2. What the listener is thinking; or
+3. Whether the listener would be willing to take a particular action
+
+### Basic Human Needs
+1. Autonomy
+2. Celebration
+3. Integrity
+4. Interdependence
+5. Play
+6. Spiritual Communion
+7. Physical Nurturance.
+
+### Emotional Slavery to Emotional Liberation
+Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings. Drives **guilt**
+Stage 2: **The Obnoxious stage.** We feel **angry**; we no longer want to be responsible for others’ feelings.
+Stage 3: **Emotional liberation**. We take **responsibility** for our intentions and actions. We respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.
+
+### Receiving Empathically
+
+**Empathy**: emptying our mind and listening with our whole being. It occurs only when we have successfully shed all preconceived ideas and judgments about them.
+> Instead of offering empathy, we tend instead to give advice or reassurance and to explain our own position or feeling.
+
+The key ingredient of empathy is **presence**
+
+We may wish to reflect back by paraphrasing what we have understood.
+> Paraphrasing tends to save, rather than waste, time.
+
+### Sustaining Empathy
+
+Our ability to offer empathy can:
++ allow us to stay vulnerable, 
++ defuse potential violence, 
++ hear the word no without taking it as a rejection, 
++ revive a lifeless conversation, and even 
++ hear the feelings and needs expressed through silence. 
+
+We need empathy to give empathy. To receive empathy:
+> Listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others.
+> Stop, breathe, give ourselves empathy.
+> Scream nonviolently.
+> Physically remove ourselves from the situation.
+
+We know a speaker has received adequate empathy when:
+1. We sense a release of tension, or 
+2. The flow of words comes to a halt.
+
+### Self-Compassion
+
+We want to act out of the desire to contribute to life, rather than out of fear, guilt, shame, or obligation.
++ When what motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.
+
+1. List any activity you dread but do anyway because you perceive yourself to have no choice.
+2. Insert the words “I choose to... “ in front of each item you listed.
+3. Get in touch with the intention behind your choice by completing the statement, "I choose to… because I want…"
+
+### Four Steps to Expressing Anger
+1. Stop and do nothing except to breathe.
+2. Identify our judgmental thoughts. 
+3. Connect with our needs.
+4. Express our feelings and unmet needs.
+
+If we want them to hear us, we would need first to empathize with them.
++ The more we hear them, the more they’ll hear us.
++ 
+**Focus on what we want to do rather than what went wrong.**
+
+### Three Components of Appreciation
+1. the actions that have contributed to our well-being
+2. the particular needs of ours that have been fulfilled
+3. the pleasureful feelings engendered by the fulfillment of those needs
+
+## Saying “Thank You” in NVC: 
+“This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
+
+----
+
 **NVC / Compassionate Communication**
 > a way of communicating that leads us to give from the heart. 
 > NVC fosters deep listening, respect, and empathy and engenders a mutual desire to give from the heart. 
@@ -161,13 +284,15 @@ some of the basic human needs
 If we don’t value our needs, others may not either.
 
 ## Emotional Slavery to Emotional Liberation
-**First stage: Emotional slavery. **We see ourselves responsible for others’ feelings. Drives **guilt**
+First stage: Emotional slavery. **We see ourselves responsible for others’ feelings. Drives **guilt**
 > This can easily lead us to see the very people who are closest to us as burdens.
-**Second stage: The obnoxious stage. **We feel **angry**; we no longer want to be responsible for others’ feelings.
+
+Second stage: The obnoxious stage. **We feel **angry**; we no longer want to be responsible for others’ feelings.
 > We are clear what we are not responsible for, but have yet to learn how to be responsible to others in a way that is not emotionally enslaving.
 > in the obnoxious stage, we have yet to grasp that emotional liberation entails more than simply asserting our own needs.
 > learning to express her needs and risk dealing with the displeasure of others.
-**Third stage: Emotional liberation.** We take responsibility for our intentions and actions.
+
+Third stage: Emotional liberation. We take responsibility for our intentions and actions.
 > we respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.
 > we are aware that we can never meet our own needs at the expense of others.
 
@@ -391,7 +516,7 @@ A basic premise of NVC is that whenever we imply that someone is wrong or bad, w
 > connecting with the feelings and unmet needs stimulated by past actions we now regret.
 
 **NVC self-forgiveness**: 
-connecting with the need we were trying to meet when we took the action that we now regret.
+> connecting with the need we were trying to meet when we took the action that we now regret.
 
 *We are compassionate with ourselves when we are able to embrace all parts of ourselves and recognize the needs and values expressed by each part.*
 
@@ -427,7 +552,7 @@ Killing people is too superficial.
 > To motivate by guilt, mix up stimulus and cause.
 > The cause of anger lies in our thinking—in thoughts of *blame* and *judgment*.
 
-When we judge others, we contribute to violence.
+When we judge others, we .
 > Anger co-opts our energy by diverting it toward punitive actions.
 > Use anger as a wake-up call.
 > Violence comes from the belief that other people cause our pain and therefore deserve punishment.

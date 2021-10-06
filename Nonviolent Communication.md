@@ -2,15 +2,15 @@
 
 NonViolent Communication (NVC) is a way of communicating that leads us to give from the heart through listening, empathy and respect.
 
-## Goal:
+## 🧭 Goal
 Establish relationships based on honesty and empathy that will eventually fulfill everyone’s needs.
 
-## Benefits:
+## 🎁 Benefits
 1. NVC heightens our awareness of the cultural conditioning influencing us at any given moment.
 2. NVC give us the ability to hear our own feelings and needs and empathize with them to free us from depression.
 3. NVC helps us create a more peaceful state of mind by encouraging us to focus on what we are truly wanting rather than on what is wrong with others or ourselves.
 
-## NVC Steps:
+## 👣 NVC Steps:
 1. **Observe** the situation without evaluating and judgment.
     + Set aside judgments and labels since that contributes to violence.  
     > Violence comes from the belief that other people cause our pain and therefore deserve punishment.
@@ -27,11 +27,11 @@ Establish relationships based on honesty and empathy that will eventually fulfil
     + Use positive language in the form of concrete actions when making requests, accompanied by your feelings and needs
     + To make sure the message we sent is the message that’s received, ask the listener to reflect it back.
 
-## Requests vs Demands
+## 🤲 Requests vs Demands ✊
 Human beings, when hearing any kind of demand, tend to resist because it threatens our autonomy.
 > The more people hear demands, the less they enjoy being around us.
 
-Something is heard as a **Demand** if:
+Something is heard as a **Demand** ✊ if:
 1. Speaker responds with a criticism or judgment.
 2. Speaker lays a guilt trip.
 3. Speaker uses persuasion without showing empathy.
@@ -39,7 +39,7 @@ Something is heard as a **Demand** if:
 5. Listener believes they will be blamed or punished if they do not comply.
 6. Listener has past experiences with coercive authority figures.
 
-Something is heard as a **Request** if: 
+Something is heard as a **Request** 🤲 if: 
 1. Speaker shows empathy.
 2. Speaker emphasizes that we would only want them to comply if they can do so willingly. 
 
@@ -58,11 +58,11 @@ After we express ourselves vulnerably, we often want to know:
 7. Physical Nurturance.
 
 ## Emotional Slavery to Emotional Liberation
-Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings, which drives **guilt**.  
-Stage 2: **The Obnoxious stage.** We feel **angry**; we no longer want to be responsible for others’ feelings.  
-Stage 3: **Emotional liberation**. We take **responsibility** for our intentions and actions. We respond to the needs of others out of **compassion**, never out of fear, guilt, or shame.  
+Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings, which drives **guilt** 😖.  
+Stage 2: **The Obnoxious stage.** We feel **angry** 🤬; we no longer want to be responsible for others’ feelings.  
+Stage 3: **Emotional liberation**. We take **responsibility**  😔 for our intentions and actions. We respond to the needs of others out of **compassion** 🥰, never out of fear, guilt, or shame.  
 
-## Receiving Empathically
+## 💝 Receiving Empathically
 
 **Empathy**: emptying our mind and listening with our whole being. It occurs only when we have successfully shed all preconceived ideas and judgments about them.
 > Instead of offering empathy, we tend instead to give advice or reassurance and to explain our own position or feeling.
@@ -72,17 +72,17 @@ The key ingredient of empathy is **presence**
 We may wish to reflect back by paraphrasing what we have understood.
 > Paraphrasing tends to save, rather than waste, time.
 
-## Sustaining Empathy
+## 💞 Sustaining Empathy
 
 Our ability to offer empathy can:
-+ allow us to stay vulnerable, 
-+ defuse potential violence, 
-+ hear the word no without taking it as a rejection, 
-+ revive a lifeless conversation, and even 
-+ hear the feelings and needs expressed through silence. 
++ Allow us to stay vulnerable
++ Defuse potential violence
++ Hear the words without taking it as a rejection
++ Revive a lifeless conversation 
++ Hear the feelings and needs expressed through silence
 
 We need empathy to give empathy. To receive empathy:  
-* Listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others
+* Listen to what’s going on in ourselves with the same quality of presence and attention that we offer to others.
 * Stop, breathe, give ourselves empathy.
 * Scream nonviolently.
 * Physically remove ourselves from the situation.
@@ -91,33 +91,34 @@ We know a speaker has received adequate empathy when:
 1. We sense a release of tension, or 
 2. The flow of words comes to a halt.
 
-## Self-Compassion
+## 💖 Self-Compassion
 
 We want to act out of the desire to contribute to life, rather than out of fear, guilt, shame, or obligation.
-+ When what motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.  
+
+*When what motivates us is simply to make life wonderful for others and ourselves, then even hard work has an element of play in it.*
 
 1. List any activity you dread but do anyway because you perceive yourself to have no choice.
-2. Insert the words “I choose to... “ in front of each item you listed.
+2. Insert the words "I choose to... " in front of each item you listed.
 3. Get in touch with the intention behind your choice by completing the statement, "I choose to… because I want…"
 
-## Four Steps to Expressing Anger
+##  🏞️ Four Steps to Expressing Anger
 1. Stop and do nothing except to breathe.
 2. Identify our judgmental thoughts. 
 3. Connect with our needs.
 4. Express our feelings and unmet needs.
 
 If we want them to hear us, we would need first to empathize with them.
-+ The more we hear them, the more they’ll hear us.
+> The more we hear them, the more they’ll hear us.
   
 *Focus on what we want to do rather than what went wrong.*
 
-## Three Components of Appreciation
-1. The actions that have contributed to our well-being
-2. The particular needs of ours that have been fulfilled
-3. The pleasureful feelings engendered by the fulfillment of those needs
+## 🎀 Three Components of Appreciation
+1. The actions that have contributed to our well-being.
+2. The particular needs of ours that have been fulfilled.
+3. The pleasureful feelings engendered by the fulfillment of those needs.
 
-## Saying “Thank You” in NVC: 
-“This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
+## 🙇 Saying "Thank You” in NVC: 
+"This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
 
 ----
 
@@ -184,7 +185,7 @@ value judgments vs moralistic judgments.
 > Comparisons are a form of judgment
 > blocks compassion, both for oneself and for others.
 
-**Denial of Responsibility** / Amtssprache / “office talk” or “bureaucratese.”
+**Denial of Responsibility** / Amtssprache / "office talk” or "bureaucratese.”
 > we are each responsible for our own thoughts, feelings, and actions.
 > use of the common expression *have to*, *make me feel*
 > Our language obscures awareness of personal responsibility.
@@ -259,7 +260,7 @@ In NVC, however, we would urge this speaker to go a step further by identifying 
 
  common speech patterns that tend to mask accountability for our own feelings:
  - Use of impersonal pronouns such as it and that
- - use of the expression “I feel (an emotion) because … “ followed by a person or personal pronoun other than I
+ - use of the expression "I feel (an emotion) because … " followed by a person or personal pronoun other than I
  - Statements that mention only the actions of others
 
 Distinguish between giving from the heart and being motivated by guilt.
@@ -341,8 +342,8 @@ After we express ourselves vulnerably, we often want to know:
 **Making Requests of a Group**
 > When we are not clear about the response we’d like, we may initiate unproductive conversations that end up satisfying no one’s needs.
 > In a group, much time is wasted when speakers aren’t certain what response they’re wanting.
-> we can benefit from developing and promoting “bas-consciousness” in all our interactions.
-+ In India, when people have received the response they want in conversations they have initiated, they say “bas“
+> we can benefit from developing and promoting "bas-consciousness” in all our interactions.
++ In India, when people have received the response they want in conversations they have initiated, they say "bas"
 
 When the other person hears a demand from us, they see two options: to *submit* or to *rebel*.
 > Our requests are received as demands when others believe they will be blamed or punished if they do not comply.
@@ -444,7 +445,7 @@ Paraphrasing tends to save, rather than waste, time.
 **Sustaining Empathy**
 
 allow others the opportunity to **fully express themselves** before turning our attention to solutions or requests for relief.
-> If we are uncertain as to whether we have stayed long enough in the process, we can always ask, “Is there more that you wanted to say?”
+> If we are uncertain as to whether we have stayed long enough in the process, we can always ask, "Is there more that you wanted to say?”
 
 We know a speaker has received adequate empathy when 
 1. we sense a release of tension, or 
@@ -466,7 +467,7 @@ It’s harder to empathize with those who appear to possess more power, status, 
 
 In situations of pain, I recommend first getting the empathy necessary to go beyond the thoughts occupying our heads and recognize our deeper needs.
 
-*We “say a lot” by listening for other people’s feelings and needs.*
+*We "say a lot” by listening for other people’s feelings and needs.*
 
 The ability to offer empathy to people in stressful situations can defuse potential violence.
 > After several minutes of my continuing to reflect their feelings, the group became less hostile.
@@ -477,7 +478,7 @@ The more I was able to focus my attention on his feelings and needs, the more I 
 
 It may be difficult to empathize with those who are closest to us.
 
-*Empathizing with someone’s “no” protects us from taking it personally.*
+*Empathizing with someone’s "no” protects us from taking it personally.*
 
 To bring a conversation back to life: interrupt with empathy.
 > best time to interrupt is when we’ve heard one word more than we want to hear.
@@ -525,7 +526,7 @@ an important form of self-compassion is to make choices motivated purely by our 
 > We want to take action out of the desire to contribute to life rather than out of fear, guilt, shame, or obligation.
 
 1. List any activity you dread but do anyway because you perceive yourself to have no choice.
-2. Insert the words “I choose to. .. “ in front of each item you listed.
+2. Insert the words "I choose to. .. " in front of each item you listed.
 3. get in touch with the intention behind your choice by completing the statement, I choose to … because I want ….
 
 **With every choice you make, be conscious of what need it serves.**
@@ -536,7 +537,7 @@ PS: need to pattern match action motivations with personal values, and drop if t
 
 Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them.
 
-The most dangerous of all behaviors may consist of doing things “because we’re supposed to.”
+The most dangerous of all behaviors may consist of doing things "because we’re supposed to.”
 
 *instead of getting caught up in moralistic self-judgments, we can use the process of NVC mourning and self-forgiveness to show us where we can grow.*
 
@@ -611,7 +612,7 @@ Question 2: What do I want to be this **person’s reasons** for doing it?
 
 *Defuse stress by empathizing with others.*
 
-Buber posits that human growth occurs through a meeting between two individuals who express themselves vulnerably and authentically in what he termed an “I-Thou” relationship.
+Buber posits that human growth occurs through a meeting between two individuals who express themselves vulnerably and authentically in what he termed an "I-Thou” relationship.
 
 ----
 
@@ -624,8 +625,8 @@ Three Components of Appreciation
 2. the particular needs of ours that have been fulfilled
 3. the pleasureful feelings engendered by the fulfillment of those needs
 
-Saying “thank you” in NVC: 
-“This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
+Saying "thank you” in NVC: 
+"This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
 
 Receive appreciation without feelings of superiority or false humility.
 

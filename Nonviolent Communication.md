@@ -10,7 +10,7 @@ Establish relationships based on honesty and empathy that will eventually fulfil
 2. NVC give us the ability to hear our own feelings and needs and empathize with them to free us from depression.
 3. NVC helps us create a more peaceful state of mind by encouraging us to focus on what we are truly wanting rather than on what is wrong with others or ourselves.
 
-## 👣 NVC Steps:
+## 🏞️ NVC Steps:
 1. **Observe** the situation without evaluating and judgment.
     + Set aside judgments and labels since that contributes to violence.  
     > Violence comes from the belief that other people cause our pain and therefore deserve punishment.
@@ -48,7 +48,7 @@ After we express ourselves vulnerably, we often want to know:
 2. What the listener is thinking; or
 3. Whether the listener would be willing to take a particular action
 
-## Basic Human Needs
+## 🍽️ Basic Human Needs
 1. Autonomy
 2. Celebration
 3. Integrity
@@ -57,7 +57,7 @@ After we express ourselves vulnerably, we often want to know:
 6. Spiritual Communion
 7. Physical Nurturance.
 
-## Emotional Slavery to Emotional Liberation
+## ⛓️ Emotional Slavery to Emotional Liberation 🐦
 Stage 1: **Emotional Slavery.** We see ourselves responsible for others’ feelings, which drives **guilt** 😖.  
 Stage 2: **The Obnoxious stage.** We feel **angry** 🤬; we no longer want to be responsible for others’ feelings.  
 Stage 3: **Emotional liberation**. We take **responsibility**  😔 for our intentions and actions. We respond to the needs of others out of **compassion** 🥰, never out of fear, guilt, or shame.  
@@ -101,7 +101,7 @@ We want to act out of the desire to contribute to life, rather than out of fear,
 2. Insert the words "I choose to... " in front of each item you listed.
 3. Get in touch with the intention behind your choice by completing the statement, "I choose to… because I want…"
 
-##  🏞️ Four Steps to Expressing Anger
+## 💢 Four Steps to Expressing Anger
 1. Stop and do nothing except to breathe.
 2. Identify our judgmental thoughts. 
 3. Connect with our needs.
@@ -118,7 +118,7 @@ If we want them to hear us, we would need first to empathize with them.
 3. The pleasureful feelings engendered by the fulfillment of those needs.
 
 ## 🙇 Saying "Thank You” in NVC: 
-"This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.”
+"This is **what you did**; this is **what I feel**; this is the **need of mine that was met**.
 
 ----
 

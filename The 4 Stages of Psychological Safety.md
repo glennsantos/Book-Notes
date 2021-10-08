@@ -50,7 +50,50 @@ Being ignored is often as painful as being rejected.
 
 Inclusion safety is created and sustained through renewed admittance to the group and repeated indications of acceptance.
 
-Giving inclusion safety is a moral imperative.
+Giving inclusion safety is a moral imperative. 
+
+If there’s no psychological safety, there’s no inclusion.
+
+Including another human being should be an act of prejudgment based on that person’s worth, not an act of judgment based on that person’s worthiness.
+
+create an environment of inclusion before we begin to think about judgments at all.
+
+The only reciprocation requirement in this unwritten social contract is the mutual exchange of respect and permission to belong. 
+
+What should it take to qualify for inclusion safety? Two things: 
+1. Be human
+2. Be harmless.
+
+To create inclusion safety, it helps to understand cultural differences, but
+
+you don’t need to be an expert in those differences, just sensitive to and appreciative of them.
+
+key drivers of psychological safety include familiarity among team members and the quality of those relationships based on prior interactions.
+
+Inclusion safety is not earned but owed. 
+
+f you’re a leader and want your people to perform, you must internalize the universal truth that people want, need, and deserve validation.
+
+the faster and deeper you get to know each other, the more effectively you can work together.
+
+More contact and context tend to create more empathy.
+
+In any social unit, inclusion safety can be granted, withheld, revoked, or  partially or conditionally granted.
+
+Where there’s no trust, there’s exclusion.
+
+because of our insecurity we refuse to validate each other, which is the very thing that heals the insecurity.
+
+Excluding a person is more often the result of personal unmet needs and insecurities than a genuine dislike of the person.
+
+People with low self-regard have a hard time being inclusive. 
+> Research shows that a well-developed sense of personal value and autonomy correlates significantly with kindness, generosity, social cooperation, and a spirit of mutual aid.
+> to develop self-regard is to develop your own capacity and confidence and to perform acts of service for others, especially for those whom you struggle to include.
+> Make it experiential by creating diverse teams and assigning individuals to diverse mentoring or peer coaching relationships.
+
+As you love people with action, you come to love them with emotion.
+
+
 
 ## Learner Safety
 > Learner safety indicates that you feel safe to engage in the discovery process, ask questions, experiment, and even make mistakes—not if, but when, you make them.
@@ -81,3 +124,4 @@ When a team offers a measure of respect, but very little permission, it falls in
 permission to contribute, but little respect >> exploitation
 
 act in the role of social architect and nourish a context in which people are given the respect and permission to (1) feel included, (2) learn, (3) contribute, and (4) innovate.
+

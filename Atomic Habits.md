@@ -1,28 +1,28 @@
 
 PERSONAL TAKEAWAYS
 
-𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆
-- Your identity is the foundation of your habits. Therefore, change you identity if you want to sustain your habits.
-- Focus on systems /habits instead of goals.
+🧢 𝗜𝗱𝗲𝗻𝘁𝗶𝘁𝘆
+- Your identity is the foundation of your habits. Therefore, change your identity if you want to sustain your habits.
+- Focus on systems / habits instead of goals.
 - Habits also build identity. What you do is what you become.
-- But do not set your identity in stone. An editable identity ensure you can adapt to changing times.
+- But do not set your identity in stone. 𝗛𝗮𝘃𝗲 𝗮𝗻 𝗲𝗱𝗶𝘁𝗮𝗯𝗹𝗲 𝗶𝗱𝗲𝗻𝘁𝗶𝘁𝘆 so you can adapt to changing times.
 
-𝟭𝘀𝘁 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗼𝗯𝘃𝗶𝗼𝘂𝘀 (𝗼𝗿 𝗶𝗻𝘃𝗶𝘀𝗶𝗯𝗹𝗲 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
+📍 𝟭𝘀𝘁 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗼𝗯𝘃𝗶𝗼𝘂𝘀 (𝗼𝗿 𝗶𝗻𝘃𝗶𝘀𝗶𝗯𝗹𝗲 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
 - A habit, good or bad, is hard to forget. Which is why we sometimes we fall back into bad habits so easily
  
-𝟮𝗻𝗱 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝘃𝗲 (𝗼𝗿 𝘂𝗻𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
+✨ 𝟮𝗻𝗱 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝘃𝗲 (𝗼𝗿 𝘂𝗻𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
 - Stack new habits you want to build with existing habits you enjoy.
 - Emotions cause us to act. Apathy actually stops action. 
 - Consequently, positive emotions reinforce a habit. Negative ones destroy them.
 
-𝟯𝗿𝗱 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗲𝗮𝘀𝘆 (𝗼𝗿 𝗱𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
+🖍️ 𝟯𝗿𝗱 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝗲𝗮𝘀𝘆 (𝗼𝗿 𝗱𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
 - Standardize (make a habit routine) before you optimize. Thus, use the 2 minute rule >> a habit should take less than 2 minutes to do.
 
-𝟰𝘁𝗵 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝘀𝗮𝘁𝗶𝘀𝗳𝘆𝗶𝗻𝗴 (𝗼𝗿 𝘂𝗻𝘀𝗮𝘁𝗶𝘀𝗳𝘆𝗶𝗻𝗴 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
+🎊 𝟰𝘁𝗵 𝗟𝗮𝘄: 𝗠𝗮𝗸𝗲 𝗶𝘁 𝘀𝗮𝘁𝗶𝘀𝗳𝘆𝗶𝗻𝗴 (𝗼𝗿 𝘂𝗻𝘀𝗮𝘁𝗶𝘀𝗳𝘆𝗶𝗻𝗴 𝘁𝗼 𝗯𝗿𝗲𝗮𝗸 𝗵𝗮𝗯𝗶𝘁)
 - Add an immediate positive effect to a habit to reinforce it. Add an immediate negative effect to a habit to break it.
 - Pick habits that suit your inclinations, don't force them or they won't be enjoyable
 
-𝗗𝗲𝗹𝗶𝗯𝗲𝗿𝗮𝘁𝗲 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲
+🤾 𝗗𝗲𝗹𝗶𝗯𝗲𝗿𝗮𝘁𝗲 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲
 - Habit + Deliberate Practice = Mastery
 - A decision journal is a good way to do deliberate practice for business leaders.
 

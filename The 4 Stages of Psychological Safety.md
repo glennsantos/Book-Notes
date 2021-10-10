@@ -244,6 +244,7 @@ It’s the leader’s job to recognize the difference between dissenting and der
 ## Challenger Safety
 > Challenger safety is a license to innovate.
 > the confidence to speak truth to power when you think something needs to change and it’s time to say so.
+> a level of psychological safety so high that people feel empowered to challenge the status quo
 
 Only when people feel free and able do they apply their creativity.
 
@@ -252,6 +253,122 @@ If you conduct a postmortem analysis of failure for almost any commercial organi
 Where there is no tolerance for candor, there is no constructive dissent. Where there is no constructive dissent, there is no innovation.
 
 To scale innovation throughout the organization, leaders must establish a norm of challenging the status quo.
+
+Challenger safety democratizes innovation.
+> When it comes to innovation, connectivity increases productivity.
+
+encourage dialogue and emotionally tolerate dissent along the way
+
+To socialize a team with challenger safety from the beginning is always easier than to re-socialize a team later.
+
+Organizational change is a process that moves through three separate layers:
+1. technical:  artifacts ; include systems, processes, structures, roles, responsibilities, policies, procedures, and tools and technology
+2. behavioral: change the way people behave as they interact with the technical layer and each other in new ways. 
+   * artifacts hold up behavior, they act as scaffolding. 
+   * once the scaffolding is removed, behavior reverts to past patterns
+3. cultural: the invisible layer, consisting of values, beliefs, and assumptions.
+   * single most difficult thing to change and the layer that changes last
+
+the “innovation threshold”—a place where the highest possible level of psychological safety replaces what would normally be a place inhabited with the greatest fear.
+
+you can’t coerce or manipulate innovation. The process is surrounded by political and interpersonal risk. 
+
+Innovation is hard enough because there’s no safety from failure.
+> what the leader can do is take the social sting and emotional bite out of the process.
+
+ the reality is that you’re asking your people to expose themselves to criticism, risk failure, take chances, be vulnerable, not fit in, and feel pain. And you’re asking them to do all of this without any real control of the outcome.
+
+ Candor-for-cover means that you as the leader protect each person’s right to speak candidly about any topic, provided they don’t make personal attacks or have malicious intent.
+
+In an atmosphere of challenger safety, we take all comers and all contributions.
+
+The more unknowns the leader eliminates through transparency, the fewer sources of stress the employee worries about.
+
+It’s possible to unlock creativity in a crisis if the leader welcomes dissent and doesn’t add a layer of manufactured fear to the existing level of natural stress.
+
+In the process of innovation, learning is more important than knowing.
+
+The Two Types of Innovation
+TYPE 1
+* Incremental
+* Derivative
+
+TYPE 2
+* Radical
+* Disruptive
+
+Innovation is the process of connected people connecting things.
+
+Asking questions introduces personal risk.
+> From a career standpoint, this is the high-risk, high-reward zone.
+
+![](inquiry.jpeg)
+
+
+the line between brilliance and ignorance can be very thin. 
+
+1. there were no dumb questions.
+2. there were no questions that were off limits, no topics that we couldn’t talk about
+3. model this behavior as a leader
+4. talk-to-listen ratio should be 50-50
+
+
+Your success will depend, not on independent action, but on your dependent interaction.
+
+Your job as a leader is to reduce social friction while increasing intellectual friction.
+
+The pattern of innovation is to try a lot and triumph a little.
+
+To get innovation to flow:
+1. seek out differences. 
+2. reduce the risk of ridicule.
+
+Disagreement is needed to stimulate the imagination.
+
+create a theater of conflict that carries natural pressure and stress, but not fear.
+
+Simply knowing that your vulnerability will not be exploited encourages you to be brave and contribute to the generative process.
+
+The challenge with challenger safety is that it takes time to create and no time destroy.
+
+leaders: your primary role is to sponsor and protect rather than snare and disinfect ideas coming from every direction.
+
+When a leader personally replaces the search for innovation with rivalry for prominence, the team can’t achieve the social cohesion necessary for the cocreative process of innovation.
+
+You must be humble and open, and you must listen, and if you don’t, the people around you will eventually have nothing to say. 
+
+**Increasingly we will not look upon our leaders as having the answers; we will look upon them as those who can draw out those answers by tapping the creative potential of the organization.**
+
+Make your organization culturally flat even though it’s not structurally flat. Make it egalitarian. 
+1. have everyone on your team take turns conducting your regular meetings.
+2. conduct a short training segment each week. rotate the responsibility to lead the training.
+3. Ensure that less experienced and lower-status individuals have the opportunity to train more experienced, higher-status individuals.
+4. during 1:1s - go to them rather than have them come to you. 
+
+success may not be your friend when it comes to nurturing challenger safety. 
+
+leaders: you must formally and officially assign dissent.
+> you’re formally commissioning and officially dedicating resources to vet ideas and tell you why something might not work, where it’s weak, why it’s flawed.
+
+ Assigning dissent to a project, priority, or initiative from the beginning removes the natural fear normally associated with challenging the status quo.
+
+ assigning dissent is the single most effective mechanism available to a leader to shift a culture toward agility.
+
+  Though it may appear personally threatening, leaders must stand first in line to model the patterns of learning agility.
+
+  Leaders will increasingly earn competence through their ability to learn and adapt rather than depending on their current knowledge and skills.
+
+  * Know that you are the curator of culture. 
+  * Call anyone out that tries to silence others.
+  * Display no pride of authorship.
+  * Give every member of your team the duty to disagree. Then brace yourself to hear the truth.
+  * Don’t make it emotionally expensive to challenge the status quo. Ask the members of your team to challenge specific things and discuss ideas on merit.
+  * The process is messy, iterative, and nonlinear, and there may be some pivots along the way. Point out that you’re in uncharted territory, and help your team enjoy the journey.
+  *  If you reject a team member’s suggestion, show sensitivity by explaining why
+
+![](respect-permission-psychological-safety.jpg)
+
+
 
 ## paternalism
 When a team offers a measure of respect, but very little permission, it falls into the gutter of paternalism. 

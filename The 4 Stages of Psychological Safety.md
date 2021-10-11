@@ -78,11 +78,8 @@ Contributor safety emerges when the individual performs well, but the leader and
 
 When you’re competent and willing to hold yourself accountable, you’re ready to receive contributor safety.
 
-The Three Levels of Accountability   
-
-3. *Outcome*  
-2. *Process*  
-1. *Task*   
+**The Three Levels of Accountability**  
+*Task* >> *Process* >> *Outcome*
 
 > When a person grants contributor safety in a way that tends to release discretionary effort, we call that the **blue zone**.
 

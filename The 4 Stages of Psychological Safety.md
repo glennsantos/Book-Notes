@@ -9,7 +9,7 @@ When psychological safety is high, people:
 
 > The presence of fear in an organization is the first sign of weak leadership.
 
-Progression of Psychological Safety
+**Progression of Psychological Safety**
 1. *Inclusion Safety*
 2. *Learner Safety*
 3. *Contributor Safety*
@@ -24,6 +24,8 @@ Progression of Psychological Safety
 4. Refuse to entertain damaging thoughts about yourself.
 
 ----
+
+### Inclusion Safety
 
 🍵 **Inclusion safety** is when someone is destigmatized as an outsider and brought into the fold.
 
@@ -45,6 +47,8 @@ What should it take to qualify for inclusion safety?
 
 ----
 
+### Learner Safety
+
 🍎 **Learner safety** is when you feel safe to engage in the discovery process, ask questions, experiment, and even make mistakes. In an ideal setting, learner safety is a mutual giving and receiving of ideas, observations, questions, and discussion. 
 
 Learner safety requires low ego and uncommonly high emotional intelligence.
@@ -54,19 +58,20 @@ Where learner safety exists, the leader creates a learning process with low soci
 
  ### How to give Learner Safety
 
- 1. Support the person's learning process.
- 2. Set learning goals that match the learner's skill level, or are even a bit higher.
- 3. Reiterate that it's okay, and even expected, to make mistakes. Encourage them during times of failure.
- 4. Be patient and avoid judgment.
- 5. Model effective learning. Become comfortable portraying yourself as competent through your ability to learn and adapt rather than your expertise.
- 6. Provide the resources needed to learn, such as materials and time.
- 7. Be in constant conversation so you get to know each other better. If you lose emotional engagement, intellectual engagement slows down or may not happen at all. 
- 8. Manage those who learn with their mouths—the vocally aggressive members of your team.
- 9. Never let hierarchy relieve anyone of the responsibility to learn
+1. Set learning goals that match the learner's skill level, or are even a bit higher.
+2. Reiterate that it's okay, and even expected, to make mistakes. Encourage them during times of failure.
+3. Be patient and avoid judgment.
+4. Become comfortable portraying yourself as competent through your ability to learn and adapt, rather than your expertise.
+5. Provide the resources needed to learn, such as materials and time.
+6. Be in constant conversation so you get to know each other better. 
+7. Manage the vocally aggressive members of your team.
+8. Never let hierarchy relieve anyone of the responsibility to learn.
 
 *Learning is where competitive advantage comes from.*
 
 ----
+
+### Contributor Safety
 
 🔧 **Contributor safety** emerges when the individual performs well, but the leader and team must do their part to provide encouragement and appropriate autonomy.
 
@@ -74,10 +79,10 @@ With contributor safety, the organization assumes risk on behalf of the individu
 
 When you’re competent and willing to hold yourself accountable, you’re ready to receive contributor safety.
 
-The Three Levels of Accountability
-3. *Outcome*
-2. *Process*
-1. *Task*
+The Three Levels of Accountability   
+3. *Outcome*  
+2. *Process*  
+1. *Task*  
 
 When a person grants contributor safety in a way that tends to release discretionary effort, we call that the **blue zone**.
 
@@ -85,14 +90,18 @@ When a person grants contributor safety in a way that tends to release discretio
 
 1. Invest in support, guidance and direction into people. But no handholding, no coddling, and most importantly, no shortcuts.
 2. Gradually provide autonomy in exchange for performance to manage risk.
-3. Nip toxic behaviors from the bud (mean-spirited comments, unethical behavior, abuse, and bullying). A toxic environment shuts down performance because people worry about psychological safety before they worry about performance.
+3. Nip toxic behaviors from the bud (mean-spirited comments, unethical behavior, abuse, and bullying). 
+   * A toxic environment shuts down performance because people worry about psychological safety before they worry about performance.
 4. Manage your ego.
-5. Ask, rather than tell. A leader’s tell-to-ask ratio shapes the signal-to-noise ratio for the team. If the leader is telling all the time, that telling becomes noise.
-7. Listen first, talk last.
-8.  Recognize the difference between dissenting and derailing behavior and manage the boundary between the two.
+5. Ask, rather than tell. 
+   * A leader’s tell-to-ask ratio shapes the signal-to-noise ratio for the team. If the leader is telling all the time, that telling becomes noise.
+6. Listen first, talk last.
+7.  Recognize the difference between dissenting and derailing behavior and manage the boundary between the two.
 
 
 ----
+
+### Challenger Safety 
 
 🌩️ **Challenger Safety** is a license to innovate, the confidence to speak truth to power when you think something needs to change and it’s time to say so. 
 
@@ -118,11 +127,9 @@ To innovate:
 9.  Give credit where due. When a leader personally replaces the search for innovation with rivalry for prominence, the team can’t achieve the social cohesion necessary for the cocreative process of innovation.
 10. Have everyone on your team take turns leading your regular meetings.
 11. Ensure that less experienced and lower-status individuals have the opportunity to train more experienced, higher-status individuals.
-12. If you reject a team member’s suggestion, show sensitivity by explaining why
+12. If you reject a team member’s suggestion, show sensitivity by explaining why.
 
 ![](inquiry.jpeg)
-
-The pattern of innovation is to try a lot and triumph a little.
 
 **Increasingly we will not look upon our leaders as having the answers; we will look upon them as those who can draw out those answers by tapping the creative potential of the organization.**
 

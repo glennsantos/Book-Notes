@@ -1,11 +1,3 @@
-TODOS
-[✅] Summarize the notes
-[ ] Fill out Transition Risk Assessment
-[ ] Create rough 90 day plan
-[ ] Create plans for boss convos
-[ ] Review EM Event loop and add to calendar (/home/aryeh/Documents/Books/Book Notes/emloop.jpeg)
-
-
 MAIN TAKEAWAYS
 
 𝟵𝟬-𝗗𝗮𝘆 𝗚𝗼𝗮𝗹𝘀

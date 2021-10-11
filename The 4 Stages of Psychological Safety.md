@@ -25,11 +25,11 @@ When psychological safety is high, people:
 
 ----
 
-### Inclusion Safety
+### 🍵 Inclusion Safety
 
-🍵 **Inclusion safety** is when someone is destigmatized as an outsider and brought into the fold.
+Inclusion safety is when someone is destigmatized as an outsider and brought into the fold.
 
-Inclusion safety is created and sustained through renewed admittance to the group and repeated indications of acceptance.
+*Inclusion safety is created and sustained through renewed admittance to the group and repeated indications of acceptance.*
 
 What should it take to qualify for inclusion safety?
 1. Be human
@@ -43,18 +43,15 @@ What should it take to qualify for inclusion safety?
 4. Increase your own self-worth.
 5. Interact with the person often to get to know them better, and vice versa.
 
-*As you love people with action, you come to love them with emotion.*
-
 ----
 
-### Learner Safety
+### 🍎 Learner Safety
 
-🍎 **Learner safety** is when you feel safe to engage in the discovery process, ask questions, experiment, and even make mistakes. In an ideal setting, learner safety is a mutual giving and receiving of ideas, observations, questions, and discussion. 
+Learner safety is when you feel safe to engage in the discovery process, ask questions, experiment, and even make mistakes. In an ideal setting, learner safety is a mutual giving and receiving of ideas, observations, questions, and discussion. 
 
-Learner safety requires low ego and uncommonly high emotional intelligence.
+> Learner safety requires low ego and uncommonly high emotional intelligence.
 
 Where learner safety exists, the leader creates a learning process with low social friction and low emotional expense.
-
 
  ### How to give Learner Safety
 
@@ -67,15 +64,15 @@ Where learner safety exists, the leader creates a learning process with low soci
 7. Manage the vocally aggressive members of your team.
 8. Never let hierarchy relieve anyone of the responsibility to learn.
 
-*Learning is where competitive advantage comes from.*
+> Learning is where competitive advantage comes from.
 
 ----
 
-### Contributor Safety
+### 🔧 Contributor Safety
 
-🔧 **Contributor safety** emerges when the individual performs well, but the leader and team must do their part to provide encouragement and appropriate autonomy.
+Contributor safety emerges when the individual performs well, but the leader and team must do their part to provide encouragement and appropriate autonomy.
 
-With contributor safety, the organization assumes risk on behalf of the individual.
+*With contributor safety, the organization assumes risk on behalf of the individual.*
 
 When you’re competent and willing to hold yourself accountable, you’re ready to receive contributor safety.
 
@@ -84,7 +81,7 @@ The Three Levels of Accountability
 2. *Process*  
 1. *Task*  
 
-When a person grants contributor safety in a way that tends to release discretionary effort, we call that the **blue zone**.
+> When a person grants contributor safety in a way that tends to release discretionary effort, we call that the **blue zone**.
 
 ### How to give Contributor Safety
 
@@ -101,11 +98,11 @@ When a person grants contributor safety in a way that tends to release discretio
 
 ----
 
-### Challenger Safety 
+### 🌩️ Challenger Safety 
 
-🌩️ **Challenger Safety** is a license to innovate, the confidence to speak truth to power when you think something needs to change and it’s time to say so. 
+Challenger safety is a license to innovate, the confidence to speak truth to power when you think something needs to change and it’s time to say so. 
 
-Where there is no tolerance for candor, there is no constructive dissent. Where there is no constructive dissent, there is no innovation.
+*Where there is no tolerance for candor, there is no constructive dissent. Where there is no constructive dissent, there is no innovation.*
 
 To innovate:
 1. Increase intellectual friction 

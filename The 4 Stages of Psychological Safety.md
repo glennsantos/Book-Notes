@@ -1,3 +1,5 @@
+## The 4 Stages of Psychological Safety Notes
+
 **Psychological Safety** is the single most important factor in explaining high performance.
 > People flourish when they’re participating in a cooperative system with high psychological safety.
 

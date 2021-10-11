@@ -1,3 +1,135 @@
+**Psychological Safety** is the single most important factor in explaining high performance.
+> People flourish when they’re participating in a cooperative system with high psychological safety.
+
+When psychological safety is high, people:
++ Take more ownership  
++ Release more discretionary effort
++ Learn more quickly 
++ Solve problems faster
+
+> The presence of fear in an organization is the first sign of weak leadership.
+
+Progression of Psychological Safety
+1. *Inclusion Safety*
+2. *Learner Safety*
+3. *Contributor Safety*
+4. *Challenger Safety*
+
+
+### How to gain Psychological Safety
+
+1. Love yourself first. Give yourself inclusion safety
+2. Find and connect with trustworthy, happy people who genuinely want your success and are willing to help.
+3. If you feel dominated, controlled, or trapped, with no apparent means of escape, search for a way out or leave immediately. 
+4. Refuse to entertain damaging thoughts about yourself.
+
+----
+
+🍵 **Inclusion safety** is when someone is destigmatized as an outsider and brought into the fold.
+
+Inclusion safety is created and sustained through renewed admittance to the group and repeated indications of acceptance.
+
+What should it take to qualify for inclusion safety?
+1. Be human
+2. Be harmless
+
+### How to give Inclusion Safety
+
+1. Understand their cultural background.
+2. Trust the person.
+3. Validate the person. Boost their self-esteem.
+4. Increase your own self-worth.
+5. Interact with the person often to get to know them better, and vice versa.
+
+*As you love people with action, you come to love them with emotion.*
+
+----
+
+🍎 **Learner safety** is when you feel safe to engage in the discovery process, ask questions, experiment, and even make mistakes. In an ideal setting, learner safety is a mutual giving and receiving of ideas, observations, questions, and discussion. 
+
+Learner safety requires low ego and uncommonly high emotional intelligence.
+
+Where learner safety exists, the leader creates a learning process with low social friction and low emotional expense.
+
+
+ ### How to give Learner Safety
+
+ 1. Support the person's learning process.
+ 2. Set learning goals that match the learner's skill level, or are even a bit higher.
+ 3. Reiterate that it's okay, and even expected, to make mistakes. Encourage them during times of failure.
+ 4. Be patient and avoid judgment.
+ 5. Model effective learning. Become comfortable portraying yourself as competent through your ability to learn and adapt rather than your expertise.
+ 6. Provide the resources needed to learn, such as materials and time.
+ 7. Be in constant conversation so you get to know each other better. If you lose emotional engagement, intellectual engagement slows down or may not happen at all. 
+ 8. Manage those who learn with their mouths—the vocally aggressive members of your team.
+ 9. Never let hierarchy relieve anyone of the responsibility to learn
+
+*Learning is where competitive advantage comes from.*
+
+----
+
+🔧 **Contributor safety** emerges when the individual performs well, but the leader and team must do their part to provide encouragement and appropriate autonomy.
+
+With contributor safety, the organization assumes risk on behalf of the individual.
+
+When you’re competent and willing to hold yourself accountable, you’re ready to receive contributor safety.
+
+The Three Levels of Accountability
+3. *Outcome*
+2. *Process*
+1. *Task*
+
+When a person grants contributor safety in a way that tends to release discretionary effort, we call that the **blue zone**.
+
+### How to give Contributor Safety
+
+1. Invest in support, guidance and direction into people. But no handholding, no coddling, and most importantly, no shortcuts.
+2. Gradually provide autonomy in exchange for performance to manage risk.
+3. Nip toxic behaviors from the bud (mean-spirited comments, unethical behavior, abuse, and bullying). A toxic environment shuts down performance because people worry about psychological safety before they worry about performance.
+4. Manage your ego.
+5. Ask, rather than tell. A leader’s tell-to-ask ratio shapes the signal-to-noise ratio for the team. If the leader is telling all the time, that telling becomes noise.
+7. Listen first, talk last.
+8.  Recognize the difference between dissenting and derailing behavior and manage the boundary between the two.
+
+
+----
+
+🌩️ **Challenger Safety** is a license to innovate, the confidence to speak truth to power when you think something needs to change and it’s time to say so. 
+
+Where there is no tolerance for candor, there is no constructive dissent. Where there is no constructive dissent, there is no innovation.
+
+To innovate:
+1. Increase intellectual friction 
+2. Decrease social friction.
+3. Seek out differences. 
+2. Reduce the risk of ridicule.
+
+
+### How to give Challenger Safety and promote Innovation
+
+1. Encourage dialogue and emotionally tolerate dissent along the way. When it comes to innovation, connectivity increases productivity.
+2. Provide candor for cover. This means that you as the leader protect each person’s right to speak candidly about any topic, provided they don’t make personal attacks or have malicious intent.
+3. Increase transparency. The more unknowns the leader eliminates through transparency, the fewer sources of stress the employee worries about.
+4. Welcome questions. No off-limits topics.
+5. Don’t make it emotionally expensive to challenge the status quo. Ask the members of your team to challenge specific things and discuss ideas on merit.
+6. Make your talk-to-listen ratio 50-50.
+7. Give every member of your team the duty to disagree. Then brace yourself to hear the truth.
+8. Sponsor and protect rather than snare and disinfect ideas coming from every direction.
+9.  Give credit where due. When a leader personally replaces the search for innovation with rivalry for prominence, the team can’t achieve the social cohesion necessary for the cocreative process of innovation.
+10. Have everyone on your team take turns leading your regular meetings.
+11. Ensure that less experienced and lower-status individuals have the opportunity to train more experienced, higher-status individuals.
+12. If you reject a team member’s suggestion, show sensitivity by explaining why
+
+![](inquiry.jpeg)
+
+The pattern of innovation is to try a lot and triumph a little.
+
+**Increasingly we will not look upon our leaders as having the answers; we will look upon them as those who can draw out those answers by tapping the creative potential of the organization.**
+
+![](respect-permission-psychological-safety.jpg)
+
+----
+
 to innovate
 > increase intellectual friction and
 >  decrease social friction.
@@ -64,9 +196,7 @@ What should it take to qualify for inclusion safety? Two things:
 1. Be human
 2. Be harmless.
 
-To create inclusion safety, it helps to understand cultural differences, but
-
-you don’t need to be an expert in those differences, just sensitive to and appreciative of them.
+To create inclusion safety, it helps to understand cultural differences, but you don’t need to be an expert in those differences, just sensitive to and appreciative of them.
 
 key drivers of psychological safety include familiarity among team members and the quality of those relationships based on prior interactions.
 
@@ -201,7 +331,6 @@ There was guidance, but no handholding, no coddling, and most importantly, no sh
 
 When a person restricts contributor safety in a way that causes us to freeze our discretionary efforts due to fear and the potential of social and emotional harm, we call that a red zone
 
-when a person grants contributor safety in a way that tends to release discretionary effort, we call that a blue zone 
 
  Fear-stricken teams give you their hands, some of their head, and none of their heart.
 
@@ -368,14 +497,67 @@ leaders: you must formally and officially assign dissent.
 
 ![](respect-permission-psychological-safety.jpg)
 
+## Avoiding Paternalism and Exploitation
 
-
-## paternalism
-When a team offers a measure of respect, but very little permission, it falls into the gutter of paternalism. 
+### Paternalism
+When a team offers a measure of respect, but very little permission, it falls into the gutter of **paternalism**. 
+> Paternalism is telling you what to do, supposedly in your own best interest.
 > Paternalistic leaders act like helicopter parents and benevolent dictators
 > paternalism breeds cynicism and disengagement
+> Paternalism’s lack of permission creates the fear of social isolation.
+* You seek comfort more than freedom, security more than independence.
+
+The power of paternalism is often good and necessary. It protects us until we are wise enough to protect ourselves.
+
+*Unnecessary paternalism runs the risk of breeding dependency and learned helplessness on the one hand and frustration and rebellion on the other.*
+
+Paternalism is safe in the short term but grows dangerous in the long term.
+> Over time, paternalism leads to a low tolerance for candor and a lack of bravery.
+
+In most paternalistic societies, there’s strong deference to authority and a desire to honor the past.
+
+### Exploitation
+
+Exploitation combines high permission with low respect. It tends to be motivated by the universal temptation toward despotism—the urge to control others for gain and gratification.
+> Exploitation is the process of extracting value from another human being while disregarding that person’s inherent value.
+
+Whether personal or organizational, exploitation requires some
+
+type of repressive apparatus by which to extract value from humans, either by manipulation or coercion.
+
+**exploitation’s** lack of respect creates the fear of harm in addition to the fear of isolation.
 
 permission to contribute, but little respect >> exploitation
 
 act in the role of social architect and nourish a context in which people are given the respect and permission to (1) feel included, (2) learn, (3) contribute, and (4) innovate.
 
+When exploitation is permitted, people learn to accept it without complaint. Even those who are exploited can become defenders of the very exploitation they suffer.
+
+----
+
+Social approval, belonging, and connectedness are needs. But no one really needs constant validation.
+
+When necessary, healthy rejection of popular opinion is a beautiful thing.
+
+In the land of false fellowship, unnatural competition replaces natural affection.
+
+Nobody is a nobody. 
+
+Whether or not you’re accepted, you’re acceptable.
+
+* Love yourself first. Give yourself inclusion safety
+* If you observe others acting maliciously toward you, even if it’s mild, act early to confront the behavior or remove yourself from the situation.
+* Don’t believe that you must accept abusive treatment.
+* As you work to liberate yourself from unhealthy treatment, fight back in healthy ways. 
+* Avoid drugs and all forms of self-harm and self-indulgence.
+* If you feel dominated, controlled, or trapped, with no apparent means of escape, search for a way out or leave immediately. 
+* refuse to entertain damaging thoughts about yourself.
+* Find and connect with trustworthy, happy people who genuinely want your success and are willing to help.
+
+Psychological safety is built on a moral foundation of looking on our fellow creatures with respect and giving them permission to belong and contribute.
+
+If you make any excuse for not extending psychological safety, you’re choosing to value something else more than human beings.
+
+The clearest message that we get from this 75-year study is this: Good relationships keep us happier and healthier.
+
+The greatest source of fulfillment in life comes from including others, helping them learn and grow, unleashing their potential, and finding deep communion together.

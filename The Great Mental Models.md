@@ -63,3 +63,32 @@ Falsification is the opposite of verification
 Applying the filter of falsifiability helps us sort through which theories are more robust.
 
 ----
+
+## First Principles Thinking
+
+* a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them
+* Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible.
+
+### Techniques for establishing first principles
+
+**Socratic questioning**
+> a disciplined questioning process, used to establish truths, reveal underlying assumptions, and separate knowledge from ignorance.
+1. Clarifying your thinking and explaining the origins of your ideas.
+2. Challenging assumptions.
+3. Looking for evidence.
+4. Considering alternative perspectives.
+5. Examining consequences and implications.
+6. Questioning the original questions.
+
+**the Five Whys**
+> it is about systematically delving further into a statement or concept so that you can separate reliable knowledge from assumption.
+> The goal of the Five Whys is to land on a “what” or “how”.
++ If your “whys” result in a statement of falsifiable fact, you have hit a first principle. 
+- If they end up with a “because I said so” or ”it just is”, you know you have landed on an assumption
+
+To improve something, we need to understand why it is successful or not. Otherwise, we are just copying thoughts or behaviors without understanding why they worked. 
+
+The real power of first principles thinking is moving away from random change and into choices that have a real possibility of success.
+
+----
+

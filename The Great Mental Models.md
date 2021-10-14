@@ -144,3 +144,53 @@ two areas where second-order thinking can be used to great benefit:
 2. Constructing effective arguments
    * Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well.
    * You can’t let it lead to the paralysis of the Slippery Slope Effect, the idea that if we start with action A, everything after is a slippery slope down to hell, with a chain of consequences B, C, D, E, and F.
+
+
+----
+
+## Probabilistic thinking
+
+Probabilistic thinking is essentially trying to estimate, using some tools of math and logic, the likelihood of any specific outcome coming to pass.
+
+1. roughly identifying what matters
+2. coming up with a sense of the odds
+3. doing a check on our assumptions
+4. making a decision
+
+**Bayesian thinking**
+the likelihood ratio or the Bayes factor
+> taking in outside information about past situations like the one you’re in
+> priors themselves are probability estimates
+> using conditional probability means being very careful to observe the conditions preceding an event you’d like to understand.
+
+**Fat-tailed curves**
+Common outcomes cluster together, creating a wave.
+> we can’t rely on the most common outcomes as representing the average
+
+**Asymmetries**
+> the probability that your probability estimates themselves are any good.
+
+IMPT!!
+any small error in measuring the risk of an extreme event can mean we’re not just slightly off, but way off—off by orders of magnitude
+
+upside optionality
+> seeking out situations that we expect have good odds of offering us opportunities
+> The worst thing that can happen is...nothing
+
+learn how to fail properly
+> never take a risk that will do you in completely
+> develop the personal resilience to learn from your failures and start again
+
+try to create scenarios where randomness and uncertainty are your friends, not your enemies.
+
+probability estimates are wrong on the “over-optimistic” side than the “under-optimistic” side
+
+### Causation vs. Correlation
+
+Trying to invert the relationship can help you sort through claims to determine if you are dealing with true causation or just correlation.
+
+Whenever correlation is imperfect, extremes will soften over time
+> the best will always appear to get worse and the worst will appear to get better,
+
+We often mistakenly attribute a specific policy or treatment as the cause of an effect, when the change in the extreme groups would have happened anyway.
+> Solution: control groups.

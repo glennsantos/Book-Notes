@@ -92,3 +92,32 @@ The real power of first principles thinking is moving away from random change an
 
 ----
 
+## Thought Experiment
+> Thought experiments tell you about the limits of what you know and the limits of what you should attempt.
+> lets us do things in our heads we cannot do in real life
+
+use thought experiment to reduce the role of chance in decisions.
+
+Steps
+1. Ask a question
+2. Conduct background research
+3. Construct hypothesis
+4. Test with (thought) experiments
+5. Analyze outcomes and draw conclusions
+6. Compare to hypothesis and adjust accordingly (new question, etc.)
+
+Where to use:
+* Imagining physical impossibilities
+* Re-imagining history
+* Intuiting the non-intuitive
+* explore ethical and moral issues
+
+But we can use thought experiments to explore unrealized outcomes—to re-run a process as many times as we like to see what could have occurred, and learn more about the limits we have to work with.
+
+### Necessity and Sufficiency
+
+the gap between what is necessary to succeed and what is sufficient is often luck, chance, or some other factor beyond your direct control.
+
+The set of conditions necessary to become successful is a part of the set that is sufficient to become successful. But the sufficient set itself is far larger than the necessary set.
+
+----

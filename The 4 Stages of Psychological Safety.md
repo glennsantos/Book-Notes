@@ -11,7 +11,7 @@ When psychological safety is high, people:
 
 > The presence of fear in an organization is the first sign of weak leadership.
 
-**Progression of Psychological Safety**
+**The 4 Stages of Psychological Safety**
 1. *Inclusion Safety*
 2. *Learner Safety*
 3. *Contributor Safety*

@@ -121,3 +121,26 @@ the gap between what is necessary to succeed and what is sufficient is often luc
 The set of conditions necessary to become successful is a part of the set that is sufficient to become successful. But the sufficient set itself is far larger than the necessary set.
 
 ----
+
+## Second-Order Thinking
+
+Second-order thinking is thinking farther ahead and thinking holistically.
+> It requires us to not only consider our actions and their immediate consequences, but the subsequent effects of those actions as well.
+> Second-order thinking needs to evaluate the most likely effects and their most likely consequences, checking our understanding of what the typical results of our actions will be.
+
+Law of Unintended Consequences
+> the second level of effects is not considered until it’s too late.
+
+![](second-order.jpeg)
+
+High degrees of connections make second-order thinking all the more critical, because denser webs of relationships make it easier for actions to have far-reaching consequences.
+
+How often is short-term gain worth protracted long-term pain?
+
+two areas where second-order thinking can be used to great benefit:
+1. Prioritizing long-term interests over immediate gains
+   * Going for the immediate payoff in our interactions with people, unless they are a win-win, almost always guarantees that interaction will be a one-off.
+   * the short term is less spectacular, but the payoffs for the long term can be enormous.
+2. Constructing effective arguments
+   * Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well.
+   * You can’t let it lead to the paralysis of the Slippery Slope Effect, the idea that if we start with action A, everything after is a slippery slope down to hell, with a chain of consequences B, C, D, E, and F.

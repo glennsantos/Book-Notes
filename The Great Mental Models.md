@@ -228,6 +228,20 @@ If something cannot be broken down any further, we must deal with it as it is.
 
 ----
 
+## Hanlon’s Razor
+
+we should not attribute to malice that which is more easily explained by stupidity
+> By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities.
+> You have attributed conditions to villainy that simply result from stupidity
+> Assume positive intent
+
+When we see something we don’t like happen and which seems wrong, we assume it’s intentional.
+
+Always assuming malice puts you at the center of everyone else’s world.
+
+Hanlon’s Razor, when practiced diligently as a counter to confirmation bias, empowers us, and gives us far more realistic and effective options for remedying bad situations.
+
+It says that of all possible motives behind an action, the ones that require the least amount of energy to execute (such as ignorance or laziness) are more likely to occur than one that requires active malice.
 
 
 

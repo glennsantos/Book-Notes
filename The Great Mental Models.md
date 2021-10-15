@@ -214,5 +214,22 @@ approaching a situation from the opposite end of the natural starting point
 4. Identify the forces that impede change towards the objective
 5. Strategize a solution! This may involve both augmenting or adding to the forces in step 3, and reducing or eliminating the forces in step 4.
 
+----
+
+## Occam’s Razor
+
+Simpler explanations are more likely to be true than complicated ones. 
+> make decisions more confidently by basing them on the explanation that has the fewest moving parts.
+> They are easier to falsify, easier to understand, and generally more likely to be correct. 
+
+Opting for the simple helps us make decisions based on how things really are
+
+If something cannot be broken down any further, we must deal with it as it is.
+
+----
+
+
+
+
 
 

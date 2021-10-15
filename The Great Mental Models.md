@@ -194,3 +194,25 @@ Whenever correlation is imperfect, extremes will soften over time
 
 We often mistakenly attribute a specific policy or treatment as the cause of an effect, when the change in the extreme groups would have happened anyway.
 > Solution: control groups.
+
+----
+
+## Inversion
+
+Instead of thinking through the achievement of a positive outcome, we could ask ourselves how we might achieve a terrible outcome, and let that guide our decision-making
+
+approaching a situation from the opposite end of the natural starting point
+> it can be more useful to start at the end.
+> Avoiding stupidity is easier than seeking brilliance
+
+1. Start by assuming that what you’re trying to prove is either true or false, then show what else would have to be true.
+2. Instead of aiming directly for your goal, think deeply about what you want to avoid and then see what options are left over.
+
+1. Identify the problem
+2. Define your objective
+3. Identify the forces that support change towards your objective
+4. Identify the forces that impede change towards the objective
+5. Strategize a solution! This may involve both augmenting or adding to the forces in step 3, and reducing or eliminating the forces in step 4.
+
+
+

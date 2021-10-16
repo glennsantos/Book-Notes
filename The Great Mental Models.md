@@ -1,59 +1,38 @@
 Recommended Videos:
 - https://www.youtube.com/watch?v=ywyQ_eNNCJU&list=PLI84Sf0aDgazRojpYTLTXFE6Iaf5bkYr_
 
-## The Map is not the Territory
+## 🗺️ The Map is not the Territory
 
 Maps are:
 - reductions of what they represent
 - a snapshot of a point in time
 - subjective to the author's point of view
 
-> the only way we can navigate the complexity of reality is through some sort of abstraction
-
-if the aim becomes simplification rather than understanding we start to make bad decisions.
-
-They are guidebooks, not laws.
-
-1. Reality is the ultimate update.
-> If reality has changed, the map must change.
-> The faster the rate of change in the territory, the harder it will be for a map to keep up to date.
-2. Consider the cartographer.
-> Maps are not purely objective creations. They reflect the values, standards, and limitations of their creators.
-> Models, then, are most useful when we consider them in the context they were created.
-3. Maps can influence territories.
-> As more and more people know what model you’re using to manipulate them, they may decide not to respond to your incentives.
+𝙒𝙝𝙖𝙩 𝙩𝙤 𝙠𝙚𝙚𝙥 𝙞𝙣 𝙢𝙞𝙣𝙙:
+1. If reality has changed, the map must change.
+2. Consider them in the context of their creator and why they were created
+3. The more people know which map you’re using on them, the lower the chance the map can predict their behavior.
 
 ----
 
-## Circle of Competence
+## 🎓 Circle of Competence
 
 Understanding your circle of competence improves decision-making and outcomes.
 
-In circle of competence:
-* likely have more than one solution to every problem
-* eliminate bad choices quickly because he has all the pieces of the puzzle
-* make decisions quickly and relatively accurately.
-* know what is knowable and what is unknowable and can distinguish between the two.
+In your circle of competence, you:
+* Have multiple solutions to every problem.
+* Can eliminate bad solutions quickly.
+* Make decisions quickly and relatively accurately.
+* Know the knowns and unknowns and can distinguish between the two.
 
 Building a circle of competence takes years of experience, of making mistakes, and of actively seeking out better methods of practice and thought.
 
-To maintain the circle:
-1. curiosity and a desire to learn. Learning comes when experience meets reflection.
-2. self-reporting. monitor honestly so the feedback can be used to your advantage. 
-   * Keeping a journal of your own performance is the easiest and most private way to give self-feedback. 
-3. external feedback. 
-
-Coaching benefit
-- receive something you couldn’t see himself and something no one else would point out: knowledge of where his skill and technique was suboptimal.
-- ability to provide better feedback to other doctors.
-
-if defensiveness starts to manifest, focus on the result you hope to achieve.
-
-successfully operating outside a circle of competence
-1. Learn at least the basics
-2. Talk to someone whose circle of competence in the area is strong.
-   * Ask thoughtful questions
-3. Use a broad understanding of the basic mental models to augment your limited understanding
+𝙒𝙝𝙖𝙩 𝙩𝙤 𝙠𝙚𝙚𝙥 𝙞𝙣 𝙢𝙞𝙣𝙙:
+1. Have a learning mindset to maintain your circle of competence. Be curious, honestly record and review your perfromance, and accept external feedback humbly.
+2. To successfully operate outside your circle of competence
+    * Learn the basics.
+    * Consult someone who is has a strong circle of competence in that area.
+    * Use mental models to augment your understanding.
 
 ### Falsifiability
 
@@ -64,55 +43,45 @@ Applying the filter of falsifiability helps us sort through which theories are m
 
 ----
 
-## First Principles Thinking
+## 🧱 First Principles Thinking
 
-* a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them
+First principles thinking helps clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them.
 * Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible.
+* The real power of first principles thinking is moving away from random change and into choices that have a real possibility of success.
 
-### Techniques for establishing first principles
-
-**Socratic questioning**
-> a disciplined questioning process, used to establish truths, reveal underlying assumptions, and separate knowledge from ignorance.
-1. Clarifying your thinking and explaining the origins of your ideas.
-2. Challenging assumptions.
-3. Looking for evidence.
-4. Considering alternative perspectives.
-5. Examining consequences and implications.
-6. Questioning the original questions.
-
-**the Five Whys**
-> it is about systematically delving further into a statement or concept so that you can separate reliable knowledge from assumption.
-> The goal of the Five Whys is to land on a “what” or “how”.
-+ If your “whys” result in a statement of falsifiable fact, you have hit a first principle. 
-- If they end up with a “because I said so” or ”it just is”, you know you have landed on an assumption
-
-To improve something, we need to understand why it is successful or not. Otherwise, we are just copying thoughts or behaviors without understanding why they worked. 
-
-The real power of first principles thinking is moving away from random change and into choices that have a real possibility of success.
+𝙒𝙝𝙖𝙩 𝙩𝙤 𝙠𝙚𝙚𝙥 𝙞𝙣 𝙢𝙞𝙣𝙙:
+1. Use 𝗦𝗼𝗰𝗿𝗮𝘁𝗶𝗰 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝗶𝗻𝗴. 
+   * Explain the origins of your ideas.
+   * Challenge assumptions.
+   * Look for evidence.
+   * Consider alternative perspectives.
+   * Examine implications.
+   * Question the original questions.
+2. Use 𝗧𝗵𝗲 𝗙𝗶𝘃𝗲 𝗪𝗵𝘆𝘀
+   * Ask "why" repeatedly to separate reliable knowledge from assumption, until you land on a "what" or "how".
+   * If your "whys" result in a statement of falsifiable fact, you have hit a first principle. 
 
 ----
 
-## Thought Experiment
-> Thought experiments tell you about the limits of what you know and the limits of what you should attempt.
-> lets us do things in our heads we cannot do in real life
+## 💭 Thought Experiments
 
-use thought experiment to reduce the role of chance in decisions.
-
-Steps
-1. Ask a question
-2. Conduct background research
-3. Construct hypothesis
-4. Test with (thought) experiments
-5. Analyze outcomes and draw conclusions
-6. Compare to hypothesis and adjust accordingly (new question, etc.)
+Thought experiments tell you about the limits of what you know and the limits of what you should attempt.
+> It lets us do things in our heads we cannot do in real life
+> Use thought experiments to reduce the role of chance in decisions.
 
 Where to use:
 * Imagining physical impossibilities
 * Re-imagining history
 * Intuiting the non-intuitive
-* explore ethical and moral issues
-
-But we can use thought experiments to explore unrealized outcomes—to re-run a process as many times as we like to see what could have occurred, and learn more about the limits we have to work with.
+* Exploring ethical and moral issues
+  
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
+1. Ask a question
+2. Conduct background research
+3. Construct hypothesis
+4. Test with thought experiments
+5. Analyze outcomes and draw conclusions
+6. Compare to hypothesis and adjust accordingly
 
 ### Necessity and Sufficiency
 
@@ -122,68 +91,36 @@ The set of conditions necessary to become successful is a part of the set that i
 
 ----
 
-## Second-Order Thinking
+## 🔗 Second-Order Thinking
 
-Second-order thinking is thinking farther ahead and thinking holistically.
-> It requires us to not only consider our actions and their immediate consequences, but the subsequent effects of those actions as well.
-> Second-order thinking needs to evaluate the most likely effects and their most likely consequences, checking our understanding of what the typical results of our actions will be.
+Second-order thinking requires us to not only consider our actions and their immediate consequences, but the subsequent effects of those actions as well.
+> Evaluate the most likely effects and their most likely consequences, checking our understanding of what the typical results of our actions will be.
 
-Law of Unintended Consequences
-> the second level of effects is not considered until it’s too late.
-
-![](second-order.jpeg)
-
-High degrees of connections make second-order thinking all the more critical, because denser webs of relationships make it easier for actions to have far-reaching consequences.
-
-How often is short-term gain worth protracted long-term pain?
-
-two areas where second-order thinking can be used to great benefit:
-1. Prioritizing long-term interests over immediate gains
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
+1. Second-order consequences are magnified the more people are affected by the outcome.
+2. Weigh long-term interests over immediate gains.
    * Going for the immediate payoff in our interactions with people, unless they are a win-win, almost always guarantees that interaction will be a one-off.
-   * the short term is less spectacular, but the payoffs for the long term can be enormous.
-2. Constructing effective arguments
-   * Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well.
-   * You can’t let it lead to the paralysis of the Slippery Slope Effect, the idea that if we start with action A, everything after is a slippery slope down to hell, with a chain of consequences B, C, D, E, and F.
+3. Construct effective arguments by proposing second-order benefits, not just the immediate effects.
+   * But watch out for the Slippery Slope Effect
 
 
 ----
 
-## Probabilistic thinking
+## 🎲 Probabilistic thinking
 
-Probabilistic thinking is essentially trying to estimate, using some tools of math and logic, the likelihood of any specific outcome coming to pass.
+Probabilistic thinking is using some tools of math and logic to estimate the likelihood of any specific outcome.
+> Probability estimates are often wrong on the "over-optimistic" side than the "under-optimistic" side
 
-1. roughly identifying what matters
-2. coming up with a sense of the odds
-3. doing a check on our assumptions
-4. making a decision
-
-**Bayesian thinking**
-the likelihood ratio or the Bayes factor
-> taking in outside information about past situations like the one you’re in
-> priors themselves are probability estimates
-> using conditional probability means being very careful to observe the conditions preceding an event you’d like to understand.
-
-**Fat-tailed curves**
-Common outcomes cluster together, creating a wave.
-> we can’t rely on the most common outcomes as representing the average
-
-**Asymmetries**
-> the probability that your probability estimates themselves are any good.
-
-IMPT!!
-any small error in measuring the risk of an extreme event can mean we’re not just slightly off, but way off—off by orders of magnitude
-
-upside optionality
-> seeking out situations that we expect have good odds of offering us opportunities
-> The worst thing that can happen is...nothing
-
-learn how to fail properly
-> never take a risk that will do you in completely
-> develop the personal resilience to learn from your failures and start again
-
-try to create scenarios where randomness and uncertainty are your friends, not your enemies.
-
-probability estimates are wrong on the “over-optimistic” side than the “under-optimistic” side
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
+1. Roughly identify what matters
+2. Come up with a sense of the odds. Use 𝗕𝗮𝘆𝗲𝘀𝗶𝗮𝗻 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴, assigning probabilities to outcomes based on similar past situations.
+3. Check your assumptions
+   * Watching out for 𝗙𝗮𝘁-𝘁𝗮𝗶𝗹𝗲𝗱 𝗰𝘂𝗿𝘃𝗲𝘀, wherein common outcomes do not represent the average.
+   * Check for 𝗔𝘀𝘆𝗺𝗺𝗲𝘁𝗿𝗶𝗲𝘀, the probability that your probability estimates themselves are any good.
+4. Make the decision
+   * Consider 𝗨𝗽𝘀𝗶𝗱𝗲 𝗼𝗽𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆, seek out situations that have good odds of offering opportunities
+   * Never take a risk that will do you in completely
+   * Create scenarios where randomness and uncertainty are your friends, not your enemies.
 
 ### Causation vs. Correlation
 
@@ -197,14 +134,12 @@ We often mistakenly attribute a specific policy or treatment as the cause of an 
 
 ----
 
-## Inversion
+## ↩️ Inversion
 
-Instead of thinking through the achievement of a positive outcome, we could ask ourselves how we might achieve a terrible outcome, and let that guide our decision-making
-
-approaching a situation from the opposite end of the natural starting point
-> it can be more useful to start at the end.
+Ask how you might achieve a terrible outcome, and let that guide our decision-making by avoiding it.
 > Avoiding stupidity is easier than seeking brilliance
 
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
 1. Start by assuming that what you’re trying to prove is either true or false, then show what else would have to be true.
 2. Instead of aiming directly for your goal, think deeply about what you want to avoid and then see what options are left over.
 
@@ -216,32 +151,26 @@ approaching a situation from the opposite end of the natural starting point
 
 ----
 
-## Occam’s Razor
+## 🖍️ Occam’s Razor
 
 Simpler explanations are more likely to be true than complicated ones. 
-> make decisions more confidently by basing them on the explanation that has the fewest moving parts.
-> They are easier to falsify, easier to understand, and generally more likely to be correct. 
+> Make decisions more confidently by basing them on the explanation that has the fewest moving parts.
 
-Opting for the simple helps us make decisions based on how things really are
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
+1. Opt for the simple to make decisions based on how things really are
+2. If something cannot be broken down any further, we must deal with it as it is.
 
-If something cannot be broken down any further, we must deal with it as it is.
 
 ----
 
 ## Hanlon’s Razor
 
-we should not attribute to malice that which is more easily explained by stupidity
-> By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities.
-> You have attributed conditions to villainy that simply result from stupidity
-> Assume positive intent
+Do not attribute to malice that which is more easily explained by stupidity
+> When we see something we don’t like happen and which seems wrong, we assume it’s intentional.
 
-When we see something we don’t like happen and which seems wrong, we assume it’s intentional.
-
-Always assuming malice puts you at the center of everyone else’s world.
-
-Hanlon’s Razor, when practiced diligently as a counter to confirmation bias, empowers us, and gives us far more realistic and effective options for remedying bad situations.
-
-It says that of all possible motives behind an action, the ones that require the least amount of energy to execute (such as ignorance or laziness) are more likely to occur than one that requires active malice.
+𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
+1. Assume positive intent
+2. List the motives that require the least amount of energy to execute (such as ignorance or laziness). These are more likely to occur than one that requires active malice.
 
 
 

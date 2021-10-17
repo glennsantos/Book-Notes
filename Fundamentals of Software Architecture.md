@@ -44,3 +44,67 @@ architectural fitness functions: an objective integrity assessment of some archi
 
 **Second Law of Software Architecture:**
 > Why is more important than how.
+
+-----
+
+## Architectural Thinking
+
+### 1. Understanding the difference between architecture and design and knowing how to collaborate with development teams to make architecture work
+
+architect is responsible for things like 
+* analyzing business requirements 
+* extract and define the architectural characteristics
+* selecting which architecture patterns and styles would fit the problem domain
+* creating components 
+
+development team is responsible for
+* creating class diagrams for each component
+* creating user interface screens
+* developing
+* testing source code
+
+![](architect-design.png)
+ VS 
+
+ ![](improved-architect-design.png)
+
+ architect and developer must be on the same virtual team to make this work
+
+ ### 2. A wide breadth of technical knowledge while still maintaining a certain level of technical depth
+
+ ![](breadth-depth.png)
+
+ two common dysfunctions
+ 1. architect tries to maintain expertise in a wide variety of areas, succeeding in none of them and working themselves ragged in the process
+ 2. stale expertise—the mistaken sensation that your outdated information is still cutting edge
+
+### 3. Understanding, analyzing, and reconciling trade-offs between various solutions and technologies
+
+everything in software architecture has a trade-off: an advantage and disadvantage.
+
+Architecture is the stuff you can’t Google
+
+a software architect would analyze the negatives of the topic solution
+> asking “which is more important?"
+
+### 4. Understanding the importance of business drivers and how they translate to architectural concerns
+
+> business drivers that are required for the success of the system and translating those requirements into architecture characteristics (such as scalability, performance, and availability)
+
++ some level of business domain knowledge and healthy, 
++ collaborative relationships with key business stakeholders
+
+### Hands-On Coding
+
+every architect should code and be able to maintain a certain level of technical depth
+
++ delegate the critical path and framework code to others
++ focus on coding a piece of business functionality (a service or a screen) one to three iterations down the road
++ better able to identify with the development team in terms of the pain they might be going through with processes
+
+**how to keep Practicing coding**
+1. do frequent proof-of-concepts or POCs. write the best production-quality code
+2. tackle some of the technical debt stories or architecture stories
+3. working on bug fixes within an iteration
+4. creating simple command-line tools and analyzers to help the development team with their day-to-day tasks 
+5. do frequent code reviews

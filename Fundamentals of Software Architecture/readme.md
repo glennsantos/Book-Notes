@@ -1,3 +1,5 @@
+# The Fundamentals of Software Architecture
+
 ### eight core expectations of software architects
 
 1. Make architecture decisions
@@ -215,3 +217,6 @@ Stronger forms of connascence found within the same module represent less code s
 3. Maximize the connascence within encapsulation boundaries
 
 ![](degrees-connascence.png)
+
+Structured programming only cares about in or out, whereas connascence cares about how things are coupled together
+

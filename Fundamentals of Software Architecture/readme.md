@@ -220,3 +220,69 @@ Stronger forms of connascence found within the same module represent less code s
 
 Structured programming only cares about in or out, whereas connascence cares about how things are coupled together
 
+----
+
+## Architecture Characteristics
+
+Criteria
+* Specifies a nondomain design consideration
+* Influences some structural aspect of the design
+* Is critical or important to application success
+
+![](architecture-characteristics.png)
+
+*Specifies a nondomain design consideration*
+> architecture characteristics specify operational and design criteria for success
+> ex. performance levels, level of technical debt, 
+
+*Influences some structural aspect of the design*
+> does this architecture characteristic require special structural consideration to succeed?
+> ex. security levels for payments
+
+*Critical or important to application success*
+> choosing the fewest architecture characteristics rather than the most possible
+
+**implicit**
+> rarely appear in requirements, yet they’re necessary for project success
+> ex.  availability, reliability, and security
+> Architects must use their knowledge of the problem domain to uncover these
+
+**explicit**
+> shows up in requirements
+
+### Operational Architecture Characteristics
+> Operational architecture characteristics heavily overlap with operations and DevOps
++ Availability
++ Performance
++ Continuity
++ Recoverability
++ Reliability/safety
++ Robustness
++ Scalability
+
+### Structural Architecture Characteristics
++ Configurability
++ Extensibility
++ Installability
++ Leverageability/reuse
++ Localization
++ Maintainability
++ Portability
++ Supportability
++ Upgradeability
+	
+### Cross-Cutting Architecture Characteristics
++ Accessibility
++ Archivability
++ Authentication
++ Authorization
++ Legal
++ Privacy
++ Security
++ Supportability
++ Usability/achievability
+
+### Trade-Offs and Least Worst Architecture
++ More often, the decisions come down to trade-offs between several competing concerns.
++ Never shoot for the best architecture, but rather the least worst architecture.
++ If you can make changes to the architecture more easily, you can stress less about discovering the exact correct thing in the first attempt. 

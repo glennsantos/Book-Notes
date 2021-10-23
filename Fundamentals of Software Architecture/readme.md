@@ -286,3 +286,27 @@ Criteria
 + More often, the decisions come down to trade-offs between several competing concerns.
 + Never shoot for the best architecture, but rather the least worst architecture.
 + If you can make changes to the architecture more easily, you can stress less about discovering the exact correct thing in the first attempt. 
+
+----
+
+## Extracting Architecture Characteristics from Domain Concerns
+
+1. keep the final list as short as possible.
+> supporting too many architecture characteristics leads to greater and greater complexity 
+2. have the domain stakeholders select the top three most important characteristics from the final list (in any order)
+
+Most architecture characteristics come from listening to key domain stakeholders and collaborating with them to determine what is important from a domain perspective.
+
+*See page 84 for table for translation between business and arch jargon*
+
+## Extracting Architecture Characteristics from Requirements
+
+### Architecture Katas
+
+sections
+1. **Description**: The overall domain problem the system is trying to solve
+2. **Users**: The expected number and/or types of users of the system
+3. **Requirements**: Domain/domain-level requirements, as an architect might expect from domain users/domain experts
+4. **Additional context**: Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
+
+Generally, architects are more likely to cull the explicit architecture characteristics, as many of the implicit ones support general success.

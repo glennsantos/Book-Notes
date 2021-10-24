@@ -310,3 +310,33 @@ sections
 4. **Additional context**: Many of the considerations an architect must make aren’t explicitly expressed in requirements but rather by implicit knowledge of the problem domain
 
 Generally, architects are more likely to cull the explicit architecture characteristics, as many of the implicit ones support general success.
+
+----
+
+## Measuring and Governing Architecture Characteristics
+
+Rather than set an arbitrary number as the goal, engineers measure the scale over time and build statistical models, then raise alarms if the real-time metrics fall outside the prediction models.
+
+### Cyclomatic Complexity
+> Uses the fewest decisions to do the job. Its decision tree should be easy to navigate.
+> For example, if a function has no decision statements (such as if statements), then CC = 1. If the function had a single conditional, then CC = 2 because two possible execution paths exist.
+> under 10 is acceptable, would prefer code to fall under five
+
+### Governance and Fitness Functions
+
+> As the name implies, the scope of architecture governance covers any aspect of the software development process that architects (including roles like enterprise architects) want to exert an influence upon.
+> fitness function: an object function used to assess how close the output comes to achieving the aim
+
+
+Architecture fitness function
+> Any mechanism that provides an objective integrity assessment of some architecture characteristic or combination of architecture characteristics
+
+Cyclic dependencies
+> use tools to find these in code: JDepend, JUnit, Simian Army, etc
+
+Distance from the main sequence
+
+
+Architects must ensure that developers understand the purpose of the fitness function before imposing it on them.
+
+Chaos engineering offers an interesting new perspective on architecture: it’s not a question of if something will eventually break, but when. Anticipating those breakages and tests to prevent them makes systems much more robust.

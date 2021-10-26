@@ -62,3 +62,11 @@ best culture
 
 ---
 
+to implement continuous delivery
+> It should be possible to provision our environments and build, test, and deploy our software in a fully automated fashion purely from information stored in version control
+> keep branches short-lived 
+> Automated unit and acceptance tests should be run against every commit
+
+when developers are involved in creating and maintaining acceptance tests, there are two important effects
+> code becomes more testable when developers write tests
+> developers are responsible for the automated tests, they care more about them and will invest more effort into maintaining and fixing them

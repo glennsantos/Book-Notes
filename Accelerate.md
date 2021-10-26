@@ -40,3 +40,25 @@ there is no tradeoff between improving performance and achieving higher levels o
 delivery performance matters provides a strong argument against outsourcing the development of software that is strategic to your business
 
 *In organizations with a learning culture, they are incredibly powerful.*
+
+----
+
+culture levels
+1. interpretations: things people just "know"
+2. values
+3. artifacts: visible items like mission statements, procedures, etc 
+
+Good information flow is critical to the safe and effective operation of high-tempo and high-consequence environments
+- provides answers to the questions that the receiver needs answered
+- timely
+- presented in such a way that it can be effectively used by the receiver
+
+best culture
+> safe to deliver bad news
+> high cooperation
+> shared risk and responsibility
+> cross functional collab encouraged
+> failures are studied and means room for improvement
+
+---
+

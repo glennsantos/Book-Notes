@@ -340,3 +340,26 @@ Distance from the main sequence
 Architects must ensure that developers understand the purpose of the fitness function before imposing it on them.
 
 Chaos engineering offers an interesting new perspective on architecture: it’s not a question of if something will eventually break, but when. Anticipating those breakages and tests to prevent them makes systems much more robust.
+
+----
+
+no matter how much an architect puts effort into designing a performant or elastic code base, if the system uses a database that doesn’t match those characteristics, the application won’t be successful.
+
+## Architecture quantum
+> An independently deployable artifact with high functional cohesion and synchronous connascence
++ **Independently deployable**: includes all the necessary components to function independently from other parts of the architecture
++ **High functional cohesion**: implies that an architecture quantum does something purposeful.
++ **Synchronous connascence**: implies synchronous calls within an application context or between distributed services that form this architecture quantum
+
+Connascence
+> Two components are connascent if a change in one would require the other to be modified in order to maintain the overall correctness of the system
+
+statically connascence
+> changing the shared class requires changes to both services
+
+dynamic connascence
+> synchronous and asynchronous (as in like in JS)
+
+In modern systems, architects define architecture characteristics at the quantum level rather than system level
+
+----

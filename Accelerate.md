@@ -94,3 +94,15 @@ Another finding in our research is that teams that build security into their wor
 *Architects should collaborate closely with their users—the engineers who build and operate the systems through which the organization achieves its mission—to help them achieve better outcomes and provide them the tools and technologies that will enable these outcomes.*
 
 ----
+
+high performers were spending 50% less time remediating security issues than low performers.
+
+building security into software development not only improves delivery performance but also improves security quality. 
+> Organizations with high delivery performance spend significantly less time remediating security issues.
+
+infosec experts should contribute to the process of designing applications, attend and provide feedback on demonstrations of the software, and ensure that security features are tested as part of the automated test suite. 
+> it’s much easier to make sure that the people building the software are doing the right thing
+> information security teams simply don’t have the capacity to be doing security reviews when deployments are frequent.
+
+----
+

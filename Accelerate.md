@@ -70,3 +70,27 @@ to implement continuous delivery
 when developers are involved in creating and maintaining acceptance tests, there are two important effects
 > code becomes more testable when developers write tests
 > developers are responsible for the automated tests, they care more about them and will invest more effort into maintaining and fixing them
+
+----
+
+The goal of a loosely coupled architecture is to ensure that the available communication bandwidth isn’t overwhelmed by fine-grained decision-making at the implementation level, so we can instead use that bandwidth for discussing higher-level shared goals and how to achieve them.
+
+As the number of developers increases, we found:
+
+* Low performers deploy with decreasing frequency.
+* Medium performers deploy at a constant frequency.
+* High performers deploy at a significantly increasing frequency.
+
+factors that predict high delivery performance
+> goal-oriented generative culture
+> modular architecture
+> engineering practices that enable continuous delivery
+> effective leadership
+
+*When teams can decide which tools they use, it contributes to software delivery performance and, in turn, to organizational performance.*
+
+Another finding in our research is that teams that build security into their work also do better at continuous delivery.
+
+*Architects should collaborate closely with their users—the engineers who build and operate the systems through which the organization achieves its mission—to help them achieve better outcomes and provide them the tools and technologies that will enable these outcomes.*
+
+----

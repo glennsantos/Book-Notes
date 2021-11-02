@@ -106,3 +106,20 @@ infosec experts should contribute to the process of designing applications, atte
 
 ----
 
+Limit WIP
+Visual Management
+Feedback from Production
+Lightweight Change Approvals
+
+> visualize work via kanban
+
+approval only for high-risk changes was not correlated with software delivery performance.
+> Teams that reported no approval process or used peer review achieved higher software delivery performance.
+
+external approvals were negatively correlated with lead time, deployment frequency, and restore time, and had no correlation with change fail rate.
+
+**lightweight change approval process**
+> pair programming
+> intrateam code review
+
+*This process can be used for all kinds of changes, including code, infrastructure, and database changes.*

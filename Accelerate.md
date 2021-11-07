@@ -123,3 +123,14 @@ external approvals were negatively correlated with lead time, deployment frequen
 > intrateam code review
 
 *This process can be used for all kinds of changes, including code, infrastructure, and database changes.*
+
+----
+
+software delivery performance predicts Lean product management practices
+
+an experimental approach to product development is highly correlated with the technical practices that contribute to continuous delivery.
+
+the ability of teams to try out new ideas...without requiring the approval of people outside the team, is an important factor in predicting organizational performance
+
+lean product management practices positively impact software delivery performance, stimulate a generative culture, and decrease burnout.
+

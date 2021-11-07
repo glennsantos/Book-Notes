@@ -363,3 +363,49 @@ dynamic connascence
 In modern systems, architects define architecture characteristics at the quantum level rather than system level
 
 ----
+
+We call physical packaging of modules **components**.
++ composer packages
++ ruby gems
++ npm packages
++ libraries
+
+**top-level partitioning**
+![](monolith.png)
+1. layered monolith
+2. modular monolith
+
+
+![](top-level-partitioning.png)
+
+**technical partitioning.**
+>  presentation, business rules, services, persistence, etc
+> Model-View-Controller design
++ customization code is separated
++ layered arch
+- Higher degree of global coupling
+
+**domain partitioning**
+> microservices
+> partitions the architecture around domains or workflows rather than technical capabilities.
++ closer to how business works
++ crossfunctional teams
++ modular monolith / microservices
++ easy migration
+- custom code duplicated
+
+**Conway’s Law**
+> Organizations which design systems … are constrained to produce designs which are copies of the communication structures of these organizations.
+
+**Actor/Actions approach**
+> identify actors who perform activities with the application and the actions those actors may perform. 
+
+**Event storming**
+> assumes the project will use messages and/or events to communicate between the various components.
+
+**Workflow approach**
+> models the components around workflows.
+> identifies the key roles, determines the kinds of workflows these roles engage in, and builds components around the identified activities.
+
+*should the architecture be monolithic or distributed?*
+

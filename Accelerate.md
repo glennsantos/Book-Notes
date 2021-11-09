@@ -134,3 +134,63 @@ the ability of teams to try out new ideas...without requiring the approval of pe
 
 lean product management practices positively impact software delivery performance, stimulate a generative culture, and decrease burnout.
 
+----
+
+improving key technical capabilities reduces deployment pain
+> comprehensive test and deployment automation
+> continuous integration
+> shift left on security
+> manage test data
+> loosely coupled architectures
+> can work independently
+> use version control of everything required to reproduce production environments decrease their deployment pain
+
+* Build systems that are designed to be deployed easily into multiple environments
+* can detect and tolerate failures in their environments
+* can have various components of the system updated independently
+* Ensure that the state of production systems can be reproduced in an automated fashion from information in version control
+* Build intelligence into the application and the platform so that the deployment process can be as simple as possible
+
+Symptoms of burnout 
+- feeling exhausted
+- cynical
+- ineffective
+- little or no sense of accomplishment in your work
+- feelings about your work negatively affecting other aspects of your life
+
+Managers who want to avert employee burnout should concentrate their attention and efforts on
+> Fostering a respectful, supportive work environment that emphasizes learning from failures rather than blaming
+> Communicating a strong sense of purpose
+> Investing in employee development
+> Unblocking devs
+> Giving employees time, space, and resources to experiment and learn
+> employees must be given the authority to make decisions that affect their work and their jobs, particularly in areas where they are responsible for the outcomes.
+
+six organizational risk factors that predict burnout 
+
+1. Work overload: job demands exceed human limits.
+2. Lack of control: inability to influence decisions that affect your job.
+3. Insufficient rewards: insufficient financial, institutional, or social rewards.
+4. Breakdown of community: unsupportive workplace environment.
+5. Absence of fairness: lack of fairness in decision-making processes.
+6. Value conflicts: mismatch in organizational values and the individual’s values.
+
+fix the environment first, then the person
+
+
+fostering a supportive and respectful work environment
+> creating a blame-free environment
+> learn from failures
+> communicating a shared sense of purpose
+> ask their teams how painful their deployments are and fix the things that hurt the most
+> limiting work in process
+> eliminating roadblocks for the team
+> invest in developing the skills and capabilities of their teams
+> providing people with the necessary support and resources (including time) to acquire new skills
+> creating a work environment that supports experimentation, failure, and learning,
+> creating space for employees to do new, creative, value-add work during the work week
+
+
+human error is never the root cause of failure in systems
+
+When organizational values and individual values aren’t aligned, you are more likely to see burnout 

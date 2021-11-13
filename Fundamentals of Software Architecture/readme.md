@@ -409,3 +409,49 @@ We call physical packaging of modules **components**.
 
 *should the architecture be monolithic or distributed?*
 
+----
+
+# Part II. Architecture Styles
+
+**architecture style** 
+> the overarching structure of how the user interface and backend source code are organized
+> ex. within layers of a monolithic deployment or separately deployed services
+
+**Architecture patterns**
+> lower-level design structures that help form specific solutions within an architecture style
+> ex. how to achieve high scalability or high performance within a set of operations or between sets of services
+
+**Big Ball of Mud**
+> a haphazardly structured, sprawling, sloppy, duct-tape-and-baling-wire, spaghetti-code jungle
+
+**Unitary Architecture**
+> Single computer
+
+**Client/Server**
+> separates technical functionality between frontend and backend
+
+**Desktop + database server**
+> allowed presentation logic to reside on the desktop, while the more computationally intense action (both in volume and complexity) occurred on more robust database servers.
+
+**Browser + web server**
+> the web and database servers run on one class of machine within the operations center and the user interface runs on the user’s browser.
+
+**Three-tier**
+> a database tier using an industrial-strength database server, an application tier managed by an application server, frontend coded in generated HTML, and increasingly, JavaScript, as its capabilities expanded.
+
+monolithic
+> single deployment unit of all code
+
+distributed
+> multiple deployment units connected through remote access protocols
+- Fallacy #1: The Network Is Reliable
+- Fallacy #2: Latency Is Zero
+- Fallacy #3: Bandwidth Is Infinite
+- Fallacy #4: The Network Is Secure
+- Fallacy #5: The Topology Never Changes
+- Fallacy #6: There Is Only One Administrator
+- Fallacy #7: Transport Cost Is Zero
+- Fallacy #8: The Network Is Homogeneous
+- Debugging is distributed and difficult to trace
+- high scalability, performance, and availability at the sacrifice of data consistency and data integrity.
+- Contract maintenance is particularly difficult in distributed architectures, primarily due to decoupled services and systems owned by different teams and departments

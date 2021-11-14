@@ -455,3 +455,67 @@ distributed
 - Debugging is distributed and difficult to trace
 - high scalability, performance, and availability at the sacrifice of data consistency and data integrity.
 - Contract maintenance is particularly difficult in distributed architectures, primarily due to decoupled services and systems owned by different teams and departments
+
+----
+
+## Layered Architecture Style
+
+the de facto standard for most applications, primarily because of its 
+> simplicity, 
+> familiarity, and 
+> low cost
+
+- falls into several architectural anti-patterns
+  - architecture by implication anti-pattern
+  - accidental architecture anti-pattern
+
+organized into logical horizontal layers
+consist of four standard layers: 
++ presentation: user interface and browser communication logic
++ business: business rules 
++ persistence, and 
++ database
+
+separation of concerns 
+> makes it easy to build effective roles and responsibility models 
+> dealing only with the logic that pertains to that layer
+
+ lack of overall agility (the ability to respond quickly to change)
+
+ technically partitioned architecture
+ > grouped by their technical role in the architecture
+
+ domain-driven design approach does not work as well
+
+ request cannot skip any layers, but rather must go through the layer immediately below it to get to the next layer
+
+*layers of isolation*
+> changes made in one layer of the architecture generally don’t impact or affect components in other layers
+> becomes very brittle, as well as difficult and expensive to change.
+
+Marking the services layer as open allows the business layer to either access that layer (as indicated by the solid arrow), or bypass the layer and go to the next one down
+
+Failure to document or properly communicate which layers in the architecture are open and closed (and why) usually results in tightly coupled and brittle architectures that are very difficult to test, maintain, and deploy.
+
+*architecture sinkhole anti-pattern*
+> when requests move from layer to layer as simple pass-through processing with no business logic performed within each layer.
+> it is acceptable if only 20 percent of the requests are sinkholes.
+
+**Why Use This Architecture Style**
+> good starting point
+> for very tight budget and time constraints.
+> ease of development for smaller applications
+> still analyzing business needs and requirements and is unsure which architecture style would be best.
+
+![](arch-ratings/layered-arch.png)
+
+What I'm looking or:
+
+Scalability
+Testability
+Simplicity
+Reliability
+Fault Tolerance
+
+----
+

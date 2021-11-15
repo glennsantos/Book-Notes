@@ -509,13 +509,45 @@ Failure to document or properly communicate which layers in the architecture are
 
 ![](arch-ratings/layered-arch.png)
 
-What I'm looking or:
 
-Scalability
-Testability
-Simplicity
-Reliability
-Fault Tolerance
+----
+
+read on these first:
+- service-based
+- event-driven
+- microservices
+
+
+----
+
+## Service-Based Architecture Style
+
+distributed macro layered structure consisting of a 
+> separately deployed user interface
+> separately deployed remote coarse-grained services
+> monolithic database.
+
+![](service-based-diagram.png)
+
+multiple instances of a domain service can certainly exist
+
+![](service-variants.png)
+
+![](service-db-variants.png)
+
+Domain services, being coarse-grained, allow for better data integrity and consistency
+
+more risk with service-based architecture that something might break 
+
+logically partition the database and manifest the logical partitioning through federated shared libraries
+
+lock the common entity objects in the version control system and restrict change access to only the database team
+
+Make the logical partitioning in the database as fine-grained as possible
+
+user interface applications are federated into their respective domains
+
+because services within a service-based architecture tend to be more coarse-grained, they don’t require coordination nearly as much as other distributed architectures.
 
 ----
 

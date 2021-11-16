@@ -551,3 +551,122 @@ because services within a service-based architecture tend to be more coarse-grai
 
 ----
 
+## Event-Driven Architecture Style
+> relies solely on asynchronous communication
+> technically partitioned architecture
+
+request-based: asks system for data or action
+
+event-based: system responds to user activity (monitoring, ex)
+
+### broker topology
+>  used when you require a high degree of responsiveness and dynamic control over the processing of an event
+> no central event mediator
+> useful when you have a relatively simple event processing flow
+> do not need central event orchestration and coordination
+> performance and scalability
+
+primary architecture components
+1. initiating event: initial event that starts the entire event flow
+2. event broker: handles event 
+> federated - multiple domain-based clustered instances
+3. event processor: accepts the initiating event from the event broker and begins the processing of that event
+> performs a specific task associated with the processing of that event
+> asynchronously advertises what it did to the rest of the system
+4. processing event: asynchronously advertises what it did to the rest of the system
+
+*asynchronous fire-and-forget broadcasting* >> pubsub
+
+
+each event processor to advertise what it did to the rest of the system, regardless of whether or not any other event processor cares about what that action was.
+
+instead of embedding functions, it emits messages which can be hooked into by listeners / functions when triggered
+
+- Error handling is also a big challenge 
+- all other processes are moving along without regard for the error.
+- not possible to resubmit the initiating event
+
+## Mediator Topology
+> used when you require control over the workflow
+> workflow control and error handling
+
+architecture components
+1.  initiating event
+2.  event queue: collects events
+3.  event mediator: only knows the steps involved in processing the event and therefore generates corresponding processing events
+> multiple mediators, usually associated with a particular domain or grouping of events
+> reduces the single point of failure issue
+> increases overall throughput and performance
+> it can maintain event state and manage error handling, recoverability, and restart capabilities
+4.  event channels (queues)
+5.  event processors: listen to dedicated event channels
+> do not advertise what they did to the rest of the system
+
+processing events are commands, as opposed to events
+> a processing event must be processed (command), whereas it can be ignored in the broker topology (reaction).
+
+- very difficult to declaratively model the dynamic processing that occurs within a complex event flow
+- only handle the general processing
+- event processors are not as highly decoupled
+
+comes down to a trade-off between workflow control and error handling capability versus high performance and scalability.
+
+Responsiveness is all about notifying the user that the action has been accepted and will be processed momentarily
+
+performance is about making the end-to-end process faster
+
+*The main issue with asynchronous communications is error handling.*
+
+**workflow event pattern**
+
+![](workflow-event-pattern.png)
+
+1.  asynchronously passes data through a message channel to the event consumer
+2.   If the event consumer experiences an error while processing the data, it immediately delegates that error to the workflow processor
+3.   moves on to the next message in the event queue
+4.   Once the workflow processor receives an error, it tries to figure out what is wrong with the message
+5.   workflow processor programmatically (without human intervention) makes changes to the original data to try and repair it
+6.   ends it back to the originating queue
+
+> messages in error are processed out of sequence when they are resubmitted
+
+Data loss is always a primary concern when dealing with asynchronous communications.
+> data loss can be mitigated through basic messaging techniques
+
+Persisted message queues support what is known as guaranteed delivery.
+> message is physically stored on disk
+
+**client acknowledge mode**
+> message is still preserved in the queue, preventing message loss in this part of the message flow.
+
+last participant support 
+> emoves the message from the persisted queue by acknowledging that processing has been completed 
+
+capability to broadcast events without knowledge of who (if anyone) is receiving the message and what they do with it
+
+synchronous communication is accomplished through **request-reply messaging** 
+> pseudosynchronous communications
+
+![](request-reply.png)
+
+1. The initial request for information is asynchronously sent to the request queue
+2. control is returned to the message producer
+3. message producer then does a blocking wait on the reply queue, waiting for the response
+4. message consumer receives and processes the message
+5. sends the response to the reply queue
+6. event producer then receives the message with the response data
+
+*implementations*
+1. use a correlation ID contained in the message header
+>  set to the message ID of the original request message
+2. use a temporary queue for the reply queue
+> dedicated to the specific request, created when the request is made and deleted when the request ends
+> much simpler
+> Large messaging volumes can significantly slow down the message broker
+
+### Hybrid Event-Driven Architectures
+
+Adding event-driven architecture 
+> helps remove bottlenecks
+> provides a back pressure point in the event requests get backed up
+> provides a level of user responsiveness

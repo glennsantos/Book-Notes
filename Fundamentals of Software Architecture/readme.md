@@ -670,3 +670,93 @@ Adding event-driven architecture
 > helps remove bottlenecks
 > provides a back pressure point in the event requests get backed up
 > provides a level of user responsiveness
+
+---
+
+## Microservices
+> heavily inspired by the ideas in domain-driven design
+> distributed architecture
+> prefers duplication to coupling
+> microservices is firmly domain partitioned
+
+**bounded context**
+> decoupling style
+> each service models a domain or workflow
+
+ The negative trade-off of reuse is coupling
+
+ *The primary goal of microservices is high decoupling, physically modeling the logical notion of bounded context.*
+
+Separating each service into its own process solves all the problems brought on by sharing
+
+Performance is often the negative side effect of the distributed nature of microservices.
+
+The purpose of service boundaries in microservices is to capture a domain or workflow.
+
+Guidelines
+1. Ideally, each microservice should be extremely functionally cohesive, contributing one significant behavior on behalf of the overall application.
+2. if architects can design their system to avoid transactions, they generate better designs.
+3. If an architect builds a set of services that offer excellent domain isolation yet require extensive communication to function, the architect may consider bundling these services back into a larger service to avoid the communication overhead.
+
+**Data Isolation**
+> microservices tries to avoid all kinds of coupling, including shared schemas and databases used as integration points.
+
+*Options:*
+* either identifying one domain as the source of truth for some fact and coordinating with it to retrieve values
+ using database replication or 
+* caching to distribute information.
+
+**API layer**
+* should not be used as a mediator or orchestration tool
+* all interesting logic in this architecture should occur inside a bounded context
+
+**sidecar pattern**
+
+![](sidecar.png)
+
+> handles all the operational concerns that teams benefit from coupling together
+> build a service mesh, allowing unified control across the architecture for concerns like logging and monitoring
+
+ service mesh forms a console that allows teams to globally control operational coupling, such as monitoring levels, logging, and other cross-cutting operational concerns.
+
+Architects use service discovery as a way to build elasticity into microservices architectures.
+
+**Frontends**
+ 
+ two styles
+1. Microservices architecture with a monolithic UI
+2. Microfrontends
+
+Microservices architectures typically utilize protocol-aware heterogeneous interoperability. 
+> Protocol-aware:  services must know (or discover) which protocol to use to call other services.
+> Heterogeneous: supports polyglot environments, where different services use different platforms.
+> Interoperability: services commonly call other services via the network to collaborate and send/receive information.
+
+**Enforced Heterogeneity**
+
+The goal in the microservices 
+> choose the correct scale technology for the narrow scope of the problem
+
+**Choreography**
+> same communication style as a broker event-driven architecture
+> no central coordinator 
+
+Domain/architecture isomorphism
+> can create their own localized mediator
+
+common problems like error handling and coordination become more complex
+
+the architect’s job entails finding the best way to represent that coupling in ways that support both the domain and architectural goals.
+
+Don’t do transactions in microservices—fix granularity instead!
+
+**Saga pattern**
+> In an error condition, the mediator must ensure that no part of the transaction succeeds if one part fails. 
+> use the saga pattern sparingly.
+
+compensating transaction framework
+> mediator enter a pending state until the mediator indicates overall success
+
+do and undo for each potentially transactional operation
+
+A few transactions across services is sometimes necessary; if it’s the dominant feature of the architecture, mistakes were made!

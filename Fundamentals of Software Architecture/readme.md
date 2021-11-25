@@ -760,3 +760,18 @@ compensating transaction framework
 do and undo for each potentially transactional operation
 
 A few transactions across services is sometimes necessary; if it’s the dominant feature of the architecture, mistakes were made!
+
+----
+
+## Choosing the Appropriate Architecture Style
+
+1. What can adapt to change?
+2. What architecture fits the characteristic requirements for this domain?
+3. Where should data live?
+4. What architecture matches the org structure?
+5. What communication styles between services—synchronous or asynchronous? 
+
+*Use synchronous by default, asynchronous when necessary.*
+
+
+

@@ -762,7 +762,6 @@ do and undo for each potentially transactional operation
 A few transactions across services is sometimes necessary; if it’s the dominant feature of the architecture, mistakes were made!
 
 ----
-
 ## Choosing the Appropriate Architecture Style
 
 1. What can adapt to change?
@@ -772,6 +771,97 @@ A few transactions across services is sometimes necessary; if it’s the dominan
 5. What communication styles between services—synchronous or asynchronous? 
 
 *Use synchronous by default, asynchronous when necessary.*
+
+
+----
+
+## Architecture Decision Anti-Patterns
+
+### Covering Your Assets
+> occurs when an architect avoids or defers making an architecture decision out of fear of making the wrong choice.
+
+to overcome:
+1. wait until the last responsible moment to make an important architecture decision
+   > wait until you have enough information to justify and validate your decision, but not waiting so long that you hold up development teams or fall into the Analysis Paralysis
+2. continually collaborate with development teams to ensure that the decision you made can be implemented as expected
+
+### Groundhog Day
+
+> occurs when people don’t know why a decision was made, so it keeps getting discussed over and over and over
+
+to overcome:
+> document both technical and business justifications for your decision
+
+If a particular architecture decision does not provide any business value, then perhaps it is not a good decision and should be reconsidered.
+
+common business justifications:
++ cost
++ time to market
++ user satisfaction
++ strategic positioning
+
+### Email-Driven Architecture 
+
+> people lose, forget, or don’t even know an architecture decision has been made and therefore cannot possibly implement that architecture decision
+
+ways to increase the effectiveness of communicating architecture decisions:
++ not include the architecture decision in the body of an email. Add it into a living document, single source of truth.
++ only notify those people who really care about the architecture decision
++ 
+
+## architecturally significant
+> decisions that affect the structure, nonfunctional characteristics, dependencies, interfaces, or construction techniques
+
+**structure**
++ patterns or styles of architecture being used. ex sharing of data
+
+**nonfunctional characteristics**
++ arch characteristics that are important for the application or system being developed or maintained
+
+**dependencies**
++ coupling points between components and/or services within the system
+
+**Interfaces**
++ how services and components are accessed and orchestrated, usually through a gateway, integration hub, service bus, or API proxy
+
+**construction techniques**
++ platforms, frameworks, tools, and even processes that, although technical in nature, might impact some aspect of the architecture.
+
+## Architecture Decision Records
+* https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
+* https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/
+
+### Basic Structure
+**Title**: short description of decision
+ex. 12. Use SQS Instead of RabbitMQ
+
+**Status**: needs approval / approved / superceded (by new ADR) / Request for Comments (draft)
+> make sure to modify any superceded ADRs' status
+> add a deadline if RFC
+> Talk with stakeholders about cost, impact to teams, and security, which can be basis of self-approval
+
+**Context**: why make this decision?
+> what situation is forcing me to make this decision?
+> include alternatives considered
+
+**Decision**: decision description and full justification
+> using a very affirmative, commanding voice
+> place more emphasis on the why rather than the how
+
+**Consequences**: impact of decision
+> whether those impacts outweigh the benefits of the decision.
+> document the trade-off analysis
+
+**Compliance**: how to ensure compliance
+> will it be checked manually or automated with a fitness function?
+
+**Notes**: metadata
+> orig author, approval date, approver
+> superseded date
+
+Store in git repo only if decision makers have access to it. Maybe use Google Sites.
+
+
 
 
 

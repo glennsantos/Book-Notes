@@ -904,3 +904,22 @@ overall impact of the risk vs the likelihood of that risk occurring
 
 *By utilizing the same architecture risk matrix for stories, teams can identify stories of high risk, track those carefully, and prioritize them.*
 
+----
+
+*Careful use of representational consistency ensures that viewers understand the scope of items being presented, eliminating a common source of confusion.*
+
+**Irrational Artifact Attachment**
+> proportional relationship between a person’s irrational attachment to some artifact and how long it took to produce
+
+
+## Diagramming Guidelines
+1. Make sure all the elements of the diagram have titles
+2. Lines should be thick enough to see well.
+3. If lines indicate information flow, then use arrows to indicate directional or two-way traffic.
+4. Solid lines: synchronous communication
+5. Dotted lines: asynchronous communication.
+6. label each item in a diagram, especially if there is any chance of ambiguity for the readers.
+7. If shapes are ambiguous for any reason, include a key on the diagram clearly indicating what each shape represents.
+  
+**Infodecks**
+> slide decks that are not meant to be projected but rather summarize information graphically, essentially using a presentation tool as a desktop publishing package.

@@ -861,7 +861,46 @@ ex. 12. Use SQS Instead of RabbitMQ
 
 Store in git repo only if decision makers have access to it. Maybe use Google Sites.
 
+----
+
+## Architecture Risk
+
+### Risk storming**
+> a collaborative exercise used to determine architectural risk within a specific dimension
+> Common dimensions
++ unproven technology
++ performance
++ scalability
++ availability (including transitive dependencies)
++ data loss
++ single points of failure
++ security
+
+**Risk Matrix**
+overall impact of the risk vs the likelihood of that risk occurring
+
+![](risk-matrix.png)
+
+**risk assessment**
+> summarized report of the overall risk of an architecture with respect to some sort of contextual and meaningful assessment criteria
+
+![](risk-assessment.png)
 
 
+**Primary Activities**
+> works like planning poker
+1. Identification
+> identifying areas of risk within the architecture
+> an individual, noncollaborative activity
+> Whenever possible, restrict risk storming efforts to a single dimension.
+> For unproven or unknown technologies, always assign the highest risk rating (9) since the risk matrix cannot be used for this dimension.
+2. Consensus
+> gaining consensus among all participants regarding the risk within the architecture
+> always collaborative and involve all participants working together
+![](risk-storming-consensus.png)
+3. Mitigation
+> usually involves changes or enhancements to certain areas of the architecture that otherwise might have been deemed perfect the way they were.
+> decide whether the cost outweighs the risk
 
+*By utilizing the same architecture risk matrix for stories, teams can identify stories of high risk, track those carefully, and prioritize them.*
 

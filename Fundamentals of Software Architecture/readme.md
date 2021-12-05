@@ -1013,3 +1013,23 @@ TOTAL: +40, control freak-ish
 - Unusual and extreme test cases
 - Missing fields
 
+----
+
+## Negotiation
+
+1. When all else fails, state things in terms of cost and time.
+2. Leverage the “divide and conquer” rule to qualify demands or requirements.
+3. Always remember that demonstration defeats discussion. Show, don't tell.
+4. Avoid being too argumentative or letting things get too personal in a negotiation
+5. When convincing developers to adopt an architecture decision or to do a specific task, provide a justification rather than “dictating from on high.”
+6. If a developer disagrees with a decision, have them arrive at the solution on their own.
+7. Ask for the meeting agenda ahead of time to help qualify if you are really needed at the meeting or not.
+
+## The 4 C’s of Architecture
+> communication, collaboration, clarity, and conciseness
+
+*accidental complexity*
+> in other words, “we have made a problem hard.”
+
+*No matter what the problem is, it’s a people problem.*
+

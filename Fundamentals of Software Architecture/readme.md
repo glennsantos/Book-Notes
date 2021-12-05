@@ -923,3 +923,93 @@ overall impact of the risk vs the likelihood of that risk occurring
   
 **Infodecks**
 > slide decks that are not meant to be projected but rather summarize information graphically, essentially using a presentation tool as a desktop publishing package.
+
+----
+
+## Team Building
+
+*An architect’s role is to create the building blocks of the application (the components) and determine the interactions between those components.*
+
+Create and communicate the constraints, or the box, in which developers can implement the architecture.
+> provide the right level of guidance and constraints so that the team has the correct tools and libraries in place to effectively implement the architecture
+
+### Control Freak
+- tries to control every detailed aspect of the software development process
+- usually too fine-grained and too low-level, resulting in too many constraints
+- steal the art of programming away from the developers
++ works for low-skilled teams
+
+### Armchair Architect
+- hasn’t coded in a very long time (if at all) and doesn’t take the implementation details into account when creating an architecture
+- disconnected from the development teams
+- simply move from project to project once the initial architecture diagrams are completed
+- simply in way over their head in terms of the technology or business domain
+- development teams end up taking on the role of architect
+- Not fully understanding the business domain, business problem, or technology used
+- Not enough hands-on experience developing software
+- Not considering the implications associated with the implementation of the architecture solution
+
+biggest indicator: not having enough time to spend with the development teams implementing the architecture
+> they need the architect available for answering technical or business-related questions
+
+solution:
++ get more involved in the technology being used on the project and understanding the business problem and business domain.
+
+### Effective software architect
++ produces the appropriate constraints and boundaries on the team
++ ensuring that the team members are working well together and have the right level of guidance on the team
++ ensures that the team has the correct and appropriate tools and technologies in place
++ remove any roadblocks that may be in the way of the development teams reaching their goals
++ requires working closely and collaborating with the team
++ gaining the respect of the team as well
+
+### Elastic Leadership
+
+1. Team familiarity
+> the newer the team members, the more control needed
+2. Team size
+> more than 12 developers === big team
+> 4 or fewer === small team
+> The larger the team, the more control is needed
+3. Overall experience
+> Teams with lots of junior developers require more control
+4. Project complexity
+>  Highly complex projects require more control
+5. Project duration
+> the longer the project, the more control is needed.
+
+For current team
+1. Familiarity: +10 (some new members)
+2. Size: 0 (medium sized)
+3. Experience: -10 (many seniors)
+4. Complexity: +20 (complex)
+5. Duration: +20 (1 year at least)
+TOTAL: +40, control freak-ish
+
+**Process loss**
+> frequent merge conflicts when pushing code to a repository
+**Pluralistic ignorance**
+> when everyone agrees to (but privately rejects) a norm because they think they are missing something obvious.
+**Diffusion of responsibility**\
+>  Confusion about who is responsible for what on the team and things getting dropped are good signs of a team that is too large.
+
+## Checklists
+>  The key to making teams effective is knowing when to leverage checklists and when not to.
+
+- Any processes that have a procedural flow of dependent tasks should not be in a checklist.
+- Simple, well-known processes that are executed frequently without error also do not need a checklist.
+
+### Developer Code Completion Checklist
+> useful for defining what is known as the “definition of done.”
+### Unit and Functional Testing Checklist
+>  contains some of the more unusual and edge-case tests that software developers tend to forget to test.
+- Special characters in text and numeric fields
+- Minimum and maximum value ranges
+- Rate limiting, for APIs
+- Error logging
+- Error messages
+- Failing API calls
+- Auth tokens are short-lived
+- Unusual and extreme test cases
+- Missing fields
+

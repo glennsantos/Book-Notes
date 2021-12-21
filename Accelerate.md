@@ -1,37 +1,67 @@
-Delivery Lead Time + Deployment Frequency = Quantity Metrics (Tempo)
+𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝘁𝗼 𝗠𝗲𝗮𝘀𝘂𝗿𝗲 𝗮𝗻𝗱 𝗜𝗺𝗽𝗿𝗼𝘃𝗲
 
-Time to Restore Service + Change Fail Rate = Quality Metrics (Stability)
+𝘘𝘶𝘢𝘯𝘵𝘪𝘵𝘺 𝘔𝘦𝘵𝘳𝘪𝘤𝘴 (𝘛𝘦𝘮𝘱𝘰)
 
-## Delivery Lead Time
-> the time it takes to go from code committed to code successfully running in production
+🚄 𝘿𝙚𝙡𝙞𝙫𝙚𝙧𝙮 𝙇𝙚𝙖𝙙 𝙏𝙞𝙢𝙚
+Time it takes to go from code committed to code successfully running in production
 > Shorter is better
-> measurement: from < 1 hour to more than six months
+> Measurement: from < 1 hour to more than six months
 
+🚁 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩 𝙁𝙧𝙚𝙦𝙪𝙚𝙣𝙘𝙮
+Deployment to production or to an app store.
+> Measurement: from on demand to fewer than once every six months
+> Faster is better
 
-## Deployment Frequency 
-a software deployment to production or to an app store.
-> measurement: from on demand to fewer than once every six months
+𝘘𝘶𝘢𝘭𝘪𝘵𝘺 𝘔𝘦𝘵𝘳𝘪𝘤𝘴 (𝘚𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺)
 
-## Mean Time to Restore (MTTR))
-> How quickly can service be restored?
-> measurement: from < 1 hour to more than six months
+🌾 𝙈𝙚𝙖𝙣 𝙏𝙞𝙢𝙚 𝙩𝙤 𝙍𝙚𝙨𝙩𝙤𝙧𝙚 (𝙈𝙏𝙏𝙍)
+How quickly can service be restored?
+> Measurement: from < 1 hour to more than six months
 
-## Change Failure Rate (CFR)
-> percentage of changes for the primary application or service they work on either result in degraded service or subsequently require remediation 
+🌋 𝘾𝙝𝙖𝙣𝙜𝙚 𝙁𝙖𝙞𝙡𝙪𝙧𝙚 𝙍𝙖𝙩𝙚 (𝘾𝙁𝙍)
+Percentage of changes for the primary application or service they work on either result in degraded service or subsequently require remediation 
 
-
-----
-
-High Performers
+𝘘𝘶𝘢𝘭𝘪𝘵𝘪𝘦𝘴 𝘰𝘧 𝘏𝘪𝘨𝘩 𝘗𝘦𝘳𝘧𝘰𝘳𝘮𝘦𝘳𝘴
 > On demand deployment frequency
 > Less than one hour deliver lead time
 > MTTR: < 1 hour
 > CFR: 0 - 15%
 
-there is no tradeoff between improving performance and achieving higher levels of stability and quality
+𝘛𝘩𝘦𝘳𝘦 𝘪𝘴 𝘯𝘰 𝘵𝘳𝘢𝘥𝘦𝘰𝘧𝘧 𝘣𝘦𝘵𝘸𝘦𝘦𝘯 𝘪𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦 𝘢𝘯𝘥 𝘢𝘤𝘩𝘪𝘦𝘷𝘪𝘯𝘨 𝘩𝘪𝘨𝘩𝘦𝘳 𝘭𝘦𝘷𝘦𝘭𝘴 𝘰𝘧 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘲𝘶𝘢𝘭𝘪𝘵𝘺
+
+🏆 𝙄𝙣 𝙩𝙝𝙚 𝘽𝙚𝙨𝙩 𝘾𝙤𝙢𝙥𝙖𝙣𝙮 𝘾𝙪𝙡𝙩𝙪𝙧𝙚, 𝙞𝙩'𝙨...
+> Safe to deliver bad news
+> High cooperation
+> Shared risk and responsibility
+> Cross functional collab encouraged
+> Failures are studied and means room for improvement 
+
+🚚 𝙁𝙖𝙘𝙩𝙤𝙧𝙨 𝙩𝙝𝙖𝙩 𝙥𝙧𝙚𝙙𝙞𝙘𝙩 𝙝𝙞𝙜𝙝 𝙙𝙚𝙡𝙞𝙫𝙚𝙧𝙮 𝙥𝙚𝙧𝙛𝙤𝙧𝙢𝙖𝙣𝙘𝙚
+> Goal-oriented generative culture
+> Modular architecture
+> Engineering practices that enable continuous delivery
+> Effective leadership
+
+⌨️ 𝙄𝙢𝙥𝙧𝙤𝙫𝙞𝙣𝙜 𝙠𝙚𝙮 𝙩𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙘𝙖𝙥𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙧𝙚𝙙𝙪𝙘𝙚𝙨 𝙙𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩 𝙥𝙖𝙞𝙣
+> Comprehensive test and deployment automation
+> Continuous integration
+> Shift left on security
+> Manage test data
+> Loosely coupled architectures
+> Can work independently
+> Use version control of everything required to reproduce production environments decrease their deployment pain
+
+🕯️𝙎𝙞𝙭 𝙤𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙩𝙞𝙤𝙣𝙖𝙡 𝙧𝙞𝙨𝙠 𝙛𝙖𝙘𝙩𝙤𝙧𝙨 𝙩𝙝𝙖𝙩 𝙥𝙧𝙚𝙙𝙞𝙘𝙩 𝙗𝙪𝙧𝙣𝙤𝙪𝙩
+1. 𝗪𝗼𝗿𝗸 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱 job demands exceed human limits.
+2. 𝗟𝗮𝗰𝗸 𝗼𝗳 𝗰𝗼𝗻𝘁𝗿𝗼𝗹: inability to influence decisions that affect your job.
+3. 𝗜𝗻𝘀𝘂𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗿𝗲𝘄𝗮𝗿𝗱𝘀: insufficient financial, institutional, or social rewards.
+4. 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗼𝗳 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆: unsupportive workplace environment.
+5. 𝗔𝗯𝘀𝗲𝗻𝗰𝗲 𝗼𝗳 𝗳𝗮𝗶𝗿𝗻𝗲𝘀𝘀: lack of fairness in decision-making processes.
+6. 𝗩𝗮𝗹𝘂𝗲 𝗰𝗼𝗻𝗳𝗹𝗶𝗰𝘁𝘀: mismatch in organizational values and the individual’s values.
+   
+-------------------------------------------------------------------------------------
 
 ## Delivery Performance Impact on Org Performance
-
 > high-performing organizations were consistently twice as likely to exceed these goals as low performers.
 > high performers were also twice as likely to exceed objectives in quantity of goods and services, operating efficiency, customer satisfaction, quality of products or services, and achieving organization or mission goals.
 
@@ -43,7 +73,7 @@ delivery performance matters provides a strong argument against outsourcing the 
 
 ----
 
-culture levels
+## Culture levels
 1. interpretations: things people just "know"
 2. values
 3. artifacts: visible items like mission statements, procedures, etc 

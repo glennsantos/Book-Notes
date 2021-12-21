@@ -1,31 +1,130 @@
 # The Fundamentals of Software Architecture
 
+𝘾𝙤𝙧𝙚 𝙀𝙭𝙥𝙚𝙘𝙩𝙖𝙩𝙞𝙤𝙣𝙨 𝙤𝙛 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙨
+1. Make architecture decisions
+2. Continually analyze the architecture
+3. Keep current with latest trends
+4. Ensure compliance with decisions
+5. Diverse exposure and experience
+6. Have business domain knowledge
+7. Possess interpersonal skills
+8. Understand and navigate politics
+
+
+𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙖𝙡 𝘾𝙤𝙣𝙘𝙚𝙧𝙣𝙨
+1. Auditability
+2. Performance
+3. Security
+4. Data
+5. Legality
+6. Scalability
+
+𝗙𝗶𝗿𝘀𝘁 𝗟𝗮𝘄 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+> Everything in software architecture is a trade-off.
+
+𝗦𝗲𝗰𝗼𝗻𝗱 𝗟𝗮𝘄 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+> Why is more important than how.
+
+
+𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧𝙞𝙨𝙩𝙞𝙘𝙨 𝙤𝙛 𝙖𝙣 𝙀𝙛𝙛𝙚𝙘𝙩𝙞𝙫𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩
+1. Collaborative
+2. Breadth of knowledge over depth
+3. Knows everything is a trade-off
+4. Has business domain knowledge
+5. Can translate business concerns into architecture.
+
+𝘊𝘰𝘥𝘦 𝘵𝘩𝘢𝘵 𝘪𝘴 𝘵𝘰𝘰 𝘢𝘣𝘴𝘵𝘳𝘢𝘤𝘵 𝘣𝘦𝘤𝘰𝘮𝘦𝘴 𝘥𝘪𝘧𝘧𝘪𝘤𝘶𝘭𝘵 𝘵𝘰 𝘶𝘴𝘦. 𝘊𝘰𝘥𝘦 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘦𝘯𝘰𝘶𝘨𝘩 𝘢𝘣𝘴𝘵𝘳𝘢𝘤𝘵𝘪𝘰𝘯 𝘣𝘦𝘤𝘰𝘮𝘦𝘴 𝘣𝘳𝘪𝘵𝘵𝘭𝘦 𝘢𝘯𝘥 𝘩𝘢𝘳𝘥 𝘵𝘰 𝘮𝘢𝘪𝘯𝘵𝘢𝘪𝘯.
+
+Structured programming only cares about in or out, whereas connascence cares about how things are coupled together
+
+
+𝘕𝘦𝘷𝘦𝘳 𝘴𝘩𝘰𝘰𝘵 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦, 𝘣𝘶𝘵 𝘳𝘢𝘵𝘩𝘦𝘳 𝘵𝘩𝘦 𝘭𝘦𝘢𝘴𝘵 𝘸𝘰𝘳𝘴𝘵 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦.
+
+Most architecture characteristics come from listening to key domain stakeholders and collaborating with them to determine what is important from a domain perspective.
+
+𝗖𝘆𝗰𝗹𝗼𝗺𝗮𝘁𝗶𝗰 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆:  Use the fewest decisions to do the job. CC < 10 is acceptable, would prefer code to fall under five.
+
+𝙁𝙖𝙡𝙡𝙖𝙘𝙞𝙚𝙨 𝙤𝙛 𝘿𝙞𝙨𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙞𝙣𝙜
+- Fallacy #1: The Network Is Reliable
+- Fallacy #2: Latency Is Zero
+- Fallacy #3: Bandwidth Is Infinite
+- Fallacy #4: The Network Is Secure
+- Fallacy #5: The Topology Never Changes
+- Fallacy #6: There Is Only One Administrator
+- Fallacy #7: Transport Cost Is Zero
+- Fallacy #8: The Network Is Homogeneous
+
+𝙃𝙤𝙬 𝙩𝙤 𝘾𝙝𝙤𝙤𝙨𝙚 𝙩𝙝𝙚 𝘼𝙥𝙥𝙧𝙤𝙥𝙧𝙞𝙖𝙩𝙚 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙎𝙩𝙮𝙡𝙚
+1. What can adapt to change?
+2. What architecture fits the characteristic requirements for this domain?
+3. Where should data live?
+4. What architecture matches the org structure?
+5. What communication styles between services—synchronous or asynchronous? 
+> *Use synchronous by default, asynchronous when necessary.*
+
+𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝘿𝙚𝙘𝙞𝙨𝙞𝙤𝙣 𝘼𝙣𝙩𝙞-𝙋𝙖𝙩𝙩𝙚𝙧𝙣𝙨
+1. Cover Your Assets Anti-Pattern
+2. Groundhog Day Anti-Pattern
+3. Email-Driven Architecture Anti-Pattern
+
+𝘽𝙖𝙨𝙞𝙘 𝙎𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚 𝙛𝙤𝙧 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝘿𝙚𝙘𝙞𝙨𝙞𝙤𝙣 𝙍𝙚𝙘𝙤𝙧𝙙𝙨
+1. Title
+2. Status
+3. Context
+4. Decision
+5. Consequences
+6. Compliance
+7. Notes
+
+𝙍𝙚𝙙𝙪𝙘𝙞𝙣𝙜 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩𝙪𝙧𝙚 𝙍𝙞𝙨𝙠
+1. Identification: Crreate a Risk Matrix and weigh impact of risk vs likelihood along each dimension.
+2. Consensus: Discuss the matrix with other people in the team to identify which risks need to be addressed and arrive at a final matrix.
+3. Mitigation: Change the architecture to reduce risk as needed. But also consider other factors, such as costs.
+
+𝙃𝙤𝙬 𝙃𝙖𝙣𝙙𝙨 𝙊𝙣 𝘿𝙤 𝙄 𝙉𝙚𝙚𝙙 𝙩𝙤 𝘽𝙚?
+1. Rank your team, from -20 to +20, along these factors.
+   + Team familiarity: less acquainted, more hands on. -20 === worked together for decades, +20 === brand new department with new members.
+   + Team size: Larger team sizes need you to be more hands on. -20 === <4 team members, +12 members === 20+ team members
+   + Experience: More junior members in the team, more hands on needed. -20 === all senior team, +20 === all junior team.
+   + Complexity: More complex projects require you to be more hands on. -20 === simple 1-page brochure site, +20 === super app with finance, logistics, etc in one.
+   + Duration: Longer projects need you to be more proactive and hands on to stay the course. -20 === 1 week, +20 === 2+ years
+2. Sum the scores.
+3. The more negative the value, the more armchair, hands off you can be. The more positive the sum, the more controlling, hands on you need to be.
+
+𝘛𝘩𝘦 𝘬𝘦𝘺 𝘵𝘰 𝘮𝘢𝘬𝘪𝘯𝘨 𝘵𝘦𝘢𝘮𝘴 𝘦𝘧𝘧𝘦𝘤𝘵𝘪𝘷𝘦 𝘪𝘴 𝘬𝘯𝘰𝘸𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘵𝘰 𝘭𝘦𝘷𝘦𝘳𝘢𝘨𝘦 𝘤𝘩𝘦𝘤𝘬𝘭𝘪𝘴𝘵𝘴 𝘢𝘯𝘥 𝘸𝘩𝘦𝘯 𝘯𝘰𝘵 𝘵𝘰.
+
+𝙂𝙤𝙤𝙙 𝙘𝙝𝙚𝙘𝙠𝙡𝙞𝙨𝙩𝙨 𝙩𝙤 𝙝𝙖𝙫𝙚
+1. Developer Code Completion Checklist
+2. Unit and Functional Testing Checklist
+
+----
+
 ### eight core expectations of software architects
 
 1. Make architecture decisions
-   * define the architecture decisions and design principles
-   * An architect should guide rather than specify technology choices.
+  * define the architecture decisions and design principles
+  * An architect should guide rather than specify technology choices.
 2. Continually analyze the architecture
-   * recommend solutions for improvement
-   * holistically analyze changes in technology and problem domains to determine the soundness of the architecture.
+  * recommend solutions for improvement
+  * holistically analyze changes in technology and problem domains to determine the soundness of the architecture.
 3. Keep current with latest trends
-   * decisions an architect makes tend to be long-lasting and difficult to change. 
-   * https://www.thoughtworks.com/radar
+  * decisions an architect makes tend to be long-lasting and difficult to change. 
+  * https://www.thoughtworks.com/radar
 4. Ensure compliance with decisions
-   * continually verifying that development teams are following the architecture decisions and design principles defined, documented, and communicated by the architect.
-   * compliance using automated fitness functions and automated tools.
+  * continually verifying that development teams are following the architecture decisions and design principles defined, documented, and communicated by the architect.
+  * compliance using automated fitness functions and automated tools.
 5. Diverse exposure and experience
-   * stretch comfort zone
-   * should be aggressive in seeking out opportunities to gain experience in multiple languages, platforms, and technologies.
+  * stretch comfort zone
+  * should be aggressive in seeking out opportunities to gain experience in multiple languages, platforms, and technologies.
 6. Have business domain knowledge
-   *  Without business domain knowledge, it is difficult to design an effective architecture to meet the requirements of the business.
-   *  creates a strong level of confidence that the software architect knows what they are doing and is competent to create an effective and correct architecture.
+  *  Without business domain knowledge, it is difficult to design an effective architecture to meet the requirements of the business.
+  *  creates a strong level of confidence that the software architect knows what they are doing and is competent to create an effective and correct architecture.
 7. Possess interpersonal skills
-   * provide technical guidance to the team
-   *  lead the development teams through the implementation of the architecture.
+  * provide technical guidance to the team
+  *  lead the development teams through the implementation of the architecture.
 8. Understand and navigate politics
-   *  almost every decision an architect makes will be challenged
-   *   navigate the politics of the company and apply basic negotiation skills to get most decisions approved.
+  *  almost every decision an architect makes will be challenged
+  *   navigate the politics of the company and apply basic negotiation skills to get most decisions approved.
 
 Unknown unknowns are the nemesis of software systems. 
 > architects cannot design for unknown unknowns.
@@ -66,19 +165,19 @@ development team is responsible for
 * testing source code
 
 ![](architect-design.png)
- VS 
+VS 
 
- ![](improved-architect-design.png)
+![](improved-architect-design.png)
 
- architect and developer must be on the same virtual team to make this work
+architect and developer must be on the same virtual team to make this work
 
- ### 2. A wide breadth of technical knowledge while still maintaining a certain level of technical depth
+### 2. A wide breadth of technical knowledge while still maintaining a certain level of technical depth
 
- ![](breadth-depth.png)
+![](breadth-depth.png)
 
- two common dysfunctions
- 1. architect tries to maintain expertise in a wide variety of areas, succeeding in none of them and working themselves ragged in the process
- 2. stale expertise—the mistaken sensation that your outdated information is still cutting edge
+two common dysfunctions
+1. architect tries to maintain expertise in a wide variety of areas, succeeding in none of them and working themselves ragged in the process
+2. stale expertise—the mistaken sensation that your outdated information is still cutting edge
 
 ### 3. Understanding, analyzing, and reconciling trade-offs between various solutions and technologies
 
@@ -93,8 +192,8 @@ a software architect would analyze the negatives of the topic solution
 
 > business drivers that are required for the success of the system and translating those requirements into architecture characteristics (such as scalability, performance, and availability)
 
-+ some level of business domain knowledge and healthy, 
-+ collaborative relationships with key business stakeholders
++ some level of business domain knowledge
++  healthy, collaborative relationships with key business stakeholders
 
 ### Hands-On Coding
 
@@ -132,9 +231,9 @@ Attempting to divide a cohesive module would only result in increased coupling a
 
 How to decide cohesiveness of a module:
 1. Split a module if there is a chance each part will grow. Combine otherwise.
-2. Split if there is not data-dependencies between the two
+2. Split if there is no data-dependencies between the two
 3. Split if they do not fulfill any of the cohesion criteria above.
-  
+
 **Lack of Cohesion in Methods (LCOM)**
 > The sum of sets of methods not shared via sharing fields
 > lower value, better
@@ -224,7 +323,7 @@ Structured programming only cares about in or out, whereas connascence cares abo
 
 ## Architecture Characteristics
 
-Criteria
+*Criteria*
 * Specifies a nondomain design consideration
 * Influences some structural aspect of the design
 * Is critical or important to application success
@@ -270,7 +369,7 @@ Criteria
 + Portability
 + Supportability
 + Upgradeability
-	
+
 ### Cross-Cutting Architecture Characteristics
 + Accessibility
 + Archivability
@@ -466,8 +565,8 @@ the de facto standard for most applications, primarily because of its
 > low cost
 
 - falls into several architectural anti-patterns
-  - architecture by implication anti-pattern
-  - accidental architecture anti-pattern
+- architecture by implication anti-pattern
+- accidental architecture anti-pattern
 
 organized into logical horizontal layers
 consist of four standard layers: 
@@ -480,14 +579,13 @@ separation of concerns
 > makes it easy to build effective roles and responsibility models 
 > dealing only with the logic that pertains to that layer
 
- lack of overall agility (the ability to respond quickly to change)
+lack of overall agility (the ability to respond quickly to change)
 
- technically partitioned architecture
- > grouped by their technical role in the architecture
+technically partitioned architecture
+> grouped by their technical role in the architecture
+> domain-driven design approach does not work as well
 
- domain-driven design approach does not work as well
-
- request cannot skip any layers, but rather must go through the layer immediately below it to get to the next layer
+request cannot skip any layers, but rather must go through the layer immediately below it to get to the next layer
 
 *layers of isolation*
 > changes made in one layer of the architecture generally don’t impact or affect components in other layers
@@ -683,9 +781,9 @@ Adding event-driven architecture
 > decoupling style
 > each service models a domain or workflow
 
- The negative trade-off of reuse is coupling
+The negative trade-off of reuse is coupling
 
- *The primary goal of microservices is high decoupling, physically modeling the logical notion of bounded context.*
+*The primary goal of microservices is high decoupling, physically modeling the logical notion of bounded context.*
 
 Separating each service into its own process solves all the problems brought on by sharing
 
@@ -703,7 +801,7 @@ Guidelines
 
 *Options:*
 * either identifying one domain as the source of truth for some fact and coordinating with it to retrieve values
- using database replication or 
+using database replication or 
 * caching to distribute information.
 
 **API layer**
@@ -717,13 +815,13 @@ Guidelines
 > handles all the operational concerns that teams benefit from coupling together
 > build a service mesh, allowing unified control across the architecture for concerns like logging and monitoring
 
- service mesh forms a console that allows teams to globally control operational coupling, such as monitoring levels, logging, and other cross-cutting operational concerns.
+service mesh forms a console that allows teams to globally control operational coupling, such as monitoring levels, logging, and other cross-cutting operational concerns.
 
 Architects use service discovery as a way to build elasticity into microservices architectures.
 
 **Frontends**
- 
- two styles
+
+two styles
 1. Microservices architecture with a monolithic UI
 2. Microfrontends
 
@@ -769,8 +867,7 @@ A few transactions across services is sometimes necessary; if it’s the dominan
 3. Where should data live?
 4. What architecture matches the org structure?
 5. What communication styles between services—synchronous or asynchronous? 
-
-*Use synchronous by default, asynchronous when necessary.*
+> *Use synchronous by default, asynchronous when necessary.*
 
 
 ----
@@ -782,7 +879,7 @@ A few transactions across services is sometimes necessary; if it’s the dominan
 
 to overcome:
 1. wait until the last responsible moment to make an important architecture decision
-   > wait until you have enough information to justify and validate your decision, but not waiting so long that you hold up development teams or fall into the Analysis Paralysis
+  > wait until you have enough information to justify and validate your decision, but not waiting so long that you hold up development teams or fall into the Analysis Paralysis
 2. continually collaborate with development teams to ensure that the decision you made can be implemented as expected
 
 ### Groundhog Day
@@ -920,7 +1017,7 @@ overall impact of the risk vs the likelihood of that risk occurring
 5. Dotted lines: asynchronous communication.
 6. label each item in a diagram, especially if there is any chance of ambiguity for the readers.
 7. If shapes are ambiguous for any reason, include a key on the diagram clearly indicating what each shape represents.
-  
+
 **Infodecks**
 > slide decks that are not meant to be projected but rather summarize information graphically, essentially using a presentation tool as a desktop publishing package.
 
@@ -979,18 +1076,18 @@ solution:
 > the longer the project, the more control is needed.
 
 For current team
-1. Familiarity: +10 (some new members)
-2. Size: 0 (medium sized)
-3. Experience: -10 (many seniors)
+1. Familiarity: +20 (some new members, incl leaders)
+2. Size: +10 (medium sized core team)
+3. Experience: -20 (many seniors)
 4. Complexity: +20 (complex)
 5. Duration: +20 (1 year at least)
-TOTAL: +40, control freak-ish
+TOTAL: +50, control freak
 
 **Process loss**
 > frequent merge conflicts when pushing code to a repository
 **Pluralistic ignorance**
 > when everyone agrees to (but privately rejects) a norm because they think they are missing something obvious.
-**Diffusion of responsibility**\
+**Diffusion of responsibility**
 >  Confusion about who is responsible for what on the team and things getting dropped are good signs of a team that is too large.
 
 ## Checklists
@@ -1033,3 +1130,7 @@ TOTAL: +40, control freak-ish
 
 *No matter what the problem is, it’s a people problem.*
 
+
+----
+
+*We strongly recommend leveraging the 20-minute rule first thing in the morning, as the day is starting.*

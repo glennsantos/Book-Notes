@@ -23,7 +23,7 @@ Percentage of changes for the primary application or service they work on either
 
 𝘘𝘶𝘢𝘭𝘪𝘵𝘪𝘦𝘴 𝘰𝘧 𝘏𝘪𝘨𝘩 𝘗𝘦𝘳𝘧𝘰𝘳𝘮𝘦𝘳𝘴  
 * On demand deployment frequency  
-* Less than one hour deliver lead time  
+* Less than one hour delivery lead time  
 * MTTR: < 1 hour  
 * CFR: 0 - 15%  
 

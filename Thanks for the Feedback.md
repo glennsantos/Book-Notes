@@ -28,33 +28,30 @@
 -----
 
 **APPRECIATION**
-> Appreciation is fundamentally about relationship and human connection. At a literal level it says, “thanks.” But appreciation also conveys, “I see you,” “I know how hard you’ve been working,” and “You matter to me.”
+> motivates and encourages. 
 > We need evaluation to know where we stand, to set expectations, to feel reassured or secure.
 > Three qualities are required for appreciation to count. 
 + it has to be specific
 + appreciation has to come in a form the receiver values and hears clearly.
 + meaningful appreciation has to be authentic
 > Most needed by rank and file
-> motivates and encourages. 
 
 **COACHING**
-> Coaching is aimed at trying to help someone learn, grow, or change. The focus is on helping the person improve, whether it involves a skill, an idea, knowledge, a particular practice, or that person’s appearance or personality.
+> helps increase knowledge, skill, capability, growth, or raises feelings in the relationship. 
 > Two Needs
  + need to improve your knowledge or skills in order to build capability and meet novel challenges
  + identifying a problem in your relationship: Something is missing, something is wrong.  The “problem” the coaching is aimed at fixing is how the giver is feeling, or a perceived imbalance in the relationship.
 > We need coaching to accelerate learning, to focus our time and energy where it really matters, and to keep our relationships healthy and functioning.
 >  coaching can also be stressful, confusing, and ineffective
 > Needed by people who want to grow their career, managers or equivalent
-> helps increase knowledge, skill, capability, growth, or raises feelings in the relationship. 
 
 **EVALUATION**
-> Evaluation tells you where you stand. It’s an assessment, ranking, or rating.
+> tells you where you stand, aligns expectations, and informs decision making.
 > Evaluations are always in some respect comparisons, implicitly or explicitly, against others or against a particular set of standards.
 > We need appreciation if all the sweat and tears we put into our jobs and our relationships are going to feel worthwhile.
 > Before I can take in coaching or appreciation, I need to know that I’m where I need to be, that this relationship is going to last.
 > Needed by those close to failure (PIP)
 > Also needed by executives and leadership
-> tells you where you stand, aligns expectations, and informs decision making.
 
 ----
 ## Fixes for Cross-Transactions
@@ -70,4 +67,28 @@
 **SEPARATE EVALUATION FROM COACHING AND APPRECIATION**
 > The evaluation conversation needs to take place first. 
 > the evaluation conversation and the coaching conversation should be separated by at least days, and probably longer.
-> 
+
+----
+
+How to give feedback
+1. Be specific
+   + (1) where the feedback is coming from, and
+        - examine a key distinction: the difference between the giver’s “data” (what they observe) and their interpretation
+   + (2) where the feedback is going.
+        - difference between feedback that is coaching, which aims at advice, and feedback that is evaluation, which clarifies consequences. 
+
+ASK WHERE THE FEEDBACK IS COMING FROM
+1. Observe Data
+   > whatever they’ve seen, felt, heard, smelled, touched, tasted, remembered, or read that is relevant
+2. Interpret the Data
+   > People don’t typically offer their raw observations as feedback, based on their own past experiences, values, assumptions, and implicit rules about the world
+3. Confuse Data and Interpretation
+   >  The process of moving from data to interpretation happens in the blink of an eye and is largely unconscious.
+   > human intelligence is organized around stories.
+
+ASK WHERE THE FEEDBACK IS GOING
+1. When Receiving Coaching: Clarify Advice
+   > If you do want to follow the advice, would you know how to do so?
+   > asks how he would implement the advice if he decides to take it.
+2. When Receiving Evaluation: Clarify Consequences and Expectations
+   > it’s useful to have a short list of good questions in your back pocket before you walk into any evaluation conversation.

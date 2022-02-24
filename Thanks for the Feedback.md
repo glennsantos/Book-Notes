@@ -136,5 +136,41 @@ Ask: What’s right about the feedback to seek out what’s legit and what conce
 
 Working together to get a more complete picture maximizes the chances you will (both) learn something. 
 
+![](gapmap.png)
 
+* my behavior is in your awareness and mostly not in my awareness.
 
+Things we cannot read about ourselves:
+  - facial expressions
+  - tone
+  - patterns of behavior
+
+*Our blind spots are their hot spots.*
+
+### AMPLIFIER 1: EMOTIONAL MATH
+* We subtract certain emotions from the equation. But others count it double.
+
+### AMPLIFIER 2: SITUATION VERSUS CHARACTER
+* When something goes wrong and I am part of it, I will tend to attribute my actions to the situation; you will tend to attribute my actions to my character.
+
+### AMPLIFIER 3: IMPACT VERSUS INTENT
+* We judge ourselves by our intentions while others judge us by our impacts
+* The “fix” is to separate intentions from impacts when feedback is discussed.
+
+*teaching people how to invite and understand feedback—even if it feels upsetting or wrong—might help parties on both sides sort things out more successfully.*
+
+WHAT HELPS US SEE OUR BLIND SPOTS?
+> To see ourselves and our blind spots we need help from others.
+> 
+1.  Instead of dismissing the feedback or the person giving it to you, use these thoughts as a blind-spot alert.
+2.  Ask: How am I getting in my own way? 
+3.  Instead of whipping out contradictory feedback, take a breath and look for consistent feedback:
+   a. consider to what extent you are each describing the same behavior but interpreting it differently
+   b. look for consistencies: Ask yourself, Where have I heard this before? Is this the first time you’ve gotten such feedback, or have you heard similar things from other people (or the same exact person) over the years? 
+4. If important feedback doesn’t resonate, take the whole set of questions to a friend.
+* A supportive mirror shows us our best self, well rested and under flattering light.
+> we often ask the people closest to us to be supportive mirrors.
+* An honest mirror shows us what we look like right now, when we’re not at our best and our bedhead is bad
+> People we rely on for support are often hesitant to share critical, honest feedback with us. 
+> They are hesitant not out of cowardice, but out of confusion and concern.
+5. For many of us, watching ourselves on video or hearing ourselves on audio is unpleasant at best. But it can be enormously illuminating, enabling us to hear our own tone and see our own behavior in ways that are normally invisible to us.

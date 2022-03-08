@@ -174,3 +174,56 @@ WHAT HELPS US SEE OUR BLIND SPOTS?
 > People we rely on for support are often hesitant to share critical, honest feedback with us. 
 > They are hesitant not out of cowardice, but out of confusion and concern.
 5. For many of us, watching ourselves on video or hearing ourselves on audio is unpleasant at best. But it can be enormously illuminating, enabling us to hear our own tone and see our own behavior in ways that are normally invisible to us.
+
+-----
+
+RELATIONSHIP TRIGGERS CREATE SWITCHTRACK CONVERSATIONS
+>where we have two topics on the table and talk past each other.
+> often done when triggered
++ the switchtrack topic may be important, and can be dealt with now
+- conversation gets tangled, having to deal with two topics now 
+- sometimes can be silent and not sounded out.
+
+*I’m on my track, you’re on yours, and we soon lose sight of each other.*
+
+4 steps
+1. get feedback
+2. experience a relationship trigger
+3. change the topic to how you feel
+4. talk past each other
+
+## relationship triggers
+### WHAT WE THINK ABOUT THEM. Based on the who, we discard the what.
++ Skill or Judgment: How, when, or where they gave the feedback.
++ Credibility: They don’t know what they’re talking about. 
+  >> Their experience is a factor in weighing the feedback’s usefulness, but don’t use it to automatically reject their counsel.
++ Trust: Their motives are suspect. 
+  >> treat trust and content as separate topics
+  * We tend to like people who like us and who are like us.
+  * When we are under stress or in conflict we lose skills we normally have, impact others in ways we don’t see, are at a loss for positive strategies. 
+  * People we find difficult see us at our worst and may be especially well placed to be honest mirrors about areas where we have the most room to grow.
+  
+### HOW WE FEEL TREATED BY THEM
++ Appreciation: Do they see our efforts and successes?
++ Autonomy: Are we given appropriate space and control?
+  * Whichever way we decide, simply realizing that we’re triggered not by the advice itself but by being told what to do will help us address the correct topic.
++ Acceptance: Do they respect or accept who we are (now)?
+  * We find it hard to take feedback from someone who doesn’t accept us the way we are now.
+  * the giver and receiver may define acceptance differently. 
+
+RELATIONSHIP TRIGGERS: WHAT HELPS?
+
+### SPOT THE TWO TOPICS
+* We can’t give each topic its own track unless we are aware that there are two topics.
+
+### GIVE EACH TOPIC ITS OWN TRACK
+* signposting: At the point at which you realize there are two topics running simultaneously, say that out loud and propose a way forward.
+    >> The template for signposting is this: 
+        “I see two related but separate topics for us to discuss. They are both important. Let’s discuss each topic fully but separately, giving each topic its own track. After we’ve finished discussing the first topic, we’ll swing back around and discuss the second one.”
+* Use your own words, but be clear.
+* discuss first original feedback.
+* If your relationship trigger reaction is so strong that it gets in the way of your being able to take in what they are saying, then you should say so and propose that your topic be discussed first.
+
+### LISTEN FOR THE RELATIONSHIP ISSUES LURKING BENEATH THEIR “ADVICE”
+* We stay on the giver’s topic (their track), but we misunderstand what that topic is.
+* So when you receive coaching, a question to ask yourself is this: Is this about helping me grow and improve, or is this the giver’s way of raising an important relationship issue that has been upsetting them?

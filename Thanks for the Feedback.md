@@ -227,3 +227,69 @@ RELATIONSHIP TRIGGERS: WHAT HELPS?
 ### LISTEN FOR THE RELATIONSHIP ISSUES LURKING BENEATH THEIR “ADVICE”
 * We stay on the giver’s topic (their track), but we misunderstand what that topic is.
 * So when you receive coaching, a question to ask yourself is this: Is this about helping me grow and improve, or is this the giver’s way of raising an important relationship issue that has been upsetting them?
+
+
+-----
+
++ When we are the ones giving the feedback, we know we are offering “constructive criticism” and helpful coaching.
+- Yet when we’re on the receiving end of this kind of feedback, we don’t hear it as “constructive” anything. We hear it as blame: This is your fault.
+
+When something goes wrong in a system, we each see some things the other doesn’t, and these observations are not randomly distributed between us.
+* Each of us is part of the problem.
+* Each of us sees only part of the problem (the part the other person is contributing)
+
+TAKE THREE STEPS BACK
+
+## One Step Back: You + Me Intersections
+
++ What is the particular you + me combination that is creating a problem, and what is each of us contributing to that?
++ in relationships, “This is how you are” really means “This is how you are in relationship to how I am.”
++  Instead of focusing on what the other person is doing wrong, notice what you are each doing in reaction to the other. 
+
+*Intersections—differences in preferences, tendencies, and traits that cause us to bump into each other—account for a significant proportion of the friction and feedback in both personal and professional relationships.*
+
+## Two Steps Back: Role Clashes.
+
++ This view expands our perspective to look at the roles each of us plays on the team, in the organization, or in the family
++ This is not just about you and me, this is also about the roles we play.
++ A role is like an ice cube tray into which you pour your personality. What you pour in matters, but so does the shape of the tray.
++ One important role pattern is called “accidental adversaries.”
+  >  If two people bump into each other enough and cause each other enough frustration, each will begin considering the other an “adversary.”
+  > If we are each at one end of a rope and our job is to pull, then merely doing our jobs creates a tug-of-war.
+  > Accidental adversaries are created by two things: role confusion and role clarity.
+  > It’s essential to disentangle the individual from their role by taking two steps back and asking: How are our roles contributing to how we see each other, and to the feedback we give each other? How much is role, and how much is personality or performance?
+
+## Three Steps Back: The Big Picture
+
++ From this frame of reference we can view the entire landscape—including other players, structures, and processes that guide and constrain the choices we each make and the outcomes we get.
+includes
+* other players
+* environment
+* timing and decision making
+* policies
+* processes
+* workaround coping strategies
+
+THE BENEFITS OF A SYSTEMS LENS
+1. Systems thinking corrects for the skew of any single perspective.
+2. Systems thinking eases the temptation to treat other people’s contributions to the problem as automatically “bad” or “wrong” or “blameworthy.”
+3. A systems approach helps you clarify your choices and actions, and how they created the outcomes you got.
+4. A systems approach helps you get a sense of appropriate action going forward.
+5. A systems perspective helps us fight these tendencies (shifters and absorbers) in ourselves and understand them in others as we talk about feedback.
+    * Blame Absorbers: It’s All Me - Absorbers will tend to see their own contribution to the problem and stop there.  They quickly accept feedback and cut the conversation short, failing to explore the intersections, roles, choices, and reactions that created the problem under discussion.
+    * Blame Shifters: It’s Not Me - Shifters find themselves constantly assaulted by everyone else’s incompetence or treacherousness. A victim stance makes it impossible for feedback to penetrate
+
+How to Fix
+1. Pay attention to your own silent switchtracking reaction to others’ feedback
+2. The next step is to be accountable: Figure out your contribution to the problem and take responsibility for it.
+3. Rather than trying to force them to admit to and take responsibility for their part in the problem, describe how they could get a better reaction from you.
+4. Me + Everybody systems can actually be fairly simple to change, because when one of you changes (i.e., you), the whole system improves. 
+5. once we identify the contours of a system, we can often make useful changes that don’t require that people change their personalities. We can shift their roles, change the processes we use, or even change the environment. 
+
+Looking at systems:
+1. Reduces judgment
+2. Enhances accountability
+3. Uncovers root causes
+
+-----
+

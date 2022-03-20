@@ -291,5 +291,65 @@ Looking at systems:
 2. Enhances accountability
 3. Uncovers root causes
 
------
+----
 
+*wiring matters*
++ Baseline, Swing, and Sustain/Recovery vary by as much as 3,000 percent among individuals.
+
+One of the brain’s primary survival functions is to manage approach and withdrawa
++ We tend to move toward things that are pleasurable (healthy and safe)
+- and away from things that are painful (unhealthy and dangerous)
+
+**Baseline**:  default state of well-being
+* As humans, we adapt—to new information and events both good and bad—and gravitate back to our personal default level of well-being.
+* Happiness is believed to be one of the most highly heritable aspects of personality.
+* higher happiness baselines >> the volume will be turned up on the positives, and down on the negatives.
+* lower happiness baselines >>  the volume will be turned down on the positives, and up on the negatives.
+
+**Swing**: how far up or down you move from your baseline when you receive feedback
+* high reactive: sensitive to feedback
+* Bad is stronger than good: Responses to threats and unpleasantness are faster, stronger, and harder to inhibit than responses to opportunities and pleasures.
+
+**Sustain and Recovery**: how long your ups and downs last, sustain a boost from positive feedback and recover quickly from a negative emotional dip
+* negative feedback and positive feedback are mediated by different parts of the brain
+  +  right side: negative feelings like fear, anxiety, and disgust
+  +  left side: positive feelings like amusement, hope, and love
+* People who are faster to recover not only have more activity in the left side
+* If you find it easier to sustain positive emotion, you can ride the boosts you get from happy moments 
+* Positive feedback sticks
+
+![](swing-sustain-recovery-table.png)
+
+*The danger when talking about brain wiring and temperament is that we take our wiring as fixed and assume it is destiny. It’s neither.*
++ Practices such as meditation, serving others, and exercise can raise your baseline over time, and life events that involve trauma or depression can have a profound impact as well.
+
+## 50-40-10 formula for happiness
+1. 50 percent of our happiness is wired in
+2. 40 percent can be attributed to how we interpret and respond to what happens to us
+3. 10 percent is driven by our circumstances
+
+### interpretations and responses can help turn post-traumatic stress into post-traumatic growth.
+
+OUR STORIES HAVE AN EMOTIONAL SOUNDTRACK
+> we don’t live our life in data, but in stories
+  * stories are made not only of thoughts but of feelings.
+
+THOUGHTS + FEELINGS = STORY
+
+*If our stories are a result of our feelings plus our thoughts, then we can change our stories by working to change either our feelings _or_ our thoughts.*
+
+HOW FEELINGS EXAGGERATE FEEDBACK
+### strong feelings push us toward extreme interpretations
+
+OUR PAST: THE GOOGLE BIAS
+* Today’s upsetting feedback can influence the story we tell about yesterday
+* When you feel lousy about yourself, you are effectively Googling “Things that are wrong with me.”
+* collapses the past and the present.
+
+OUR PRESENT: NOT ONE THING, EVERYTHING
+* When we feel happy and healthy, we are able to contain negative feedback to the topic
+* But if you’re in the grip of strong emotion, negative feedback floods across boundaries into other areas of your self-image
+* Flooding can drown out any positive attributes that might lend balance to the picture
+
+OUR FUTURE: THE FOREVER BIAS AND SNOWBALLING
+* When we feel bad, we assume we will always feel bad.

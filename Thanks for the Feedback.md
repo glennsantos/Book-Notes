@@ -353,3 +353,72 @@ OUR PRESENT: NOT ONE THING, EVERYTHING
 
 OUR FUTURE: THE FOREVER BIAS AND SNOWBALLING
 * When we feel bad, we assume we will always feel bad.
+
+
+------
+
+FIVE WAYS TO DISMANTLE DISTORTIONS
+
+1. BE PREPARED, BE MINDFUL
+   * consider how we will feel and respond if we hear things that we disagree with or find upsetting.
+   * it’s enormously helpful to be aware of your particular patterns.
+   * If you’re having trouble discerning your footprint, ask those around you.
+   * Your footprint will show up strongest when the feedback is toughest.
+   * Think through in advance the worst that could happen, try it on emotionally, and reason through the possible consequences.
+   * think through in a balanced and unhurried way what the news might mean for you and what actions you would take if you received it.
+   * During the feedback conversation itself, periodically check in on yourself and slow things down. 
+
+2. SEPARATE THE STRANDS: FEELING / STORY / FEEDBACK
+* do this by asking yourself three questions:
+    - What do I feel? name the feeling
+    - What’s the story I’m telling (and inside that story, what’s the threat)? Pay special attention to the threat.
+    - What’s the actual feedback? It’s important to peel back that story and ask yourself, what exactly was the feedback?
+* be aware of our patterns over time for the kinds of things we tend to add.
+Our Stories Shadowbox with the Past
+- when today’s little story gets linked to larger stories from our past.
+- while the feedback is mild, the wound is deep.
+- The goal in untangling the strands of emotion, story, and feedback is to see what you’ve woven in that does and doesn’t belong there. 
+
+3. CONTAIN THE STORY
++  noticing which of the above rules your story is violating and revising your story to be consistent with them.
++  When you notice that the feedback has stampeded over whatever barriers should keep it in place, you have to round up the feedback, and drop it back into the area where it belongs.
+
+Use a Feedback Containment Chart
+* what is this feedback not about? 
+* What isn’t this about?
+
+Draw the Balancing Picture
+* When you visualize the feedback in these ways, you literally see the proportions rather than just intuiting them.
+
+Right-Size the Future Consequences
+* While consequences are “objective,” we still have our story about what the consequences mean, and this is where distortions and assumptions creep in.
+* we often fail to distinguish between consequences that will happen and consequences that might happen.
+* the goal is not to dismiss them or pretend they don’t matter. The goal is to right-size them, to develop a realistic and healthy sense of what might happen
+
+4. CHANGE YOUR VANTAGE POINT
+
+Imagine You’re an Observer
+* When we get feedback—when we are the object—we can imagine how we might react if instead we were the friend, the sibling, the observer.
+
+Look Back from the Future
+* Ask yourself how significant today’s events are likely to seem in the grand scheme of things.
+
+Cast the Comedy
+* If you can see humor in the situation, it means you’re succeeding in gaining perspective.
+* The ability to laugh at yourself is also an indicator that you are ready and able to take feedback.
+
+5. ACCEPT THAT YOU CAN’T CONTROL HOW OTHERS SEE YOU
+*  Others’ views of you may be incomplete, outdated, unfair, and based on absolutely nothing.
+*   they may be claiming something about you that is actually true only about them.
+*   Most people are simply too obsessed with themselves to be obsessed with you.
+
+Have Compassion for Them
+* So don’t dismiss others’ views of you, but don’t accept them wholesale either. Their views are input, not imprint.
+
+*Strong negative emotions can keep us in a rut, but they can also help us break out of one.*
+
+ASK FOR SUPPORT
+*  Reach out to supportive mirrors who can help you see yourself with compassion and balance.
+  
+-----
+

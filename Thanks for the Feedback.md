@@ -422,3 +422,65 @@ ASK FOR SUPPORT
   
 -----
 
+CULTIVATE A GROWTH IDENTITY
+
+*Feedback can contradict or undermine the story we tell about who we are, or it can confirm our worst fears about ourselves*
+
+IDENTITY: OUR SELF-STORY
+* Identity is the story we tell ourselves about ourselves
+* Because identity stories are influenced by how we are doing relative to those around us, our peers become the yardsticks we use to gauge how we measure up
+
+IS YOUR IDENTITY BRITTLE OR ROBUST?
+
+*Our ability to metabolize challenging feedback is driven by the particular way we tell our identity story.*
++ Some people tell their identity story in ways that cause their identity to be brittle, while others tell their identity story in ways that allow it to be robust.
+
+> *We can’t control the feedback life throws at us, but we can make some specific shifts in assumptions that can improve our ability to take it in, stay balanced, and learn from it.*
+
+### GIVE UP SIMPLE LABELS AND CULTIVATE COMPLEXITY
+* All-or-nothing identities present us with this choice: Either we can exaggerate the feedback, or we can deny it.
+* Here’s the bottom line: As long as you tell your self-story in these black-and-white terms, you will find no peace.
+* With this acceptance comes sadness, but also a kind of balance.
+* No one is perfect, and all things being equal, it’s better not to believe you are—not just because it makes you less likable at parties, but also because it makes it harder for you to learn from feedback.
+
+three things to accept about yourself
+1. You will make mistakes. Accepting the fact that you will make mistakes takes some of the pressure off
+2. you have complex intentions. It may be hard to see or hard to admit. You shouldn’t stop striving to improve, but accepting what “is” can be an enormous relief.
+3. you have contributed to the problem. If we are going to learn from the experience and address the problem, we have to look at the whole picture.
+   - Accepting that we’re not perfect also means giving up the idea that being perfect is a viable way to escape negative feedback.
+
+### SHIFT FROM A FIXED MINDSET TO A GROWTH MINDSET
+
+It’s as if the growth-mindset kids were doing the puzzles in a room called the “Learning Room,” and the fixed-mindset kids were doing the puzzles in a room called the “Testing Room.” 
+
+*People do get better when they apply themselves, and people apply themselves when they believe they can get better.*
+
+those with growth mindsets are “amazingly accurate” in gauging their current abilities, while people with fixed mindsets are “terrible” at estimating their own proficiencies.
+
+*Growth identity folks aren’t thrown by the contradiction and are motivated to seek accurate information in order to adjust and learn.*
+
+growth mindsets... see a shortfall as an opportunity to grow and redouble their efforts as a result.
+
+praising our kids for their intelligence is, surprisingly, counterproductive to their learning.
+> We’re better off extolling their effort if we’re hoping to encourage them to take on new challenges.
+> by focusing on a trait that emphasized the learning process, these kids were just as willing to take risks and take on a challenge.
+
+### MOVE TOWARD A GROWTH IDENTITY
+*  A growth identity is not about whether you get terrific or troubling feedback. It’s about how you hold whatever you get.
+
+PRACTICE #1: SORT TOWARD COACHING
+*  Hear coaching as coaching, and find the coaching in evaluation
+
+PRACTICE #2: UNPACK JUDGMENT FROM THE EVALUATION SUITCASE
+1. *Assessment* ranks you.
+2. *Consequences* are about the real-world outcomes that result from the assessment
+3. *Judgment* is the story givers and receivers tell about the assessment and its consequences
+* By looking at the components of evaluation this way, you can figure out what about a given evaluation is triggering your identity.
+* When evaluated, separate the judgment from assessment and consequences.
+
+PRACTICE #3: GIVE YOURSELF A “SECOND SCORE”
+* After every low score you receive, after each failure and faltering step, give yourself a “second score” based on how you handle the first score.
+* while the initial evaluation may not be fully within your control, your reaction to it usually is.
+* handling it well means having the courage to admit that you need help and asking for it.
+
+-----

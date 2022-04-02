@@ -484,3 +484,54 @@ PRACTICE #3: GIVE YOURSELF A “SECOND SCORE”
 * handling it well means having the courage to admit that you need help and asking for it.
 
 -----
+
+If you can’t say no, then your yeses are not freely chosen.
+
+*Boundaries: The ability to turn down or turn away feedback is critical to healthy relationships and lifelong learning.*
+
+1. I MAY NOT TAKE YOUR ADVICE
+   * I’m willing to listen. I’ll consider your input. But I may not end up taking it.
+2. I DON’T WANT FEEDBACK ABOUT THAT SUBJECT, NOT RIGHT NOW
+   *  There just isn’t anything more to say on the subject, and you don’t have the emotional energy to continue the conversation.
+3. STOP, OR I WILL LEAVE THE RELATIONSHIP
+   * Simply being in the relationship, buffeted by your judgments, is doing damage to my sense of self
+
+DO THEY ATTACK YOUR CHARACTER, NOT JUST YOUR BEHAVIOR?
+
+IS THE FEEDBACK UNRELENTING?
+
+WHEN YOU DO CHANGE, IS THERE ALWAYS ONE MORE DEMAND?
+- Whatever the cause, the effect leaves you in a constant state of not good enough.
+
+DOES THE FEEDBACK GIVER TAKE THE RELATIONSHIP HOSTAGE?
+- People sometimes seek attention by holding the relationship hostage because they don’t have the skills to express their feelings of insecurity, anxiety, or hurt in any other way.
+
+ARE THEY ISSUING WARNINGS—OR MAKING THREATS?
+- **warning**: the other person is giving you information about real consequences so that you can make informed choices.
+- **threat**: induce fear or dependence, to lower self-esteem or confidence, to control or manipulate.
+
+IS IT ALWAYS YOU WHO HAS TO CHANGE?
+
+ARE YOUR VIEWS AND FEELINGS A LEGITIMATE PART OF THE RELATIONSHIP?
+
+### WHERE BOUNDARIES WOULD HELP: SOME COMMON RELATIONSHIP PATTERNS
+THE CONSTANT CRITIC
+HATE-LOVE-HATE RELATIONSHIPS
+RENOVATION RELATIONSHIPS
+
+BE TRANSPARENT: ACTUALLY TELL THEM
+BE FIRM—AND APPRECIATIVE
+REDIRECT UNHELPFUL COACHING
+USE “AND”
+BE SPECIFIC ABOUT YOUR REQUEST
+
+be specific about three things:
+1. The Request.
+2. The Time Frame.
+3. The consequences
+4. Their Assent. 
+
+If you’re not changing, work to mitigate the impact on others.
+* Ask about the impact
+* Coach them to deal with the unchanged you
+* Problem solve together

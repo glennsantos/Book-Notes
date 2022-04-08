@@ -535,3 +535,46 @@ If you’re not changing, work to mitigate the impact on others.
 * Ask about the impact
 * Coach them to deal with the unchanged you
 * Problem solve together
+
+-----
+
+THE ARC OF THE CONVERSATION: OPEN-BODY-CLOSE
+
+**Open**: A critical piece, oddly often skipped when we jump right in without getting aligned: What is the purpose of the conversation?
+1. CLARIFY PURPOSE, CHECK STATUS
+   * Is This Feedback? If So, What Kind? If it is feedback, is it evaluation, coaching, or appreciation? What is your giver’s purpose? 
+   * Who Decides?
+   * Is This Final or Negotiable?
+2. YOU CAN INFLUENCE THE FRAME AND AGENDA\
+   * Can we take a minute to step back so that I’m clear on our purposes?
+   * correcting course up front is about process, not substance.
+
+**Body**: A two-way exchange of information, requiring you to master four main skills: 
+1. listening - asking clarifying questions, paraphrasing the giver’s view, and acknowledging their feelings.
+   * Your internal voice is like a personal assistant whose job it is to make sure no one bothers you
+   * When you’re triggered, your internal voice goes from mere assistant to armed bodyguard.
+   * We are wired for empathy, but only toward those who we believe are behaving well.
+   *  be curious about why we see things so differently.
+   *  Your internal voice gets loud because it wants your attention. If you give it attention, it quiets down
+2. asserting - mix of sharing, advocating, and expressing—in essence, talking
+   * Shift from “I’m Right” to “Here’s What’s Left Out”
+3. managing the conversation process - You are acting as your own referee, stepping outside the conversation, noticing where you and the giver are stuck
+   * You are pausing the action of the conversation to step back and consider how it’s going and how you might correct course
+4. problem solving - Why does this feedback matter, and what should one or both of us do about it? 
+   * Finding possibilities requires two things: attentive listening for the interests behind the feedback, and the ability to generate options that address those interests. 
+   * Positions are what people say they want or demand. 
+   * Interests are the underlying “needs, desires, fears, and concerns” that the stated position intends to satisfy.
+   * Three Sources of Interests Behind Feedback
+          + Their goal is to help you.
+          + Helping themselves and the relationship.
+          + Helping the organization/team/family/someone else. 
+   *  The number one reason we don’t come up with good options is that we simply don’t think to try.
+
+
+**Close**: Here we clarify commitments, action steps, benchmarks, procedural contracts, and follow-up.
+1. Closing with commitment can be as short as a sentence: “I want to think about what you’ve said, and let’s talk tomorrow.”
+2.  The goal is clarity. You should both know where things stand.
+   * Action Plans
+   * Benchmarks and Consequences
+   * Procedural Contracts
+   * New Strategies

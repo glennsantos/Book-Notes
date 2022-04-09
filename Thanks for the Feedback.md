@@ -578,3 +578,20 @@ THE ARC OF THE CONVERSATION: OPEN-BODY-CLOSE
    * Benchmarks and Consequences
    * Procedural Contracts
    * New Strategies
+
+----
+
+Five Ways to Take Action
+
+1. NAME ONE THING
+   * At the end of the day, is there one thing you and the giver (or givers) see as most important for you to work on?
+   * ASK: “WHAT’S ONE THING YOU SEE ME DOING THAT GETS IN MY OWN WAY?”
+   * LISTEN FOR THEMES
+   * ASK WHAT MATTERS TO THEM
+2. TRY SMALL EXPERIMENTS
+   * DON’T DECIDE, EXPERIMENT
+   * Try It On
+   * Try It Out
+3. RIDE OUT THE J CURVE
+   ![](j-curve.png)
+4. COACH YOUR COACH
